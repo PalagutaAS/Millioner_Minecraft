@@ -1,0 +1,890 @@
+{
+  "easy": [
+    {
+      "id": 1,
+      "ru": {
+        "question": "В каком биоме можно найти кактусы?",
+        "answers": [ "Пустыня", "Тайга", "Равнина", "Болото" ]
+      },
+      "en": {
+        "question": "In which biome can cacti be found?",
+        "answers": [ "Desert", "Taiga", "Plain", "Swamp" ]
+      }
+    },
+    {
+      "id": 2,
+      "ru": {
+        "question": "Как называется дружелюбный моб, который дает молоко?",
+        "answers": [ "Корова", "Овца", "Свинья", "Курица" ]
+      },
+      "en": {
+        "question": "What is the name of the friendly mob that gives milk?",
+        "answers": [ "Cow", "Sheep", "Pig", "Chicken" ]
+      }
+    },
+    {
+      "id": 3,
+      "ru": {
+        "question": "Что выпадает при разрушении блока травы?",
+        "answers": [ "Семена пшеницы", "Морковь", "Картофель", "Свекла" ]
+      },
+      "en": {
+        "question": "What drops when breaking a grass block?",
+        "answers": [ "Wheat seeds", "Carrot", "Potato", "Beetroot" ]
+      }
+    },
+    {
+      "id": 4,
+      "ru": {
+        "question": "Какой моб атакует игрока, если на нем нет золотой брони в Нижнем мире?",
+        "answers": [ "Пиглин", "Зоглин", "Ифрит", "Магмовый куб" ]
+      },
+      "en": {
+        "question": "Which mob attacks the player if they are not wearing gold armor in the Nether?",
+        "answers": [ "Piglin", "Zoglin", "Blaze", "Magma Cube" ]
+      }
+    },
+    {
+      "id": 5,
+      "ru": {
+        "question": "В какой структуре можно найти сундук с сокровищами и спаунер мобов?",
+        "answers": [ "Подземелье (Dungeon)", "Деревня", "Храм в пустыне", "Иглу" ]
+      },
+      "en": {
+        "question": "In which structure can you find a treasure chest and a mob spawner?",
+        "answers": [ "Dungeon", "Village", "Desert Temple", "Igloo" ]
+      }
+    },
+    {
+      "id": 6,
+      "ru": {
+        "question": "Какой блок используется для создания карты?",
+        "answers": [ "Бумага и компас", "Бумага и часы", "Бумага и перо", "Бумага и чернильный мешок" ]
+      },
+      "en": {
+        "question": "What items are used to craft a map?",
+        "answers": [ "Paper and compass", "Paper and clock", "Paper and feather", "Paper and ink sac" ]
+      }
+    },
+    {
+      "id": 7,
+      "ru": {
+        "question": "В каком биоме идет снег вместо дождя?",
+        "answers": [ "Тайга", "Пустыня", "Саванна", "Джунгли" ]
+      },
+      "en": {
+        "question": "In which biome does it snow instead of rain?",
+        "answers": [ "Taiga", "Desert", "Savanna", "Jungle" ]
+      }
+    },
+    {
+      "id": 8,
+      "ru": {
+        "question": "Какой моб может быть приручен с помощью кости?",
+        "answers": [ "Волк", "Оцелот", "Лошадь", "Попугай" ]
+      },
+      "en": {
+        "question": "Which mob can be tamed with a bone?",
+        "answers": [ "Wolf", "Ocelot", "Horse", "Parrot" ]
+      }
+    },
+    {
+      "id": 9,
+      "ru": {
+        "question": "Что нужно сделать, чтобы размножить коров?",
+        "answers": [ "Накормить их пшеницей", "Накормить их семенами", "Накормить их яблоками", "Накормить их морковью" ]
+      },
+      "en": {
+        "question": "What do you need to do to breed cows?",
+        "answers": [ "Feed them wheat", "Feed them seeds", "Feed them apples", "Feed them carrots" ]
+      }
+    },
+    {
+      "id": 10,
+      "ru": {
+        "question": "Какой моб живет в воде и может быть пойман ведром?",
+        "answers": [ "Рыба (любая)", "Слизень", "Черепаха", "Дельфин" ]
+      },
+      "en": {
+        "question": "Which mob lives in water and can be caught with a bucket?",
+        "answers": [ "Fish (any)", "Slime", "Turtle", "Dolphin" ]
+      }
+    },
+    {
+      "id": 11,
+      "ru": {
+        "question": "Какой блок можно использовать для создания бесконечного источника воды?",
+        "answers": [ "2 ведра воды (в углублении 2x2)", "1 ведро воды", "3 ведра воды", "4 ведра воды" ]
+      },
+      "en": {
+        "question": "What is needed to create an infinite water source?",
+        "answers": [ "2 water buckets (in a 2x2 hole)", "1 water bucket", "3 water buckets", "4 water buckets" ]
+      }
+    },
+    {
+      "id": 12,
+      "ru": {
+        "question": "Как называется враждебный моб, который стреляет стрелами?",
+        "answers": [ "Скелет", "Зомби", "Крипер", "Паук" ]
+      },
+      "en": {
+        "question": "What is the name of the hostile mob that shoots arrows?",
+        "answers": [ "Skeleton", "Zombie", "Creeper", "Spider" ]
+      }
+    },
+    {
+      "id": 13,
+      "ru": {
+        "question": "В каком биоме естественно спаунятся лисы?",
+        "answers": [ "Тайга", "Пустыня", "Равнина", "Болото" ]
+      },
+      "en": {
+        "question": "In which biome do foxes naturally spawn?",
+        "answers": [ "Taiga", "Desert", "Plain", "Swamp" ]
+      }
+    },
+    {
+      "id": 14,
+      "ru": {
+        "question": "Какой предмет нужен для создания факела?",
+        "answers": [ "Уголь и палка", "Огниво и палка", "Красный камень и палка", "Железо и палка" ]
+      },
+      "en": {
+        "question": "What items are needed to craft a torch?",
+        "answers": [ "Coal and stick", "Flint and steel and stick", "Redstone and stick", "Iron and stick" ]
+      }
+    },
+    {
+      "id": 15,
+      "ru": {
+        "question": "Какой моб появляется из яйца?",
+        "answers": [ "Цыпленок", "Утенок", "Индюк", "Голубь" ]
+      },
+      "en": {
+        "question": "Which mob hatches from an egg?",
+        "answers": [ "Chick", "Duckling", "Turkey", "Pigeon" ]
+      }
+    },
+    {
+      "id": 16,
+      "ru": {
+        "question": "В какой структуре можно найти библиотеку?",
+        "answers": [ "Крепость (Stronghold)", "Деревня", "Храм в джунглях", "Сокровищница" ]
+      },
+      "en": {
+        "question": "In which structure can you find a library?",
+        "answers": [ "Stronghold", "Village", "Jungle Temple", "Buried Treasure" ]
+      }
+    },
+    {
+      "id": 17,
+      "ru": {
+        "question": "Какой блок используется для создания деревянной двери?",
+        "answers": [ "Доски", "Камень", "Железные слитки", "Золотые слитки" ]
+      },
+      "en": {
+        "question": "What block is used to craft a wooden door?",
+        "answers": [ "Planks", "Stone", "Iron ingots", "Gold ingots" ]
+      }
+    },
+    {
+      "id": 18,
+      "ru": {
+        "question": "Какой моб может быть приручен сырой треской или лососем?",
+        "answers": [ "Оцелот", "Волк", "Лошадь", "Попугай" ]
+      },
+      "en": {
+        "question": "Which mob can be tamed with raw cod or salmon?",
+        "answers": [ "Ocelot", "Wolf", "Horse", "Parrot" ]
+      }
+    },
+    {
+      "id": 19,
+      "ru": {
+        "question": "В каком биоме можно найти поляны с большим количеством цветов?",
+        "answers": [ "Равнина", "Пустыня", "Горы", "Болото" ]
+      },
+      "en": {
+        "question": "In which biome can you find fields with many flowers?",
+        "answers": [ "Plain", "Desert", "Mountains", "Swamp" ]
+      }
+    },
+    {
+      "id": 20,
+      "ru": {
+        "question": "Как называется моб, который взрывается при приближении игрока?",
+        "answers": [ "Крипер", "Зомби", "Скелет", "Ведьма" ]
+      },
+      "en": {
+        "question": "What is the name of the mob that explodes when near the player?",
+        "answers": [ "Creeper", "Zombie", "Skeleton", "Witch" ]
+      }
+    }
+  ],
+  "medium": [
+    {
+      "id": 21,
+      "ru": {
+        "question": "В каком биоме можно естественно найти пчел и ульи?",
+        "answers": [ "Цветочный лес", "Пустыня", "Тайга", "Болото" ]
+      },
+      "en": {
+        "question": "In which biome can bees and beehives be found naturally?",
+        "answers": [ "Flower Forest", "Desert", "Taiga", "Swamp" ]
+      }
+    },
+    {
+      "id": 22,
+      "ru": {
+        "question": "Какой моб атакует игрока, если тот смотрит ему в глаза?",
+        "answers": [ "Эндермен", "Зомби", "Скелет", "Крипер" ]
+      },
+      "en": {
+        "question": "Which mob attacks the player if they look it in the eyes?",
+        "answers": [ "Enderman", "Zombie", "Skeleton", "Creeper" ]
+      }
+    },
+    {
+      "id": 23,
+      "ru": {
+        "question": "Как называется крупная структура в океане, состоящая из призмарина и охраняемая Стражами?",
+        "answers": [ "Океанский памятник", "Затонувший корабль", "Подводная крепость", "Подводная пещера" ]
+      },
+      "en": {
+        "question": "What is the large ocean structure made of prismarine and guarded by Guardians?",
+        "answers": [ "Ocean Monument", "Shipwreck", "Underwater Fortress", "Underwater Cave" ]
+      }
+    },
+    {
+      "id": 24,
+      "ru": {
+        "question": "Какой профессии у жителя НЕ существует в ванильной игре?",
+        "answers": [ "Охотник", "Рыбак", "Библиотекарь", "Оружейник" ]
+      },
+      "en": {
+        "question": "Which villager profession does NOT exist in vanilla Minecraft?",
+        "answers": [ "Hunter", "Fisherman", "Librarian", "Weaponsmith" ]
+      }
+    },
+    {
+      "id": 25,
+      "ru": {
+        "question": "В каком биоме можно найти деревья с темной корой и гигантскими грибами?",
+        "answers": [ "Тёмный лес", "Березовый лес", "Джунгли", "Тайга" ]
+      },
+      "en": {
+        "question": "In which biome can you find trees with dark bark and giant mushrooms?",
+        "answers": [ "Dark Forest", "Birch Forest", "Jungle", "Taiga" ]
+      }
+    },
+    {
+      "id": 26,
+      "ru": {
+        "question": "Какой босс может быть вызван с помощью черепа Скелета-иссушителя?",
+        "answers": [ "Иссушитель", "Визер-скелет", "Эндер-дракон", "Гигант" ]
+      },
+      "en": {
+        "question": "Which boss can be summoned using Wither Skeleton skulls?",
+        "answers": [ "Wither", "Wither Skeleton", "Ender Dragon", "Giant" ]
+      }
+    },
+    {
+      "id": 27,
+      "ru": {
+        "question": "В какой структуре можно найти обсидиан, сундуки и пламя в Нижнем мире?",
+        "answers": [ "Крепость Нижнего мира", "Деревня", "Подземелье", "Храм в пустыне" ]
+      },
+      "en": {
+        "question": "In which structure in the Nether can you find obsidian, chests, and blaze spawners?",
+        "answers": [ "Nether Fortress", "Village", "Dungeon", "Desert Temple" ]
+      }
+    },
+    {
+      "id": 28,
+      "ru": {
+        "question": "Какой блок является основой для пирамиды маяка?",
+        "answers": [ "Железный блок", "Алмазный блок", "Золотой блок", "Изумрудный блок" ]
+      },
+      "en": {
+        "question": "Which block can be used as the base for a beacon pyramid?",
+        "answers": [ "Iron Block", "Diamond Block", "Gold Block", "Emerald Block" ]
+      }
+    },
+    {
+      "id": 29,
+      "ru": {
+        "question": "В каком биоме можно найти голубые орхидеи?",
+        "answers": [ "Болото", "Равнина", "Лес", "Горы" ]
+      },
+      "en": {
+        "question": "In which biome can blue orchids be found?",
+        "answers": [ "Swamp", "Plain", "Forest", "Mountains" ]
+      }
+    },
+    {
+      "id": 30,
+      "ru": {
+        "question": "Какой предмет позволяет игроку летать в режиме Выживания?",
+        "answers": [ "Элитры", "Лошадь", "Свинья с седлом", "Лодка" ]
+      },
+      "en": {
+        "question": "Which item allows the player to fly in Survival mode?",
+        "answers": [ "Elytra", "Horse", "Pig with saddle", "Boat" ]
+      }
+    },
+    {
+      "id": 31,
+      "ru": {
+        "question": "Как называется враждебный моб, который появляется в Нижнем мире и стреляет огненными шарами?",
+        "answers": [ "Ифрит", "Зоглин", "Магмовый куб", "Пиглин" ]
+      },
+      "en": {
+        "question": "What is the hostile mob that spawns in the Nether and shoots fireballs?",
+        "answers": [ "Blaze", "Zoglin", "Magma Cube", "Piglin" ]
+      }
+    },
+    {
+      "id": 32,
+      "ru": {
+        "question": "В какой структуре можно найти портал в Край?",
+        "answers": [ "Крепость (Stronghold)", "Деревня", "Храм в пустыне", "Иглу" ]
+      },
+      "en": {
+        "question": "In which structure can you find the End portal?",
+        "answers": [ "Stronghold", "Village", "Desert Temple", "Igloo" ]
+      }
+    },
+    {
+      "id": 33,
+      "ru": {
+        "question": "Какой предмет нужен для варки зелий?",
+        "answers": [ "Варочная стойка", "Верстак", "Наковальня", "Стол зачаровывания" ]
+      },
+      "en": {
+        "question": "What block is needed to brew potions?",
+        "answers": [ "Brewing Stand", "Crafting Table", "Anvil", "Enchanting Table" ]
+      }
+    },
+    {
+      "id": 34,
+      "ru": {
+        "question": "В каком биоме вода замерзает, образуя лед?",
+        "answers": [ "Замерзшая река", "Пустыня", "Саванна", "Джунгли" ]
+      },
+      "en": {
+        "question": "In which biome does water freeze into ice?",
+        "answers": [ "Frozen River", "Desert", "Savanna", "Jungle" ]
+      }
+    },
+    {
+      "id": 35,
+      "ru": {
+        "question": "Какой моб может быть приручен сладкими ягодами?",
+        "answers": [ "Лиса", "Волк", "Медведь", "Кролик" ]
+      },
+      "en": {
+        "question": "Which mob can be tamed with sweet berries?",
+        "answers": [ "Fox", "Wolf", "Bear", "Rabbit" ]
+      }
+    },
+    {
+      "id": 36,
+      "ru": {
+        "question": "Как называется структура в пустыне, содержащая ловушки и скрытые сундуки?",
+        "answers": [ "Храм в пустыне", "Деревня в пустыне", "Крепость", "Подземелье" ]
+      },
+      "en": {
+        "question": "What is the structure in the desert that contains traps and hidden chests?",
+        "answers": [ "Desert Temple", "Desert Village", "Stronghold", "Dungeon" ]
+      }
+    },
+    {
+      "id": 37,
+      "ru": {
+        "question": "Какой блок является ключевым для создания Сердец моря?",
+        "answers": [ "Сердце моря (это предмет)", "Призмарин", "Морской фонарь", "Влажный губчатый блок" ]
+      },
+      "en": {
+        "question": "Which item is key to crafting conduits?",
+        "answers": [ "Heart of the Sea", "Prismarine", "Sea Lantern", "Wet Sponge" ]
+      }
+    },
+    {
+      "id": 38,
+      "ru": {
+        "question": "В каком уникальном биоме спаунятся грибные коровы?",
+        "answers": [ "Грибной остров", "Равнина", "Лес", "Горы" ]
+      },
+      "en": {
+        "question": "In which unique biome do mooshrooms spawn?",
+        "answers": [ "Mushroom Fields", "Plain", "Forest", "Mountains" ]
+      }
+    },
+    {
+      "id": 39,
+      "ru": {
+        "question": "Какой моб может носить сундук и использоваться для перевозки грузов?",
+        "answers": [ "Лама", "Лошадь", "Осел", "Свинья" ]
+      },
+      "en": {
+        "question": "Which mob can wear a chest and be used to carry items?",
+        "answers": [ "Llama", "Horse", "Donkey", "Pig" ]
+      }
+    },
+    {
+      "id": 40,
+      "ru": {
+        "question": "Как называется структура в джунглях, содержащая ловушки, красный камень и сундуки?",
+        "answers": [ "Храм в джунглях", "Деревня в джунглях", "Крепость", "Подземелье" ]
+      },
+      "en": {
+        "question": "What is the structure in the jungle that contains traps, redstone, and chests?",
+        "answers": [ "Jungle Temple", "Jungle Village", "Stronghold", "Dungeon" ]
+      }
+    }
+  ],
+  "hard": [
+    {
+      "id": 41,
+      "ru": {
+        "question": "В каком биоме можно найти редкий цветок – синюю орхидею?",
+        "answers": [ "Болото", "Цветочный лес", "Тайга", "Равнина" ]
+      },
+      "en": {
+        "question": "In which biome can the rare blue orchid be found?",
+        "answers": [ "Swamp", "Flower Forest", "Taiga", "Plain" ]
+      }
+    },
+    {
+      "id": 42,
+      "ru": {
+        "question": "Какой моб может быть вызван игроком с помощью определенных предметов?",
+        "answers": [ "Железный голем", "Визер-скелет", "Эндер-дракон", "Гигант" ]
+      },
+      "en": {
+        "question": "Which mob can be spawned by the player using specific items?",
+        "answers": [ "Iron Golem", "Wither Skeleton", "Ender Dragon", "Giant" ]
+      }
+    },
+    {
+      "id": 43,
+      "ru": {
+        "question": "В какой структуре можно найти комнату с уже активированным порталом в Нижний мир?",
+        "answers": [ "Руины портала", "Деревня", "Крепость", "Иглу" ]
+      },
+      "en": {
+        "question": "In which structure can you find a room with an already activated Nether portal?",
+        "answers": [ "Ruined Portal", "Village", "Stronghold", "Igloo" ]
+      }
+    },
+    {
+      "id": 44,
+      "ru": {
+        "question": "Какая профессия жителя позволяет покупать зачарованные книги?",
+        "answers": [ "Библиотекарь", "Оружейник", "Торговец картами", "Кожевник" ]
+      },
+      "en": {
+        "question": "Which villager profession allows you to buy enchanted books?",
+        "answers": [ "Librarian", "Weaponsmith", "Cartographer", "Leatherworker" ]
+      }
+    },
+    {
+      "id": 45,
+      "ru": {
+        "question": "В каком биоме можно найти редкий блок – мицелий?",
+        "answers": [ "Грибной остров", "Болото", "Лес", "Горы" ]
+      },
+      "en": {
+        "question": "In which biome can the rare block mycelium be found?",
+        "answers": [ "Mushroom Fields", "Swamp", "Forest", "Mountains" ]
+      }
+    },
+    {
+      "id": 46,
+      "ru": {
+        "question": "Какой моб может быть использован для ускорения плавания игрока?",
+        "answers": [ "Дельфин", "Черепаха", "Рыба", "Кальмар" ]
+      },
+      "en": {
+        "question": "Which mob can be used to increase the player's swimming speed?",
+        "answers": [ "Dolphin", "Turtle", "Fish", "Squid" ]
+      }
+    },
+    {
+      "id": 47,
+      "ru": {
+        "question": "Как называется структура, которая генерируется в снежном биоме и содержит жителя-бездомного и зомби-жителя?",
+        "answers": [ "Иглу с подвалом", "Деревня в тундре", "Крепость", "Подземелье" ]
+      },
+      "en": {
+        "question": "What is the structure that generates in snowy biomes and contains a nitwit villager and a zombie villager?",
+        "answers": [ "Igloo with basement", "Snowy Tundra Village", "Stronghold", "Dungeon" ]
+      }
+    },
+    {
+      "id": 48,
+      "ru": {
+        "question": "Какой блок используется для создания Якоря возрождения?",
+        "answers": [ "Плачущий обсидиан", "Обсидиан", "Магма-блок", "Незерраковая руда" ]
+      },
+      "en": {
+        "question": "Which block is used to craft a Respawn Anchor?",
+        "answers": [ "Crying Obsidian", "Obsidian", "Magma Block", "Netherrack" ]
+      }
+    },
+    {
+      "id": 49,
+      "ru": {
+        "question": "В каком биоме можно найти редкое дерево – темный дуб?",
+        "answers": [ "Тёмный лес", "Березовый лес", "Джунгли", "Тайга" ]
+      },
+      "en": {
+        "question": "In which biome can the rare dark oak tree be found?",
+        "answers": [ "Dark Forest", "Birch Forest", "Jungle", "Taiga" ]
+      }
+    },
+    {
+      "id": 50,
+      "ru": {
+        "question": "Какой моб может быть создан игроком для защиты от враждебных мобов?",
+        "answers": [ "Снежный голем", "Визер-скелет", "Эндермен", "Ифрит" ]
+      },
+      "en": {
+        "question": "Which mob can be created by the player to defend against hostile mobs?",
+        "answers": [ "Snow Golem", "Wither Skeleton", "Enderman", "Blaze" ]
+      }
+    },
+    {
+      "id": 51,
+      "ru": {
+        "question": "Как называется крупная, опасная структура в Нижнем мире, состоящая из черного камня и содержащая пиглинов-брутов?",
+        "answers": [ "Бастион", "Крепость Нижнего мира", "Руины портала", "Лавовое озеро" ]
+      },
+      "en": {
+        "question": "What is the large, dangerous structure in the Nether made of blackstone that contains piglin brutes?",
+        "answers": [ "Bastion", "Nether Fortress", "Ruined Portal", "Lava Lake" ]
+      }
+    },
+    {
+      "id": 52,
+      "ru": {
+        "question": "Какой предмет нужен для создания Звезды Края?",
+        "answers": [ "Слезы Гаста", "Звезда Нижнего мира", "Алмаз", "Изумруд" ]
+      },
+      "en": {
+        "question": "What item is needed to craft an End Crystal?",
+        "answers": [ "Ghast Tear", "Nether Star", "Diamond", "Emerald" ]
+      }
+    },
+    {
+      "id": 53,
+      "ru": {
+        "question": "В каком биоме можно найти редкий блок – подзол?",
+        "answers": [ "Гигантская еловая тайга", "Болото", "Лес", "Горы" ]
+      },
+      "en": {
+        "question": "In which biome can the rare block podzol be found?",
+        "answers": [ "Giant Spruce Taiga", "Swamp", "Forest", "Mountains" ]
+      }
+    },
+    {
+      "id": 54,
+      "ru": {
+        "question": "Какой моб может быть использован для создания бесконечного источника стрел?",
+        "answers": [ "Скелет", "Зомби", "Крипер", "Ведьма" ]
+      },
+      "en": {
+        "question": "Which mob can be used to create an infinite arrow source?",
+        "answers": [ "Skeleton", "Zombie", "Creeper", "Witch" ]
+      }
+    },
+    {
+      "id": 55,
+      "ru": {
+        "question": "Как называется структура, которая генерируется в океане и содержит сундук с картой сокровищ?",
+        "answers": [ "Затонувший корабль", "Подводная крепость", "Океанский памятник", "Руины" ]
+      },
+      "en": {
+        "question": "What is the structure that generates in oceans and contains a chest with a treasure map?",
+        "answers": [ "Shipwreck", "Underwater Fortress", "Ocean Monument", "Ruins" ]
+      }
+    },
+    {
+      "id": 56,
+      "ru": {
+        "question": "Какой блок используется для создания полной пирамиды маяка максимального уровня?",
+        "answers": [ "164 блока из железа, золота, изумруда, алмаза или незерита", "100 блоков камня", "200 блоков стекла", "50 блоков обсидиана" ]
+      },
+      "en": {
+        "question": "How many blocks are needed for a full pyramid to power a beacon to maximum level?",
+        "answers": [ "164 blocks of iron, gold, emerald, diamond, or netherite", "100 stone blocks", "200 glass blocks", "50 obsidian blocks" ]
+      }
+    },
+    {
+      "id": 57,
+      "ru": {
+        "question": "В каком биоме можно найти редкий цветок – ландыш?",
+        "answers": [ "Лес", "Тайга", "Равнина", "Болото" ]
+      },
+      "en": {
+        "question": "In which biome can the rare lily of the valley be found?",
+        "answers": [ "Forest", "Taiga", "Plain", "Swamp" ]
+      }
+    },
+    {
+      "id": 58,
+      "ru": {
+        "question": "Какой моб может быть использован для быстрого перемещения по льду?",
+        "answers": [ "Лодка", "Лошадь", "Свинья со слизневым блоком", "Корабль" ]
+      },
+      "en": {
+        "question": "What can be used for fast travel on ice?",
+        "answers": [ "Boat", "Horse", "Pig with slime block", "Ship" ]
+      }
+    },
+    {
+      "id": 59,
+      "ru": {
+        "question": "Как называется структура, которая генерируется в Нижнем мире и содержит множество золотых блоков и пиглинов?",
+        "answers": [ "Бастион", "Крепость Нижнего мира", "Руины портала", "Лавовое озеро" ]
+      },
+      "en": {
+        "question": "What is the structure that generates in the Nether and contains many gold blocks and piglins?",
+        "answers": [ "Bastion", "Nether Fortress", "Ruined Portal", "Lava Lake" ]
+      }
+    },
+    {
+      "id": 60,
+      "ru": {
+        "question": "Какой предмет нужен для создания зелья регенерации?",
+        "answers": [ "Огненный порошок", "Светопыль", "Глаз паука", "Слеза гаста" ]
+      },
+      "en": {
+        "question": "What item is needed to brew a Potion of Regeneration?",
+        "answers": [ "Ghast Tear", "Glowstone Dust", "Spider Eye", "Blaze Powder" ]
+      }
+    }
+  ],
+  "very_hard": [
+    {
+      "id": 61,
+      "ru": {
+        "question": "В каком биоме можно найти редкий блок – голубой лед?",
+        "answers": [ "Замерзший океан", "Тайга", "Горы", "Болото" ]
+      },
+      "en": {
+        "question": "In which biome can the rare block blue ice be found?",
+        "answers": [ "Frozen Ocean", "Taiga", "Mountains", "Swamp" ]
+      }
+    },
+    {
+      "id": 62,
+      "ru": {
+        "question": "Какой моб может быть призван с помощью определенного чарования на трискеле?",
+        "answers": [ "Нет такого моба", "Визер-скелет", "Иссушитель", "Эндер-дракон" ]
+      },
+      "en": {
+        "question": "Which mob can be summoned with a specific enchantment on a trident?",
+        "answers": [ "No such mob", "Wither Skeleton", "Wither", "Ender Dragon" ]
+      }
+    },
+    {
+      "id": 63,
+      "ru": {
+        "question": "В какой структуре можно найти комнату с драгоценными блоками и спаунером мобов в Нижнем мире?",
+        "answers": [ "Бастион", "Крепость Нижнего мира", "Руины портала", "Лавовое озеро" ]
+      },
+      "en": {
+        "question": "In which structure in the Nether can you find a room with precious blocks and a mob spawner?",
+        "answers": [ "Bastion", "Nether Fortress", "Ruined Portal", "Lava Lake" ]
+      }
+    },
+    {
+      "id": 64,
+      "ru": {
+        "question": "Какая профессия жителя позволяет покупать зачарованные алмазные инструменты?",
+        "answers": [ "Оружейник", "Библиотекарь", "Торговец картами", "Кожевник" ]
+      },
+      "en": {
+        "question": "Which villager profession allows you to buy enchanted diamond tools?",
+        "answers": [ "Weaponsmith", "Librarian", "Cartographer", "Leatherworker" ]
+      }
+    },
+    {
+      "id": 65,
+      "ru": {
+        "question": "В каком биоме можно найти редкий цветок – венчик розового куста?",
+        "answers": [ "Цветочный лес", "Лес", "Тайга", "Равнина" ]
+      },
+      "en": {
+        "question": "In which biome can the rare rose bush be found?",
+        "answers": [ "Flower Forest", "Forest", "Taiga", "Plain" ]
+      }
+    },
+    {
+      "id": 66,
+      "ru": {
+        "question": "Какой моб может быть приручен и использован для атаки на других мобов с помощью красного камня?",
+        "answers": [ "Железный голем", "Снежный голем", "Волк", "Оцелот" ]
+      },
+      "en": {
+        "question": "Which mob can be tamed and used to attack other mobs using redstone?",
+        "answers": [ "Iron Golem", "Snow Golem", "Wolf", "Ocelot" ]
+      }
+    },
+    {
+      "id": 67,
+      "ru": {
+        "question": "Как называется структура, которая генерируется в Краю и содержит множество шалкеров?",
+        "answers": [ "Энд-город", "Энд-корабль", "Энд-порталы", "Энд-остров" ]
+      },
+      "en": {
+        "question": "What is the structure that generates in the End and contains many shulkers?",
+        "answers": [ "End City", "End Ship", "End Portals", "End Island" ]
+      }
+    },
+    {
+      "id": 68,
+      "ru": {
+        "question": "Какой блок используется для создания Якоря возрождения в Нижнем мире?",
+        "answers": [ "Плачущий обсидиан", "Обсидиан", "Магма-блок", "Незерраковая руда" ]
+      },
+      "en": {
+        "question": "Which block is used to craft a Respawn Anchor in the Nether?",
+        "answers": [ "Crying Obsidian", "Obsidian", "Magma Block", "Netherrack" ]
+      }
+    },
+    {
+      "id": 69,
+      "ru": {
+        "question": "В каком биоме можно найти редкий блок – каменный уголь (угольная руда)?",
+        "answers": [ "Горы", "Тайга", "Лес", "Болото" ]
+      },
+      "en": {
+        "question": "In which biome can the rare block coal ore be found? (trick: it generates everywhere, but mountains are most common)",
+        "answers": [ "Mountains", "Taiga", "Forest", "Swamp" ]
+      }
+    },
+    {
+      "id": 70,
+      "ru": {
+        "question": "Какой моб может быть призван с помощью яйца призыва в креативе?",
+        "answers": [ "Эндер-дракон", "Визер-скелет", "Иссушитель", "Гигант" ]
+      },
+      "en": {
+        "question": "Which mob can be summoned with a spawn egg in Creative mode?",
+        "answers": [ "Ender Dragon", "Wither Skeleton", "Wither", "Giant" ]
+      }
+    },
+    {
+      "id": 71,
+      "ru": {
+        "question": "Как называется структура, которая генерируется в океане и содержит призмариновые блоки и золотые блоки?",
+        "answers": [ "Океанский памятник", "Затонувший корабль", "Подводная крепость", "Руины" ]
+      },
+      "en": {
+        "question": "What is the structure that generates in oceans and contains prismarine blocks and gold blocks?",
+        "answers": [ "Ocean Monument", "Shipwreck", "Underwater Fortress", "Ruins" ]
+      }
+    },
+    {
+      "id": 72,
+      "ru": {
+        "question": "Какой предмет нужен для создания зелья медленного падения?",
+        "answers": [ "Перо", "Огненный порошок", "Светопыль", "Глаз паука" ]
+      },
+      "en": {
+        "question": "What item is needed to brew a Potion of Slow Falling?",
+        "answers": [ "Phantom Membrane", "Blaze Powder", "Glowstone Dust", "Spider Eye" ]
+      }
+    },
+    {
+      "id": 73,
+      "ru": {
+        "question": "В каком биоме можно найти редкий цветок – подсолнух?",
+        "answers": [ "Подсолнечная равнина", "Лес", "Тайга", "Болото" ]
+      },
+      "en": {
+        "question": "In which biome can the rare sunflower be found?",
+        "answers": [ "Sunflower Plains", "Forest", "Taiga", "Swamp" ]
+      }
+    },
+    {
+      "id": 74,
+      "ru": {
+        "question": "Какой моб может быть использован для поиска сокровищ?",
+        "answers": [ "Свинья-единорог (нет в игре)", "Дельфин", "Лиса", "Кролик" ]
+      },
+      "en": {
+        "question": "Which mob can be used to find buried treasure?",
+        "answers": [ "Unicorn pig (not in game)", "Dolphin", "Fox", "Rabbit" ]
+      }
+    },
+    {
+      "id": 75,
+      "ru": {
+        "question": "Как называется структура, которая генерируется в пустыне и содержит скрытые комнаты с сокровищами?",
+        "answers": [ "Храм в пустыне", "Деревня в пустыне", "Крепость", "Подземелье" ]
+      },
+      "en": {
+        "question": "What is the structure that generates in deserts and contains hidden rooms with treasure?",
+        "answers": [ "Desert Temple", "Desert Village", "Stronghold", "Dungeon" ]
+      }
+    },
+    {
+      "id": 76,
+      "ru": {
+        "question": "Какой блок используется для создания маяка максимального уровня?",
+        "answers": [ "164 блока из железа, золота, изумруда, алмаза или незерита", "100 блоков", "200 блоков", "50 блоков" ]
+      },
+      "en": {
+        "question": "How many blocks are needed for a max level beacon pyramid?",
+        "answers": [ "164 blocks of iron, gold, emerald, diamond, or netherite", "100 blocks", "200 blocks", "50 blocks" ]
+      }
+    },
+    {
+      "id": 77,
+      "ru": {
+        "question": "В каком биоме можно найти редкий блок – красный песок?",
+        "answers": [ "Меза", "Пустыня", "Саванна", "Болото" ]
+      },
+      "en": {
+        "question": "In which biome can the rare block red sand be found?",
+        "answers": [ "Badlands", "Desert", "Savanna", "Swamp" ]
+      }
+    },
+    {
+      "id": 78,
+      "ru": {
+        "question": "Какой моб может быть призван с помощью командного блока?",
+        "answers": [ "Любой моб", "Только враждебные мобы", "Только дружелюбные мобы", "Только нейтральные мобы" ]
+      },
+      "en": {
+        "question": "Which mob can be summoned using a command block?",
+        "answers": [ "Any mob", "Only hostile mobs", "Only friendly mobs", "Only neutral mobs" ]
+      }
+    },
+    {
+      "id": 79,
+      "ru": {
+        "question": "Как называется структура, которая генерируется в аду и содержит древние обломки?",
+        "answers": [ "Бастион", "Крепость Нижнего мира", "Руины портала", "Лавовое озеро" ]
+      },
+      "en": {
+        "question": "What is the structure that generates in the Nether and contains ancient debris?",
+        "answers": [ "Bastion", "Nether Fortress", "Ruined Portal", "Lava Lake" ]
+      }
+    },
+    {
+      "id": 80,
+      "ru": {
+        "question": "Какой предмет нужен для создания зелья невидимости?",
+        "answers": [ "Золотая морковь и ферментированный глаз паука", "Огненный порошок", "Светопыль", "Слеза гаста" ]
+      },
+      "en": {
+        "question": "What item is needed to brew a Potion of Invisibility?",
+        "answers": [ "Golden Carrot and Fermented Spider Eye", "Blaze Powder", "Glowstone Dust", "Ghast Tear" ]
+      }
+    }
+  ]
+}
