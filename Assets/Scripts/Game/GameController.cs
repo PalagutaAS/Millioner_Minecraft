@@ -212,14 +212,10 @@ public class GameController
         bool correct = _currentQuestion.IsCorrect(answerIndex);
         _gameUI.HighlightAnswer(correctIdx, AnswerHighlightType.Correct);
 
-        if (!correct)
-        {
-            _audioManager.PlayWrong();
-        }
-        else
-        {
+        if (correct)
             _audioManager.PlayCorrect();
-        }
+        else
+            _audioManager.PlayWrong();
 
         await UniTask.Delay(TimeSpan.FromSeconds(_config.ResultDisplayDuration));
 
@@ -275,10 +271,13 @@ public class GameController
 
     private int GetSafeAmount()
     {
-        if (_currentQuestionNumber >= 15) return _config.SafeAmountQ15;
-        if (_currentQuestionNumber >= 10) return _config.SafeAmountQ10;
-        if (_currentQuestionNumber >= 5) return _config.SafeAmountQ5;
-        return 0;
+        //NOTE: readability over memory — LINQ для поиска максимального индекса
+        int bestIndex = _config.SafeAmountIndices
+            .Where(i => _currentQuestionNumber > i)
+            .DefaultIfEmpty(-1)
+            .Max();
+
+        return bestIndex >= 0 ? _config.PrizeAmounts[bestIndex] : 0;
     }
 
     private void HandleHintClicked(HintType type)

@@ -12,10 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a42bf0cd7687aad4cba5bd8a61f70a26, type: 3}
   m_Name: GameConfig
   m_EditorClassIdentifier: 
-  _prizeAmounts: e8030000d0070000a00f0000581b000010270000204e0000b888000050c30000f8240100a0860100c0d40100e02202000071020020bf0200400d0300383204003057050020a10700b0710b0040420f00
-  _safeAmountQ5: 10000
-  _safeAmountQ10: 100000
-  _safeAmountQ15: 500000
+  _prizeAmounts: e8030000d0070000a00f0000581b000010270000983a0000f0550000007d0000c8af0000e8fd0000905f0100c0d401000071020050340300c0450400407e0500e0040700a0d90800b0710b0040420f00
+  _safeAmountIndices: 04000000090000000e00000013000000
   _introDuration: 1
   _answerRevealDelay: 1.5
   _resultDisplayDuration: 1.5
@@ -23,9 +21,7 @@ MonoBehaviour:
   _defaultAnswerColor: {r: 0, g: 0.14063296, b: 0.8301887, a: 1}
   _highlightColor: {r: 0.51428443, g: 0.7327805, b: 0.8584906, a: 1}
   _selectedColor: {r: 0.9, g: 0.7, b: 0.1, a: 1}
-  _correctColor: {r: 0.2, g: 0.8, b: 0.2, a: 1}
   _textColor: {r: 0.9150943, g: 0.9150943, b: 0.9150943, a: 1}
-  _blackTextColor: {r: 0.1, g: 0.1, b: 0.1, a: 1}
   _defaultSprite: {fileID: -1754970863, guid: b4ffc87969ebab74e972fc58b8470224, type: 3}
   _correctSprite: {fileID: 1497726840, guid: b4ffc87969ebab74e972fc58b8470224, type: 3}
   _selectedSprite: {fileID: 701664585, guid: b4ffc87969ebab74e972fc58b8470224, type: 3}

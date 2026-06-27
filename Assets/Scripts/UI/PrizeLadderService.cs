@@ -18,11 +18,10 @@ public class PrizeLadderService : MonoBehaviour
         for (int i = 0; i < d.Length; i++)
         {
             if (_rows[i].Text != null && i < _gmConfig.PrizeAmounts.Length)
+            {
                 _rows[i].Text.text = _gmConfig.PrizeAmounts[i].ToString("N0");
+            }
         }
-
-        var color = _gmConfig.DefaultAnswerColor;
-        _background.color = new Color(color.r, color.g, color.b, 0.8f);
     }
 
     public void SetHighlightedRow(int index)
@@ -30,9 +29,26 @@ public class PrizeLadderService : MonoBehaviour
         for (int i = 0; i < _rows.Length; i++)
         {
             if (_rows[i].Image == null) continue;
-            _rows[i].Image.color = i == index ? _gmConfig.SelectedColor : _inactiveColor;
+            _rows[i].Image.color = _inactiveColor;
             _rows[i].PointImage.gameObject.SetActive(i < index);
+            foreach (int amountIndex in _gmConfig.SafeAmountIndices)
+            {
+                if (amountIndex == i && index != i)
+                {
+                    _rows[i].Text.color = _gmConfig.SelectedColor;
+                }
+            }
         }
+        
+        foreach (int amountIndex in _gmConfig.SafeAmountIndices)
+        {
+            if(index == amountIndex)
+            {
+                _rows[index].Text.color = _gmConfig.TextColor;
+            }
+        }
+        
+        _rows[index].Image.color = _gmConfig.SelectedColor;
     }
 
     public void ResetAll()

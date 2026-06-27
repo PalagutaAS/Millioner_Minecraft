@@ -1,3 +1,4 @@
+using System.Linq;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "GameConfig", menuName = "Game/GameConfig")]
@@ -13,9 +14,7 @@ public class GameConfig : ScriptableObject
     };
 
     [Header("Safe Amounts")]
-    [SerializeField] private int _safeAmountQ5 = 10000;
-    [SerializeField] private int _safeAmountQ10 = 100000;
-    [SerializeField] private int _safeAmountQ15 = 500000;
+    [SerializeField] private int[] _safeAmountIndices = new[] { 4, 9, 14 };
 
     [Header("Timings")]
     [SerializeField] private float _introDuration = 2.5f;
@@ -47,9 +46,7 @@ public class GameConfig : ScriptableObject
     public int QuestionsToWin => _prizeAmounts.Length;
     public int[] PrizeAmounts => _prizeAmounts;
 
-    public int SafeAmountQ5 => _safeAmountQ5;
-    public int SafeAmountQ10 => _safeAmountQ10;
-    public int SafeAmountQ15 => _safeAmountQ15;
+    public int[] SafeAmountIndices => _safeAmountIndices;
 
     public float IntroDuration => _introDuration;
     public float AnswerRevealDelay => _answerRevealDelay;
