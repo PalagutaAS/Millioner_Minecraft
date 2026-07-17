@@ -40,6 +40,7 @@ public class SaveService
         //PlayerPrefs.SetString(_config.SaveKey, JsonUtility.ToJson(Data));
         //PlayerPrefs.Save();
         YG2.saves.progress = JsonUtility.ToJson(Data);
+        YG2.SetLeaderboard("amountWon", Data.wallet);
         YG2.SaveProgress();
     }
 
@@ -48,8 +49,7 @@ public class SaveService
         Data = new SaveData();
         //PlayerPrefs.DeleteKey(_config.SaveKey);
         //PlayerPrefs.Save();
-        YG2.saves.progress = JsonUtility.ToJson(Data);
-        YG2.SaveProgress();
+        Save();
     }
 
     public void SaveLanguage(string lang)

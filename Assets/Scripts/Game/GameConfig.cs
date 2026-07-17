@@ -1,4 +1,3 @@
-using System.Linq;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "GameConfig", menuName = "Game/GameConfig")]
@@ -32,8 +31,7 @@ public class GameConfig : ScriptableObject
     [SerializeField] private Sprite _defaultSprite;
     [SerializeField] private Sprite _correctSprite;
     [SerializeField] private Sprite _selectedSprite;
-
-
+    
     [Header("Save Keys")]
     [SerializeField] private string _saveKey = "game_save";
     [SerializeField] private string _languageKey = "game_language";
@@ -42,6 +40,9 @@ public class GameConfig : ScriptableObject
     [Header("Language")]
     [SerializeField] private string _defaultLanguage = "ru";
     [SerializeField] private string[] _availableLanguages = { "ru", "en" };
+    
+    [Header("YG")]
+    [SerializeField]private string _rewardAd;
 
     public int QuestionsToWin => _prizeAmounts.Length;
     public int[] PrizeAmounts => _prizeAmounts;
@@ -68,4 +69,5 @@ public class GameConfig : ScriptableObject
 
     public string DefaultLanguage => _defaultLanguage;
     public string[] AvailableLanguages => _availableLanguages;
+    public string RewardID => _rewardAd;
 }

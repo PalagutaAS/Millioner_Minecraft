@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Cysharp.Threading.Tasks;
 using UnityEngine;
+using YG;
 using Random = UnityEngine.Random;
 
 public enum GameState { Idle, Intro, QuestionActive, AnswerLocked, GameOver, GameWon }
@@ -27,6 +28,7 @@ public class GameController
     private bool _fiftyFiftyUsed, _audienceHelpUsed, _phoneFriendUsed, _replaceQuestionUsed;
     private readonly bool[] _activeAnswers = new bool[4];
     private CurrentQuestion _currentQuestion;
+    private RewardedAD _rewardedAD;
 
     public GameState State { get; private set; } = GameState.Idle;
 
@@ -38,7 +40,8 @@ public class GameController
         MenuUI menuUI,
         HintPopupUI hintPopupUI,
         PrizeLadderService prizeLadder,
-        GameConfig config)
+        GameConfig config,
+        RewardedAD rewardedAD)
     {
         _questionBank = questionBank.CurrentBank;
         _saveService = saveService;
@@ -49,6 +52,7 @@ public class GameController
         _prizeLadder = prizeLadder;
         _config = config;
         _currentLanguage = saveService.LoadLanguage();
+        _rewardedAD = rewardedAD;
     }
 
     public void Initialize()
@@ -63,9 +67,8 @@ public class GameController
 
         _hintPopupUI.OnPopupClosed += HandlePopupClosed;
 
-        _gameUI.Initialize(_config);
+        _gameUI.Initialize(_config, _saveService);
         _gameUI.HideQuestionPanel();
-        _gameUI.SetWalletText(_saveService.Data.wallet);
         _prizeLadder.ResetAll();
     }
 
@@ -80,7 +83,6 @@ public class GameController
         State = GameState.Intro;
         _gameUI.ShowGamePanel();
         _gameUI.HideQuestionPanel();
-        _gameUI.ClearResultText();
         _gameUI.HideResultText();
         _menuUI.HidePlayButton();
         _audioManager.PlayIntro();
@@ -242,7 +244,6 @@ public class GameController
 
             _gameUI.HideQuestionPanel();
             _gameUI.ShowGamePanel();
-            _gameUI.SetWalletText(_saveService.Data.wallet);
             _gameUI.SetResultText(false, safe);
             _audioManager.PlayGameOver();
             State = GameState.GameOver;
@@ -260,7 +261,6 @@ public class GameController
         _saveService.Save();
 
         _gameUI.HideQuestionPanel();
-        _gameUI.SetWalletText(_saveService.Data.wallet);
         _gameUI.SetResultText(true, prize);
         _audioManager.PlayWin();
         State = GameState.GameWon;
@@ -296,7 +296,7 @@ public class GameController
                 UsePhoneFriend();
                 break;
             case HintType.ReplaceQuestion when !_replaceQuestionUsed:
-                UseReplaceQuestion();
+                _rewardedAD.RewardedAdvShow(UseReplaceQuestion);
                 break;
         }
     }
@@ -332,33 +332,24 @@ public class GameController
         _audienceHelpUsed = true;
 
         //NOTE: readability over memory — генерация случайных значений для слайдеров
-        var vals = new float[4];
-        var activeIndices = new List<int>();
+        var vals = new int[4];
+        int sum = 0;
 
         for (int i = 0; i < 4; i++)
         {
-            if (_activeAnswers[i])
-                activeIndices.Add(i);
-        }
-
-        if (activeIndices.Count == 0) return;
-
-        float correct = Random.Range(38f, 65f);
-        float remaining = 100f - correct;
-        vals[_currentQuestion.CorrectIndex] = correct;
-
-        float sum = 0;
-        int placed = 0;
-        int otherCount = activeIndices.Count - 1;
-
-        foreach (int i in activeIndices)
-        {
             if (i == _currentQuestion.CorrectIndex) continue;
-            placed++;
-            float maxVal = remaining - sum - (otherCount - placed) * 2f;
-            vals[i] = placed == otherCount ? remaining - sum : Random.Range(2f, Mathf.Max(3f, maxVal));
+            
+            vals[i] = Random.Range(3, 20);
+            
+            if (!_activeAnswers[i])
+            {
+                vals[_currentQuestion.CorrectIndex] += vals[i];
+                vals[i] = 0;
+            }
             sum += vals[i];
         }
+
+        vals[_currentQuestion.CorrectIndex] += (100 - vals[_currentQuestion.CorrectIndex]) - sum;
 
         _hintPopupUI.ShowAudienceHelp(vals);
         _audioManager.PlayAudienceMurmur();
@@ -425,7 +416,6 @@ public class GameController
     private void ReturnToMenu()
     {
         _gameUI.HideQuestionPanel();
-        _gameUI.SetWalletText(_saveService.Data.wallet);
         _menuUI.ShowPlayButton();
         State = GameState.Idle;
     }

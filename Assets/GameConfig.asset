@@ -19,7 +19,7 @@ MonoBehaviour:
   _resultDisplayDuration: 1.5
   _endGameDelay: 3
   _defaultAnswerColor: {r: 0, g: 0.14063296, b: 0.8301887, a: 1}
-  _highlightColor: {r: 0.51428443, g: 0.7327805, b: 0.8584906, a: 1}
+  _highlightColor: {r: 0.6320754, g: 0.6320754, b: 0.6320754, a: 1}
   _selectedColor: {r: 0.9, g: 0.7, b: 0.1, a: 1}
   _textColor: {r: 0.9150943, g: 0.9150943, b: 0.9150943, a: 1}
   _defaultSprite: {fileID: -1754970863, guid: b4ffc87969ebab74e972fc58b8470224, type: 3}
@@ -32,3 +32,4 @@ MonoBehaviour:
   _availableLanguages:
   - ru
   - en
+  _rewardAd: 

@@ -182,7 +182,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 510
-        y: 690
+        y: 697
         width: 320
         height: 200
       alignment: 0
@@ -203,7 +203,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 13
-        y: 784
+        y: 772
         width: 120
         height: 120
       alignment: 0
@@ -244,8 +244,8 @@ TextureImporter:
       name: refresh
       rect:
         serializedVersion: 2
-        x: 312
-        y: 772
+        x: 313
+        y: 766
         width: 120
         height: 120
       alignment: 0
@@ -286,10 +286,10 @@ TextureImporter:
       name: CROSS
       rect:
         serializedVersion: 2
-        x: 510
-        y: 483
-        width: 320
-        height: 200
+        x: 511
+        y: 484
+        width: 318
+        height: 198
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -313,7 +313,7 @@ TextureImporter:
         height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 77, y: 10, z: 77, w: 10}
+      border: {x: 77, y: 13, z: 77, w: 13}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -355,7 +355,7 @@ TextureImporter:
         height: 508
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 44, y: 22, z: 22, w: 44}
+      border: {x: 5, y: 6, z: 5, w: 6}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -387,6 +387,48 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: load
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 921
+        width: 50
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b7819bb3740774ebcb23ad9bf42235
+      internalID: 1579027347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: load background
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 919
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 2, z: 2, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2206f2cbed3b15d4aa2c698369e7683c
+      internalID: 364844080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -401,7 +443,6 @@ TextureImporter:
       CROSS: -1477543721
       Frame: -715092315
       Frame 158_0: 1730069338
-      Frame 158_2: -1431505346
       button BLUE: -1754970863
       button green: 1497726840
       button orange: 701664585
@@ -409,6 +450,8 @@ TextureImporter:
       highlighted button: -709112206
       line: 1390936501
       line without outline: -105681259
+      load: 1579027347
+      load background: -1431505346
       phone: -1790913389
       refresh: 643499283
   mipmapLimitGroupName: 

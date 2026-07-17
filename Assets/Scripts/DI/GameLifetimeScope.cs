@@ -1,6 +1,7 @@
 using UnityEngine;
 using VContainer;
 using VContainer.Unity;
+using YG;
 
 public class GameLifetimeScope : LifetimeScope
 {
@@ -19,7 +20,8 @@ public class GameLifetimeScope : LifetimeScope
         builder.RegisterInstance(_audioManager);
         builder.RegisterInstance(_prizeLadder);
         builder.RegisterInstance(_gameConfig);
-
+        
+        builder.Register<RewardedAD>(Lifetime.Singleton).AsSelf().WithParameter("rewardID", _gameConfig.RewardID);
         builder.Register<SaveService>(Lifetime.Singleton);
 
         builder.Register<GameController>(Lifetime.Singleton);

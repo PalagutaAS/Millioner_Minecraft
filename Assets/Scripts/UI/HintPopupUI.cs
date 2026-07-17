@@ -33,7 +33,7 @@ public class HintPopupUI : MonoBehaviour
         _phoneCloseButton.onClick.RemoveAllListeners();
     }
 
-    public void ShowAudienceHelp(float[] values)
+    public void ShowAudienceHelp(int[] values)
     {
         for (int i = 0; i < _audienceSliders.Length && i < values.Length; i++)
         {

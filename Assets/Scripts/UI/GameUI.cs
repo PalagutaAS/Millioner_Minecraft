@@ -1,6 +1,8 @@
 using System;
 using UnityEngine;
 using TMPro;
+using YG;
+using YG.Utils.LB;
 
 public class GameUI : MonoBehaviour
 {
@@ -22,8 +24,8 @@ public class GameUI : MonoBehaviour
     [SerializeField] private HintButton _phoneFriend;
     [SerializeField] private HintButton _replaceQuestion;
 
-    [Header("Info")]
-    [SerializeField] private TextMeshProUGUI _walletText;
+    //[Header("Info")]
+    //[SerializeField] private TextMeshProUGUI _walletText;
 
     [Header("Result")]
     [SerializeField] private TextMeshProUGUI _resultText;
@@ -33,10 +35,19 @@ public class GameUI : MonoBehaviour
     public event Action<HintType> OnHintClicked;
 
     private GameConfig _config;
+    private LBData _playerData;
+    private SaveService _saveService;
 
-    public void Initialize(GameConfig config)
+    public void Initialize(GameConfig config, SaveService saveService)
     {
         _config = config;
+        _saveService = saveService;
+        YG2.onGetLeaderboard += OnGetLeaderboard;
+    }
+
+    private void OnGetLeaderboard(LBData playerData)
+    {
+        _playerData = playerData;
     }
 
     private void OnEnable()
@@ -82,12 +93,10 @@ public class GameUI : MonoBehaviour
     {
         _resultGameObject.SetActive(true);
         _resultText.text = won
-            ? $"<color=#2ecc71>Поздравляем!</color>\n\nВы выигрыш:\n<b>{amount:N0}</b>!\n\nОбщий выигрыш составляет:\n<color=#FFC125><b>{_walletText.text}</b></color>"
-            : $"<color=#e74c3c>Игра окончена</color>\n\nВаш выигрыш:\n<b>{amount:N0}</b>\n\nОбщий выигрыш составляет:\n<color=#FFC125><b>{_walletText.text}</b></color>";
+            ? $"<color=#2ecc71>Поздравляем!</color>\n\nВы выигрыш:\n<b>{amount:N0}</b>!\n\nОбщий выигрыш составляет:\n\n<color=#FFC125><b>{_saveService.Data.wallet}</b></color>"
+            : $"<color=#e74c3c>Игра окончена</color>\n\nВаш выигрыш:\n<b>{amount:N0}</b>\n\nОбщий выигрыш составляет:\n\n<color=#FFC125><b>{_saveService.Data.wallet}</b></color>\n\nВаше место в рейтинге: {_playerData.currentPlayer.rank}";
     }
-
-    public void ClearResultText() => _resultText.text = "";
-
+    
     public void SetQuestionText(string text) => _questionText.text = text;
 
     public void SetAnswers(params string[] answers)
@@ -163,10 +172,15 @@ public class GameUI : MonoBehaviour
         if (btn != null)
             btn.SetInteractable(active);
     }
-    public void SetWalletText(int amount) => _walletText.text = amount.ToString("N0");
+    //public void SetWalletText(int amount) => _walletText.text = amount.ToString("N0");
 
     public void HideResultText()
     {
         _resultGameObject.SetActive(false);
+    }
+
+    private void OnDestroy()
+    {
+        YG2.onGetLeaderboard -= OnGetLeaderboard;
     }
 }
