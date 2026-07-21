@@ -119,10 +119,10 @@
       "en": {
         "question": "",
         "answers": [
-          "10",
-          "12",
-          "8",
-          "15"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -154,7 +154,7 @@
         "answers": [
           "Адский камень (Незерак)",
           "Древний обломок",
-          "Уголь-блок",
+          "Угольный блок",
           "Кварц"
         ]
       },
@@ -301,17 +301,17 @@
         "answers": [
           "Огниво",
           "Факел",
-          "Огненный шар",
+          "Кнопка",
           "Лава"
         ]
       },
       "en": {
         "question": "",
         "answers": [
-          "Flint and Steel",
-          "Torch",
-          "Crying Obsidian",
-          "Lava"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -350,10 +350,10 @@
       "en": {
         "question": "",
         "answers": [
-          "??",
-          "??",
-          "??",
-          "??"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -362,7 +362,7 @@
       "ru": {
         "question": "Как называется режим игры без возрождения?",
         "answers": [
-          "Хардкор",
+          "Xардкор",
           "Выживание",
           "Приключение",
           "Творческий"
@@ -469,7 +469,7 @@
         "answers": [
           "Творческий",
           "Выживание",
-          "Хардкор",
+          "Xардкор",
           "Приключение"
         ]
       },
@@ -612,7 +612,7 @@
     {
       "id": 30,
       "ru": {
-        "question": "Какой камень получается при плавке булыжника?",
+        "question": "Какой блок получается при плавке булыжника?",
         "answers": [
           "Камень",
           "Гранит",
@@ -742,7 +742,7 @@
         "answers": [
           "Деревня",
           "Форт",
-          "Храм",
+          "Xрам",
           "Аванпост"
         ]
       },
@@ -885,7 +885,7 @@
     {
       "id": 43,
       "ru": {
-        "question": "Какой враждебный моб не горит на солнце",
+        "question": "Какой враждебный моб не горит на солнце?",
         "answers": [
           "Кадавр",
           "Зомби-наездник",
@@ -1098,8 +1098,8 @@
         "question": "Из чего делается блок слизи?",
         "answers": [
           "9 слизи",
-          "4 слизис",
-          "6 слизис",
+          "4 слизи",
+          "6 слизи",
           "8 слизи и зелёный краситель"
         ]
       },
@@ -1116,21 +1116,21 @@
     {
       "id": 54,
       "ru": {
-        "question": "Кого боиться криппер?",
+        "question": "Кого боится крипер?",
         "answers": [
           "Кошки",
           "Игрока",
-          "Скилета",
+          "Скелета",
           "Лису"
         ]
       },
       "en": {
         "question": "",
         "answers": [
-          "Bee",
-          "Wolf",
-          "Polar Bear",
-          "Fox"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -1169,10 +1169,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Glowstone",
-          "Glowbug",
-          "Fluoresceite",
-          "Darkstone"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -1389,7 +1389,7 @@
     {
       "id": 67,
       "ru": {
-        "question": "Какой предмет необходим для зачарования оружия на столе зачарований?",
+        "question": "Какой предмет необходим для наложения чар на столе зачаровывания?",
         "answers": [
           "Лазурит",
           "Изумруд",
@@ -1463,10 +1463,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Oak with vines",
-          "Mangrove Tree",
-          "Willow",
-          "Dark Oak"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -1498,7 +1498,7 @@
         "answers": [
           "Поставить два сундука рядом",
           "Скрафтить большой сундук",
-          "Использовать зачарование",
+          "Использовать чары",
           "Двойные сундуки не существуют"
         ]
       },
@@ -1547,10 +1547,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Fish",
-          "Squid",
-          "Drowned",
-          "Guardian"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -1602,7 +1602,7 @@
         "question": "Где появляются гасты?",
         "answers": [
           "В Незере",
-          "В энде",
+          "В Энде",
           "В пещерах",
           "В пустыне"
         ]
@@ -1652,10 +1652,10 @@
       "en": {
         "question": "",
         "answers": [
-          "End Portal Frame",
-          "Ender Stone",
-          "Teleport Block",
-          "Portalite"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -1729,17 +1729,17 @@
         "answers": [
           "Костная мука",
           "Белый краситель",
-          "Зола",
+          "Костяная броня",
           "Меловой порошок"
         ]
       },
       "en": {
         "question": "",
         "answers": [
-          "Bone Meal",
-          "White Dye",
-          "Ash",
-          "Chalk Powder"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -1749,7 +1749,7 @@
         "question": "Что нужно, чтобы скрафтить карту?",
         "answers": [
           "8 бумаги и 1 компас",
-          "4 бумаги и 1 компаса",
+          "4 бумаги и 1 компас",
           "9 бумаги",
           "6 бумаги и 1 кожа"
         ]
@@ -1778,10 +1778,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Chest",
-          "Crafting Table",
-          "Furnace",
-          "Barrel"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -1883,10 +1883,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Obsidian",
-          "Iron Block",
-          "Stone",
-          "Wood"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -1967,10 +1967,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Shulker (when its shell is closed)",
-          "Enderman",
-          "Slime",
-          "Magma Cube"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     }
@@ -2004,8 +2004,8 @@
         "answers": [
           "Применить воск",
           "Применить слизь",
-          "Применьть мед",
-          "Применить костную пыть"
+          "Применить мёд",
+          "Применить костную муку"
         ]
       },
       "en": {
@@ -2032,17 +2032,17 @@
       "en": {
         "question": "",
         "answers": [
-          "Use a fire charge",
-          "Tap the frame with a diamond",
-          "Pour lava inside",
-          "Impossible"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
     {
       "id": 98,
       "ru": {
-        "question": "Как называется биом Minecraft в Java Edition на котором не спавнятся враждеюные мобы?",
+        "question": "Как называется биом Minecraft в Java Edition, на котором не спавнятся враждебные мобы?",
         "answers": [
           "Грибной остров",
           "Ледяные шипы",
@@ -2053,10 +2053,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Modified Jungle Edge",
-          "Ice Spikes",
-          "Enchanted Forest",
-          "Mushroom Island"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -2074,10 +2074,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Mining Fatigue",
-          "Lethargy",
-          "Slow Miner",
-          "Paralysis"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -2095,10 +2095,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Gunpowder, coal and blaze powder",
-          "Gunpowder, fire and flint",
-          "Ghast fireball and gunpowder",
-          "Coal and lava"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -2110,7 +2110,7 @@
           "Болото",
           "Джунгли",
           "Саванна",
-          "Лес"
+          "Бледный сад"
         ]
       },
       "en": {
@@ -2119,7 +2119,7 @@
           "Jungle",
           "Swamp",
           "Savanna",
-          "Forest"
+          "Pale Garden"
         ]
       }
     },
@@ -2147,7 +2147,7 @@
     {
       "id": 103,
       "ru": {
-        "question": "Какое зачарование защищает от огня?",
+        "question": "Какие чары защищают от огня?",
         "answers": [
           "Огнестойкость",
           "Шипы",
@@ -2179,17 +2179,17 @@
       "en": {
         "question": "",
         "answers": [
-          "4 Netherite scraps and 4 gold ingots",
-          "2 scraps and 6 gold ingots",
-          "8 Netherite scraps",
-          "4 scraps and 4 iron ingots"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
     {
       "id": 105,
       "ru": {
-        "question": "Какое зачарование позволяет копать быстрее?",
+        "question": "Какие чары позволяют копать быстрее?",
         "answers": [
           "Эффективность",
           "Удача",
@@ -2210,7 +2210,7 @@
     {
       "id": 106,
       "ru": {
-        "question": "Что нужно для создания стола зачарований?",
+        "question": "Что нужно для создания стола зачаровывания?",
         "answers": [
           "4 обсидиана, 2 алмаза, 1 книга",
           "4 алмаза, 2 обсидиана, 1 книга",
@@ -2284,17 +2284,17 @@
       "en": {
         "question": "",
         "answers": [
-          "Drop from a Drowned",
-          "Craft from sea crystals",
-          "Craft from fish bones",
-          "Buy from a villager"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
     {
       "id": 110,
       "ru": {
-        "question": "В какой версии добавил манговые деревья и биом мангровые болота?",
+        "question": "В какой версии добавили мангровые деревья и биом мангровые болота?",
         "answers": [
           "1.19",
           "1.21",
@@ -2305,17 +2305,17 @@
       "en": {
         "question": "",
         "answers": [
-          "Mangrove Swamp",
-          "Tropical Forest",
-          "River Swamp",
-          "Leafy Swamp"
+          "1.19",
+          "1.21",
+          "1.18",
+          "1.20"
         ]
       }
     },
     {
       "id": 111,
       "ru": {
-        "question": "Сколько опыта начиная с 0 нужно что бы получить 30 уровень",
+        "question": "Сколько опыта начиная с 0 нужно, чтобы получить 30 уровень?",
         "answers": [
           "1395",
           "910",
@@ -2326,10 +2326,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Potion of Water Breathing",
-          "Aqua Helmet",
-          "Gills",
-          "Diving Mask"
+          "1395",
+          "910",
+          "1288",
+          "1500"
         ]
       }
     },
@@ -2380,7 +2380,7 @@
       "ru": {
         "question": "Какое зелье замедляет падение?",
         "answers": [
-          "Плавное падения",
+          "Плавное падение",
           "Плетения",
           "Стремительности",
           "Прыгучести"
@@ -2494,10 +2494,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Amethyst",
-          "Netherite",
-          "Copper",
-          "Dark Crystal"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -2525,7 +2525,7 @@
     {
       "id": 121,
       "ru": {
-        "question": "Какая прочность у Алмазной кирки без зачарований?",
+        "question": "Какая прочность у Алмазной кирки без чар?",
         "answers": [
           "1561",
           "2031",
@@ -2536,10 +2536,10 @@
       "en": {
         "question": "",
         "answers": [
-          "It transforms into a Zombified Piglin",
-          "It dies",
-          "It becomes angry",
-          "Nothing"
+          "1561",
+          "2031",
+          "1370",
+          "1841"
         ]
       }
     },
@@ -2588,7 +2588,7 @@
     {
       "id": 124,
       "ru": {
-        "question": "Что такое 'Удача' как зачарование?",
+        "question": "Что такое чары 'Удача'?",
         "answers": [
           "Увеличивает дроп с блоков",
           "Ускоряет добычу",
@@ -2683,10 +2683,10 @@
       "en": {
         "question": "",
         "answers": [
-          "2 shulker shells and 1 chest",
-          "1 shulker shell and 1 chest",
-          "4 shells and 1 chest",
-          "2 shells and 2 chests"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -2704,10 +2704,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Lush Caves",
-          "Dark Forest",
-          "Mangrove Swamp",
-          "Snowy Taiga"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -2746,17 +2746,17 @@
       "en": {
         "question": "",
         "answers": [
-          "Prismarine shard, crystal, and wet sponge",
-          "Sea lantern and fish",
-          "Only experience",
-          "Corals"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
     {
       "id": 132,
       "ru": {
-        "question": "Как называется моб не может появиться в измерении Края?",
+        "question": "Какой моб не может появиться в измерении Края?",
         "answers": [
           "Фантом",
           "Эндермит",
@@ -2767,10 +2767,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Shulker",
-          "Ender Shooter",
-          "Crystal Guardian",
-          "End Warden"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -2798,7 +2798,7 @@
     {
       "id": 134,
       "ru": {
-        "question": "Что нужно для крафта блока меда?",
+        "question": "Что нужно для крафта блока мёда?",
         "answers": [
           "4 бутылки мёда",
           "9 бутылок мёда",
@@ -2830,10 +2830,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Pillager",
-          "Raider",
-          "Plunderer",
-          "Ravisher"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -2861,9 +2861,9 @@
     {
       "id": 137,
       "ru": {
-        "question": "Что даёт зачарование 'Шёлковое касание'?",
+        "question": "Что дают чары 'Шёлковое касание'?",
         "answers": [
-          "При разрущении выпадает разрущенный блок",
+          "При разрушении выпадает блок",
           "Увеличивает дроп",
           "Ускоряет добычу",
           "Добавляет опыт"
@@ -2908,7 +2908,7 @@
           "Лесной особняк",
           "Замок вампира",
           "Тёмная крепость",
-          "Хижина ведьмы"
+          "Xижина ведьмы"
         ]
       },
       "en": {
@@ -2977,17 +2977,17 @@
       "en": {
         "question": "",
         "answers": [
-          "12",
+          "10",
           "8",
           "16",
-          "10"
+          "12"
         ]
       }
     },
     {
       "id": 143,
       "ru": {
-        "question": "Сколько книжных полок нужно для возможности зачарования на максимальный уровень?",
+        "question": "Сколько книжных полок нужно для получения чар максимального уровеня?",
         "answers": [
           "15",
           "14",
@@ -2998,10 +2998,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Enchanting table surrounded by 15 bookshelves",
-          "Anvil and experience",
-          "Crafting table and diamonds",
-          "30 bookshelves around the table"
+          "15",
+          "14",
+          "13",
+          "12"
         ]
       }
     },
@@ -3012,17 +3012,17 @@
         "answers": [
           "Ничего",
           "Блоки рядом превращаются в мицелий",
-          "Превращаяется в траву",
+          "Превращается в траву",
           "Уничтожается"
         ]
       },
       "en": {
         "question": "",
         "answers": [
-          "Nothing special; nearby mushrooms may grow",
-          "The mycelium expands",
-          "New blocks appear",
-          "The mycelium is destroyed"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -3082,10 +3082,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Pyramid of 9 mineral blocks with beacon on top",
-          "25 blocks and beacon",
-          "A single beacon on any surface",
-          "Pyramid of 4 blocks"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -3097,7 +3097,7 @@
           "Поршень",
           "Двигатель",
           "Тягач",
-          "Варонка"
+          "Воронка"
         ]
       },
       "en": {
@@ -3125,9 +3125,9 @@
         "question": "",
         "answers": [
           "3 wheat, 2 sugar, 1 egg, 3 buckets of milk",
-          "4 wheat, 2 eggs, 2 milk",
-          "3 wheat, 3 eggs, 1 milk",
-          "2 wheat, 1 sugar, 2 eggs, 2 milk"
+          "3 wheat, 2 eggs, 3 buckets of milk, 2 milk",
+          "3 wheat, 3 eggs, 1 bucket of milk",
+          "2 wheat, 1 sugar, 2 eggs, 2 buckets of milk"
         ]
       }
     },
@@ -3199,8 +3199,8 @@
       "ru": {
         "question": "Что такое мембрана фантома и для чего она используется?",
         "answers": [
-          "Дроп с фантома; Используется для зельй и починки элитры",
-          "Дроп с летучей мыши; Используется для зельй",
+          "Дроп с фантома; Используется для зелий и починки элитры",
+          "Дроп с летучей мыши; Используется для зелий",
           "Дроп с фантома; Редкий материал для брони",
           "Дроп с фантома; Ингредиент для невидимости"
         ]
@@ -3208,10 +3208,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Brewing Slow Falling potions and repairing Elytra",
-          "Brewing invisibility potions",
-          "Crafting rare armor",
-          "Making night vision potions"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -3222,17 +3222,17 @@
         "answers": [
           "Глубокий океан",
           "Темные глубины",
-          "Холодный океан",
+          "Xолодный океан",
           "Теплый океан"
         ]
       },
       "en": {
         "question": "",
         "answers": [
-          "Ocean Monument",
-          "Underwater Temple",
-          "Coral Castle",
-          "Underwater Fortress"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -3250,10 +3250,10 @@
       "en": {
         "question": "",
         "answers": [
-          "4 string and 1 slimeball",
-          "6 strings",
-          "2 leather and 2 strings",
-          "3 string and 1 leather"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -3271,10 +3271,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Trident, underwater mobs and corals",
-          "Only turtles and corals",
-          "Mangrove swamps",
-          "Sharks and dolphins"
+          "1.13",
+          "1.18",
+          "1.10",
+          "1.15"
         ]
       }
     },
@@ -3292,10 +3292,10 @@
       "en": {
         "question": "",
         "answers": [
-          "6 planks and 2 slabs",
-          "6 planks, 2 paper and 1 lid",
-          "8 wooden blocks",
-          "6 wooden slabs"
+          "15",
+          "18",
+          "14",
+          "10"
         ]
       }
     },
@@ -3313,20 +3313,20 @@
       "en": {
         "question": "",
         "answers": [
-          "Jump Boost",
-          "Speed",
-          "Lightness",
-          "Weightlessness"
+          "10",
+          "15",
+          "12",
+          "14"
         ]
       }
     },
     {
       "id": 159,
       "ru": {
-        "question": "Какое снаряжение не сгорит в лаве?",
+        "question": "Какое снаряжение не уничтожится в лаве?",
         "answers": [
           "Незеритовое",
-          "Любое зачарованное на огнестойкость",
+          "Любые чары на огнестойкость",
           "Алмазное",
           "Никакое"
         ]
@@ -3334,10 +3334,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Netherite is naturally lava-resistant",
-          "Fire Protection enchantment",
-          "Netherite shell",
-          "Lava Resistance Potion"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -3355,20 +3355,20 @@
       "en": {
         "question": "",
         "answers": [
-          "Ravager",
-          "Raider Beast",
-          "Mounted Pillager",
-          "Cavalry"
+          "14",
+          "15",
+          "12",
+          "9"
         ]
       }
     },
     {
       "id": 161,
       "ru": {
-        "question": "Какой моб боиться кошки?",
+        "question": "Какой моб боится кошки?",
         "answers": [
           "Фантом",
-          "Скилет",
+          "Скелет",
           "Страж",
           "Паук"
         ]
@@ -3376,17 +3376,17 @@
       "en": {
         "question": "",
         "answers": [
-          "A chest and a boat",
-          "4 planks and 1 compass",
-          "5 wooden planks",
-          "Boat + chest in anvil"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
     {
       "id": 162,
       "ru": {
-        "question": "Какой уровень освещения у редстоун факела?",
+        "question": "Какой уровень освещения у редстоун-факела?",
         "answers": [
           "7",
           "9",
@@ -3397,10 +3397,10 @@
       "en": {
         "question": "",
         "answers": [
-          "4 Nether Brick items (nuggets)",
-          "Smelt Netherrack",
-          "4 Nether stones",
-          "2 Nether stone and 2 fire"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -3432,17 +3432,17 @@
         "answers": [
           "Применить пластинку на проигрывателе",
           "Применить пластинку на музыкальный блоке",
-          "Применить пластинку на раздачике",
+          "Применить пластинку на раздатчике",
           "Просто держать в руках"
         ]
       },
       "en": {
         "question": "",
         "answers": [
-          "Cannot be crafted, only dropped by skeletons killing creepers",
-          "9 emeralds",
-          "4 quartz and 4 glass",
-          "Buy from a villager"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -3460,17 +3460,17 @@
       "en": {
         "question": "",
         "answers": [
-          "Crimson Forest",
-          "Warped Forest",
-          "Crimson Mushroom Forest",
-          "Purple Wasteland"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
     {
       "id": 166,
       "ru": {
-        "question": "Какой силы сигнал выдает редстоун факел?",
+        "question": "Какой силы сигнал выдаёт редстоун-факел?",
         "answers": [
           "15",
           "20",
@@ -3502,10 +3502,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Frog and Warden",
-          "Frog and Guardian",
-          "Toad and Allay",
-          "Allay and Warden"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -3523,10 +3523,10 @@
       "en": {
         "question": "",
         "answers": [
-          "The zombie must stand in water for 30 seconds",
-          "The zombie must fall into water from height",
-          "Throw the zombie into water",
-          "The zombie must kill a fish"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -3535,7 +3535,7 @@
       "ru": {
         "question": "Как называется вид зелья, который можно кинуть?",
         "answers": [
-          "Взрявное зелье",
+          "Взрывное зелье",
           "Бомба-зелье",
           "Любое зелье",
           "Осколочное зелье"
@@ -3565,10 +3565,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Cannot be crafted — found in pillager outposts and woodland mansions",
-          "Craft from ender pearl and feathers",
-          "Drop from Phantom",
-          "Buy from trader"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -3586,10 +3586,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Dropped by the Wither",
-          "Craft from Netherite crystals",
-          "Fire core",
-          "Lava crystal"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -3607,19 +3607,19 @@
       "en": {
         "question": "",
         "answers": [
-          "A structure filled with Pillagers and their captain",
-          "A Pillager village",
-          "A desert camp",
-          "A Piglin fortress"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
     {
       "id": 173,
       "ru": {
-        "question": "Какой биом добавили в обновление 1.17?",
+        "question": "Какой биом добавили в обновлении 1.17?",
         "answers": [
-          "Крастовая пещера",
+          "Карстовая пещера",
           "Глубокий Океан",
           "Бледный Сад",
           "Заснеженная тайга"
@@ -3628,10 +3628,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Amethyst Geode",
-          "Netherite Block",
-          "Honey Block",
-          "Basalt Block"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -3649,17 +3649,17 @@
       "en": {
         "question": "",
         "answers": [
-          "Dark Forest",
-          "Black Forest",
-          "Twilight Forest",
-          "Shadow Forest"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
     {
       "id": 175,
       "ru": {
-        "question": "Как снять зачарование в предмета?",
+        "question": "Как снять чары с предмета?",
         "answers": [
           "Использовать точило",
           "Использовать кузнечный стол",
@@ -3691,7 +3691,7 @@
       "en": {
         "question": "",
         "answers": [
-          "A farm working while you're idle; not banned in singleplayer",
+          "A farm working while you're idle",
           "A cheating technique banned by Mojang",
           "An item duplication method",
           "A special mechanic for servers"
@@ -3703,9 +3703,9 @@
     {
       "id": 177,
       "ru": {
-        "question": "Что способен делать медный голем?",
+        "question": "Что способен делать Медный голем?",
         "answers": [
-          "Берет предметы из медных сундуков и кладет их в обычные сундуки",
+          "Берёт предметы из медных сундуков и кладёт их в обычные сундуки",
           "Ничего, просто декорация",
           "Бегает за игроком и подбирает дроп",
           "Вырастает в железного голема через время"
@@ -3724,7 +3724,7 @@
     {
       "id": 178,
       "ru": {
-        "question": "На каком расстоянии от центрального острова распалагаются острова края?",
+        "question": "На каком расстоянии от центрального острова располагаются острова края?",
         "answers": [
           "1 000 блоков",
           "5 000 блоков",
@@ -3735,17 +3735,17 @@
       "en": {
         "question": "",
         "answers": [
-          "1.9",
-          "1.8",
-          "1.10",
-          "1.11"
+          "1 000 blocks",
+          "5 000 blocks",
+          "10 000 blocks",
+          "3 000 blocks"
         ]
       }
     },
     {
       "id": 179,
       "ru": {
-        "question": "Какой максимальный уровень зачарования Заговор огня?",
+        "question": "Какой максимальный уровень чар Заговор огня?",
         "answers": [
           "II (2)",
           "IV (4)",
@@ -3756,10 +3756,10 @@
       "en": {
         "question": "",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "II (2)",
+          "IV (4)",
+          "III (3)",
+          "V (5)"
         ]
       }
     },
@@ -3777,10 +3777,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Dark Forest",
-          "Black Forest",
-          "Twilight Forest",
-          "Shadow Forest"
+          "47",
+          "41",
+          "28",
+          "32"
         ]
       }
     },
@@ -3798,10 +3798,10 @@
       "en": {
         "question": "",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "22",
+          "21",
+          "20",
+          "23"
         ]
       }
     },
@@ -3819,10 +3819,10 @@
       "en": {
         "question": "",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "12000",
+          "5000",
+          "7000",
+          "18000"
         ]
       }
     },
@@ -3882,17 +3882,17 @@
       "en": {
         "question": "",
         "answers": [
-          "-58 or -59",
-          "12",
-          "-16",
-          "5"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
     {
       "id": 186,
       "ru": {
-        "question": "Какой максимальный уровень зачарования Эффективность?",
+        "question": "Какой максимальный уровень чар Эффективность?",
         "answers": [
           "V (5)",
           "IV (4)",
@@ -3924,7 +3924,7 @@
       "en": {
         "question": "",
         "answers": [
-          "1.5 (Redstone Update)",
+          "1.5",
           "1.4",
           "1.6",
           "1.7"
@@ -3955,7 +3955,7 @@
     {
       "id": 189,
       "ru": {
-        "question": "С каким зачарованием несовместимо зачарование Бич Членистоногих",
+        "question": "С каким чарами несовместимо чара Бич Членистоногих?",
         "answers": [
           "Небесная кара",
           "Добыча",
@@ -3966,10 +3966,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Increases arrow damage",
-          "Speeds up arrow flight",
-          "Adds fire arrows",
-          "Increases range"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -3987,10 +3987,10 @@
       "en": {
         "question": "",
         "answers": [
-          "A unit of game time; 20 ticks per second",
-          "A unit for block measurement; 10 ticks/sec",
-          "A unit of experience; 20 ticks/sec",
-          "A game event; 25 ticks/sec"
+          "A unit of game time",
+          "A unit for block measurement",
+          "A unit of experience",
+          "A game event"
         ]
       }
     },
@@ -4008,10 +4008,10 @@
       "en": {
         "question": "",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "11",
+          "12",
+          "10",
+          "13"
         ]
       }
     },
@@ -4029,10 +4029,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Place 4 End Crystals on the edges of the End's fountain",
-          "Place 4 crystals on the pillars",
-          "Throw an Ender Pearl into the center",
-          "Kill all Endermen"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -4044,16 +4044,16 @@
           "Секция мира 16×16 блоков",
           "Секция мира 32×32 блоков",
           "Файл сохранения",
-          "Зачарование"
+          "Чары"
         ]
       },
       "en": {
         "question": "",
         "answers": [
-          "A 16×16 block section of the world",
-          "A group of 32 blocks",
-          "A save file",
-          "A group of mobs"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -4071,10 +4071,10 @@
       "en": {
         "question": "",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "9",
+          "10",
+          "11",
+          "8"
         ]
       }
     },
@@ -4102,7 +4102,7 @@
     {
       "id": 196,
       "ru": {
-        "question": "В каком обновлении был добавлен Хранитель?",
+        "question": "В каком обновлении был добавлен Xранитель?",
         "answers": [
           "1.19",
           "1.18",
@@ -4123,7 +4123,7 @@
     {
       "id": 197,
       "ru": {
-        "question": "Каким образом можно добыть тотема бессмертия?",
+        "question": "Каким образом можно добыть тотем бессмертия?",
         "answers": [
           "Выпадает с Вызывателя",
           "Крафт из 4 изумрудов и золота",
@@ -4134,7 +4134,7 @@
       "en": {
         "question": "",
         "answers": [
-          "Cannot be crafted — only drops from the Evoker mob",
+          "Drops from the Evoker",
           "Craft from 4 emeralds and gold",
           "Drop from the Wither",
           "Buy from a villager"
@@ -4144,7 +4144,7 @@
     {
       "id": 198,
       "ru": {
-        "question": "Что является особенностью Хранителя?",
+        "question": "Что является особенностью Xранителя?",
         "answers": [
           "Слепой, ориентируется на звук и вибрации",
           "Видит сквозь стены",
@@ -4155,17 +4155,17 @@
       "en": {
         "question": "",
         "answers": [
-          "It's blind and relies on sound/vibration",
-          "It sees through walls",
-          "It smells the player",
-          "It only reacts to light"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
     {
       "id": 199,
       "ru": {
-        "question": "Сколько здоровья имеет Хранителя?",
+        "question": "Сколько здоровья имеет Xранитель?",
         "answers": [
           "500",
           "200",
@@ -4176,10 +4176,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Sculk Sensor",
-          "Redstone Pressure Plate",
-          "Skull Button",
-          "Nether Pulse"
+          "500",
+          "200",
+          "300",
+          "400"
         ]
       }
     },
@@ -4197,10 +4197,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Netherite ingot + diamond item at a Smithing Table",
-          "Netherite ingot + diamond item at an Anvil",
-          "Netherite block + item at a Crafting Table",
-          "Smelt the diamond item with Netherite"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -4230,7 +4230,7 @@
       "ru": {
         "question": "Что нужно для полного уровня 4 маяка?",
         "answers": [
-          "Пирамида из 164 минеральных блоков",
+          "Пирамида из 164 блоков",
           "Пирамида из 100 блоков",
           "Пирамида из 256 блоков",
           "Пирамида из 81 блока"
@@ -4239,17 +4239,17 @@
       "en": {
         "question": "",
         "answers": [
-          "164",
-          "100",
-          "256",
-          "81"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
     {
       "id": 203,
       "ru": {
-        "question": "Какой максимальный уровень зачарования Защита?",
+        "question": "Какой максимальный уровень чар Защита?",
         "answers": [
           "IV (4)",
           "V (5)",
@@ -4263,7 +4263,7 @@
           "IV (4)",
           "V (5)",
           "III (3)",
-          "X (10)"
+          "II (2)"
         ]
       }
     },
@@ -4281,10 +4281,10 @@
       "en": {
         "question": "",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "8",
+          "2",
+          "4",
+          "12"
         ]
       }
     },
@@ -4294,7 +4294,7 @@
         "question": "Что нужно для создания незеритового шаблона?",
         "answers": [
           "Нельзя создать, только найти в бастионах",
-          "7 алмазов и 1 незерита",
+          "7 алмазов и 1 незерит",
           "Нельзя создать, только купить у кузнеца-жителя",
           "Нельзя создать, только купить у странствующего торговца"
         ]
@@ -4302,31 +4302,31 @@
       "en": {
         "question": "",
         "answers": [
-          "Found only in Bastion Remnant chests, cannot be crafted from scratch",
-          "Craft from 7 diamonds and 1 netherite scrap",
-          "Buy from a blacksmith villager",
-          "Found in village chests"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
     {
       "id": 206,
       "ru": {
-        "question": "Какой максимальный уровень зачарования Острота?",
+        "question": "Какой максимальный уровень чар Острота?",
         "answers": [
           "V (5)",
-          "X (10)",
+          "III (3)",
           "IV (4)",
-          "VII (7)"
+          "II (2)"
         ]
       },
       "en": {
         "question": "",
         "answers": [
           "V (5)",
-          "X (10)",
+          "III (3)",
           "IV (4)",
-          "VII (7)"
+          "II (2)"
         ]
       }
     },
@@ -4398,19 +4398,19 @@
       "ru": {
         "question": "Что происходит с жителем, достигшим максимального уровня торговли?",
         "answers": [
-          "Получает значек мастера своей профессии",
+          "Получает значок мастера своей профессии",
           "Предлагает уникальный предмет",
-          "Становиться странствующим торговцем",
+          "Становится странствующим торговцем",
           "Учит других жителей"
         ]
       },
       "en": {
         "question": "",
         "answers": [
-          "It gains a master hat for its profession",
-          "It offers a unique item",
-          "It stops trading",
-          "It becomes an arch-villager"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -4442,17 +4442,17 @@
         "answers": [
           "Применить бутылочку воды на блок земли",
           "Скрафтить из 2 блоков земли и 2 блоков гравия",
-          "Только натуральная генирация",
+          "Только натуральная генерация",
           "Скрафтить из блока подзола и костной муки"
         ]
       },
       "en": {
         "question": "",
         "answers": [
-          "Survival Multiplayer",
-          "Single Mode Play",
-          "Super Minecraft Project",
-          "Standard Mob Protocol"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -4470,21 +4470,21 @@
       "en": {
         "question": "",
         "answers": [
-          "You can't — only obtainable via /give in Creative",
-          "Craft from 8 obsidian and 1 redstone",
-          "Reward for killing the Wither",
-          "Buy from a wizard villager"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
     {
       "id": 214,
       "ru": {
-        "question": "Что способен делать Тихоня (Allay)?",
+        "question": "Что способен делать Тихоня?",
         "answers": [
           "Способен переносить и отдавать предметы игроку или выбрасывать их к музыкальному блоку",
-          "Летает на игроком и исполняет музыку",
-          "Спобен взаимодействовать с музыкальными блоками и играть музыку",
+          "Летает над игроком и исполняет музыку",
+          "Способен взаимодействовать с музыкальными блоками и играть музыку",
           "Способен отгонять фантомов от игрока"
         ]
       },
@@ -4503,7 +4503,7 @@
       "ru": {
         "question": "Какой механизм позволяет перемещать предметы между контейнерами автоматически?",
         "answers": [
-          "Загрузочная варонка",
+          "Загрузочная воронка",
           "Редстоуновый компаратор",
           "Выбрасыватель",
           "Липкий поршень"
@@ -4512,17 +4512,17 @@
       "en": {
         "question": "",
         "answers": [
-          "Hopper",
-          "Dispenser",
-          "Dropper",
-          "Piston"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
     {
       "id": 216,
       "ru": {
-        "question": "Какой максимальный уровень зачарования Взрывоустойчивость?",
+        "question": "Какой максимальный уровень чар Взрывоустойчивость?",
         "answers": [
           "IV (4)",
           "V (5)",
@@ -4533,10 +4533,10 @@
       "en": {
         "question": "",
         "answers": [
-          "80 seconds (1600 ticks)",
-          "40 seconds",
-          "160 seconds",
-          "20 seconds"
+          "IV (4)",
+          "V (5)",
+          "III (3)",
+          "II (2)"
         ]
       }
     },
@@ -4575,10 +4575,10 @@
       "en": {
         "question": "",
         "answers": [
-          "A world with flat generation and no terrain features",
-          "A maximum-size world",
-          "A world without structures",
-          "A world with maximum caves"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -4596,10 +4596,10 @@
       "en": {
         "question": "",
         "answers": [
-          "7 glass, 1 eye of ender, 1 ghast tear",
-          "7 obsidian, 1 ender pearl",
-          "9 small end crystals",
-          "4 quartz crystals and 3 glass"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -4617,20 +4617,20 @@
       "en": {
         "question": "",
         "answers": [
-          "/tp @s 0 64 0",
-          "/teleport 0 64 0",
-          "/goto 0 64 0",
-          "/move @p 0 64 0"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
     {
       "id": 221,
       "ru": {
-        "question": "В каких биомах не может генерироваться руины былых времен",
+        "question": "В каких биомах не могут генерироваться руины былых времён?",
         "answers": [
           "Тёмный лес",
-          "Заснежиная тайга",
+          "Заснеженная тайга",
           "Джунгли",
           "Многолетний березняк"
         ]
@@ -4693,18 +4693,18 @@
         "question": "Что нужно для крафта спектральной стрелы?",
         "answers": [
           "1 стрела и 4 светопыли",
-          "1 стрелы и 2 пороха и 2 светопыли",
+          "1 стрела и 2 пороха и 2 светопыли",
           "1 стрела и 4 пороха",
-          "1 стрелы и 4 фейерверка"
+          "1 стрела и 4 фейерверка"
         ]
       },
       "en": {
         "question": "",
         "answers": [
-          "1 arrow and 4 glowstone dust",
-          "2 arrows and 2 ender pearls",
-          "1 arrow and 4 glowing gunpowder",
-          "2 arrows and 4 fireworks"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -4743,10 +4743,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Exploiting chunk borders for farm mechanics or duplication",
-          "A texture bug at chunk borders",
-          "Random game crashes",
-          "Mob disappearance"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -4764,17 +4764,17 @@
       "en": {
         "question": "",
         "answers": [
-          "2014 (not a game version)",
-          "With update 1.8",
-          "With update 1.9",
-          "With update 1.7"
+          "2014",
+          "2016",
+          "2015",
+          "2013"
         ]
       }
     },
     {
       "id": 228,
       "ru": {
-        "question": "На каком расстоянии скалк-сенсер может уловить звук?",
+        "question": "На каком расстоянии скалк-сенсор может уловить звук?",
         "answers": [
           "8 блоков",
           "10 блоков",
@@ -4785,17 +4785,17 @@
       "en": {
         "question": "",
         "answers": [
-          "Deep cave blocks/biome found in the Ancient City",
-          "Nether blocks near lava",
-          "Special End blocks",
-          "Mountain blocks above Y=200"
+          "8 blocks",
+          "10 blocks",
+          "6 blocks",
+          "12 blocks"
         ]
       }
     },
     {
       "id": 229,
       "ru": {
-        "question": "На каком расстоянии откалиброванный скалк-сенсер может уловить звук?",
+        "question": "На каком расстоянии откалиброванный скалк-сенсор может уловить звук?",
         "answers": [
           "16 блоков",
           "24 блока",
@@ -4806,10 +4806,10 @@
       "en": {
         "question": "",
         "answers": [
-          "0-15 depending on how full the chest is",
-          "Always 15",
-          "Always 0",
-          "It depends on the block type, not contents"
+          "16 blocks",
+          "24 blocks",
+          "12 blocks",
+          "8 blocks"
         ]
       }
     },
@@ -4827,10 +4827,10 @@
       "en": {
         "question": "",
         "answers": [
-          "6 crying obsidian and 3 glowstone blocks",
-          "4 obsidian and 5 crying obsidian",
-          "9 crying obsidian",
-          "6 obsidian and 3 Nether Brick"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -4848,10 +4848,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Glowstone block",
-          "Redstone",
-          "Netherite ingot",
-          "Blaze powder"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -4902,31 +4902,31 @@
       "ru": {
         "question": "Как получить подводный TNT в ванильном Java Edition?",
         "answers": [
-          "Никак, какого предмета нет",
+          "Никак, такого предмета нет",
           "Купить у странствующего торговца",
-          "Найти в затонувщем корабле",
+          "Найти в затонувшем корабле",
           "Дроп с Древнего стража в Подводной крепости"
         ]
       },
       "en": {
         "question": "",
         "answers": [
-          "A circuit that detects neighbor block updates",
-          "A mob detector",
-          "A mine detection block",
-          "An alarm system"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
     {
       "id": 235,
       "ru": {
-        "question": "Что происходит с зачарованным предметом при ремонте на наковальне?",
+        "question": "Что происходит с чарами предметов при ремонте на наковальне?",
         "answers": [
-          "Зачарования сохраняются и могут комбинироваться",
-          "Зачарования убираются",
+          "Чары сохраняются и могут комбинироваться",
+          "Чары убираются",
           "Предмет ломается",
-          "Зачарование понижается на 1 уровень"
+          "Чары понижается на 1 уровень"
         ]
       },
       "en": {
@@ -4940,14 +4940,14 @@
       }
     }
   ],
-  "veryhard": [
+  "very_hard": [
     {
       "id": 236,
       "ru": {
         "question": "В какой версии впервые появился Медный голем?",
         "answers": [
-          "Никогда — он проиграл голосование и не был добавлен",
           "1.21",
+          "Никогда — он проиграл голосование и не был добавлен",
           "1.22",
           "1.20"
         ]
@@ -4955,10 +4955,10 @@
       "en": {
         "question": "",
         "answers": [
+          "1.21",
           "Never — it lost the 2021 Mob Vote and was never added",
-          "1.17",
-          "1.18",
-          "1.19"
+          "1.22",
+          "1.20"
         ]
       }
     },
@@ -4976,10 +4976,10 @@
       "en": {
         "question": "",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "15",
+          "18",
+          "7",
+          "10"
         ]
       }
     },
@@ -5007,7 +5007,7 @@
     {
       "id": 239,
       "ru": {
-        "question": "Какая пластинка выдает редстоун сигнал силой 5 когда играет в проигровытеле?",
+        "question": "Какая пластинка выдаёт редстоун-сигнал силой 5, когда играет в проигрывателе?",
         "answers": [
           "far",
           "blocks",
@@ -5018,10 +5018,10 @@
       "en": {
         "question": "",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "far",
+          "blocks",
+          "cat",
+          "wait"
         ]
       }
     },
@@ -5039,10 +5039,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Approximately $2.5 billion",
-          "10% in perpetual royalties",
-          "Nothing — all rights went to Microsoft",
-          "50% of all revenues"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -5060,17 +5060,17 @@
       "en": {
         "question": "",
         "answers": [
-          "An optimal route for obtaining blaze rods to activate the End portal",
-          "A Nether route using blazes as fuel",
-          "A method for quickly killing bosses",
-          "A crafting technique"
+          "0,15%",
+          "0,5%",
+          "1,5%",
+          "3%"
         ]
       }
     },
     {
       "id": 242,
       "ru": {
-        "question": "Какой дополнительный ингредиент нужен для подозрительного супа, который накладывает эффект Отравление",
+        "question": "Какой дополнительный ингредиент нужен для подозрительного супа, который накладывает эффект Отравление?",
         "answers": [
           "Ландыш",
           "Василек",
@@ -5102,10 +5102,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Marketplace content and official cross-platform play",
-          "Unlimited world size",
-          "RTX support",
-          "Redstone comparators"
+          "otherside",
+          "Bounce",
+          "Pigstep",
+          "wait"
         ]
       }
     },
@@ -5114,19 +5114,19 @@
       "ru": {
         "question": "Что произойдёт, если игрок с ботинками, зачарованными на Ледоход, упадёт с большой высоты в воду?",
         "answers": [
-          "Игрок погрузится в воду, лед не появиться",
-          "Появиться блок льда и игрок получит урон от падения",
-          "Появиться блок льда, но игрок не получит урон от падения",
-          "Игрок погрузиться в воду, лед появиться на поверхности над игроком"
+          "Игрок погрузится в воду, лед не появится",
+          "Появится блок льда и игрок получит урон от падения",
+          "Появится блок льда, но игрок не получит урон от падения",
+          "Игрок погрузится в воду, лед появится на поверхности воды над игроком"
         ]
       },
       "en": {
         "question": "",
         "answers": [
-          "Jasper Boerstra — the lead artist and visual designer of Minecraft",
-          "The Japanese version of the game",
-          "A popular server plugin",
-          "The codename for the Japan release"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -5144,17 +5144,17 @@
       "en": {
         "question": "",
         "answers": [
-          "A popular SMP server that became a cultural phenomenon with millions of viewers",
-          "Mojang's official server",
-          "A Minecraft competitive season",
-          "The first Minecraft mod"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
     {
       "id": 246,
       "ru": {
-        "question": "Какой входной редстоун-сигнал нужно подать Откалиброваному скалковому сенсеру, что бы тот уловил потребление еды и напитков?",
+        "question": "Какой входной редстоун-сигнал нужно подать Откалиброванному скалковому сенсору, чтобы тот уловил потребление еды и напитков?",
         "answers": [
           "8",
           "5",
@@ -5165,31 +5165,31 @@
       "en": {
         "question": "",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "8",
+          "5",
+          "6",
+          "1"
         ]
       }
     },
     {
       "id": 247,
       "ru": {
-        "question": "Как вызвать Хранителя, обедающего в Древнем городе?",
+        "question": "Как вызвать Xранителя, обитающего в Древнем городе?",
         "answers": [
-          "После 4 срабатываний скалковый крикун вызывает Хранителя",
-          "После 3 срабатываний скалковый крикун вызывает Хранителя",
-          "После 5 срабатываний скалковый крикун вызывает Хранителя",
-          "После 1 срабатывания скалковый крикун вызывает Хранителя"
+          "После 4 срабатываний скалковый крикун вызывает Xранителя",
+          "После 3 срабатываний скалковый крикун вызывает Xранителя",
+          "После 5 срабатываний скалковый крикун вызывает Xранителя",
+          "После 1 срабатывания скалковый крикун вызывает Xранителя"
         ]
       },
       "en": {
         "question": "",
         "answers": [
-          "3 activations (warning levels 1-3), then summons on the 4th",
-          "1 activation",
-          "5 consecutive activations",
-          "Only at night"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -5264,16 +5264,16 @@
           "Разбойник",
           "Вызыватель",
           "Поборник",
-          "Тихоня (Allay)"
+          "Тихоня"
         ]
       },
       "en": {
         "question": "",
         "answers": [
-          "/function <namespace:path>",
-          "/run <function>",
-          "/datapack execute",
-          "/pack run"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -5312,10 +5312,10 @@
       "en": {
         "question": "",
         "answers": [
-          "A rare Nether ore most common at Y=15-16",
-          "A Nether resource at Y=8",
-          "A rare End block at Y=50",
-          "A cave resource at Y=-20"
+          "16",
+          "8",
+          "50",
+          "24"
         ]
       }
     },
@@ -5324,9 +5324,9 @@
       "ru": {
         "question": "Что такое Скалковый катализатор?",
         "answers": [
-          "Блок, создающий скалк-сенсены и скалк-крикуны при гибели существ поблизости",
+          "Блок, создающий скалк-сенсоны и скалк-крикуны при гибели существ поблизости",
           "Блок, призывающий мобов",
-          "Блок, призывающий Хранителя",
+          "Блок, призывающий Xранителя",
           "Декоративный блок в Древнем Городе"
         ]
       },
@@ -5346,18 +5346,18 @@
         "question": "Как попасть на крышу Незера?",
         "answers": [
           "Через баги с поршнями или TNT-прыжком",
-          "",
+          "Залететь на элитрах",
           "Сломать киркой верхний слой незерских блоков",
-          "Если туда попать игрок сразу умирает"
+          "Если туда попасть игрок сразу умирает"
         ]
       },
       "en": {
         "question": "",
         "answers": [
-          "The area above y=128 in the Nether; accessible via piston glitches or TNT jump in Java",
-          "A secret Nether biome",
-          "The top layer of Nether blocks",
-          "An inaccessible area in Bedrock"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -5375,7 +5375,7 @@
       "en": {
         "question": "",
         "answers": [
-          "1.10 (Frostburn Update)",
+          "1.10",
           "1.9",
           "1.11",
           "1.12"
@@ -5417,10 +5417,10 @@
       "en": {
         "question": "",
         "answers": [
-          "An illusioner mob in the Woodland Mansion that drops the Totem of Undying",
-          "A mage villager that drops potions",
-          "A raid boss that drops emeralds",
-          "A mansion guard that drops a key"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -5469,7 +5469,7 @@
     {
       "id": 261,
       "ru": {
-        "question": "В каком обновлении появился Тихоня (Allay)?",
+        "question": "В каком обновлении появился Тихоня?",
         "answers": [
           "1.19",
           "1.20",
@@ -5501,10 +5501,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Piglin",
-          "Zombified Piglin",
-          "Wither Skeleton",
-          "Nether Skeleton"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -5522,10 +5522,10 @@
       "en": {
         "question": "",
         "answers": [
-          "A block that detects changes in the block state in front of it and outputs a redstone pulse",
-          "A block that tracks mob movement",
-          "A day/night sensor",
-          "A block that detects a player"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -5557,17 +5557,17 @@
         "answers": [
           "Именованные двоичные теги данных предметов/блоков",
           "Название блока текстуры",
-          "Индивидуальный индификатор предмета/блока",
+          "Индивидуальный идентификатор предмета/блока",
           "Название предмета/блока"
         ]
       },
       "en": {
         "question": "",
         "answers": [
-          "Named Binary Tag — data attached to items/blocks/entities",
-          "Name of Block Texture",
-          "Number of Block Texture",
-          "Nano-Byte Tag"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
@@ -5577,8 +5577,8 @@
         "question": "Как может быть получена пластинка Relic?",
         "answers": [
           "Только посредством раскопок частей пластинки и последующего крафта",
-          "Дроп с заряженого криппера которого убьет скелет",
-          "В сундуках сакровищницы",
+          "Дроп с заряженного крипера, которого убьет скелет",
+          "В сундуках сокровищницы",
           "В развалинах бастиона"
         ]
       },
@@ -5606,17 +5606,17 @@
       "en": {
         "question": "",
         "answers": [
-          "/kill @e[type=!player]",
-          "/kill @a[!player]",
-          "/kill @e[not=player]",
-          "/kill @all[except=player]"
+          "/kill @e[distance=..300]",
+          "/kill @e",
+          "/kill @e[distance=..300, type=!player]",
+          "/remove @e[distance=..300]"
         ]
       }
     },
     {
       "id": 268,
       "ru": {
-        "question": "Что может уловить Откалиброванный скалковый сенсер, которому подали входной сигнал силы 5?",
+        "question": "Что может уловить Откалиброванный скалковый сенсор, которому подали входной сигнал силы 5?",
         "answers": [
           "Спешивание с сущностей или экипировка снаряжения",
           "Любые звуки",
@@ -5627,21 +5627,21 @@
       "en": {
         "question": "",
         "answers": [
-          "Enderman",
-          "Shulker",
-          "Ender Dragon",
-          "Endermite"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     },
     {
       "id": 269,
       "ru": {
-        "question": "По какому принципу резная книжная полка выдает редстоун сигнал?",
+        "question": "По какому принципу резная книжная полка выдаёт редстоун-сигнал?",
         "answers": [
           "Уровень сигнала указывает последний слот, с которым взаимодействовали",
           "Уровень сигнала указывает на количество любых книг",
-          "Уровень сигнала указывает на количеством зачарованных книг",
+          "Уровень сигнала указывает на количество зачарованных книг",
           "Если есть хоть одна книга, то выдает сигнал равный 15"
         ]
       },
@@ -5669,10 +5669,10 @@
       "en": {
         "question": "",
         "answers": [
-          "Cave Game",
-          "Block World",
-          "MineTest",
-          "Survival Builder"
+          "5",
+          "4",
+          "6",
+          "3"
         ]
       }
     }
