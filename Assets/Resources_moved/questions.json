@@ -3,887 +3,5677 @@
     {
       "id": 1,
       "ru": {
-        "question": "В каком биоме можно найти кактусы?",
-        "answers": [ "Пустыня", "Тайга", "Равнина", "Болото" ]
+        "question": "Кто создал Minecraft?",
+        "answers": [
+          "Маркус Перссон (Notch)",
+          "Йенс Бергенстен (jeb_)",
+          "Тодд Говард",
+          "Агнес Ларссон (LadyAgnes)"
+        ]
       },
       "en": {
-        "question": "In which biome can cacti be found?",
-        "answers": [ "Desert", "Taiga", "Plain", "Swamp" ]
+        "question": "",
+        "answers": [
+          "Markus Persson (Notch)",
+          "Jens Bergensten (jeb_)",
+          "Todd Howard",
+          "Agnes Larsson (LadyAgnes)"
+        ]
       }
     },
     {
       "id": 2,
       "ru": {
-        "question": "Как называется дружелюбный моб, который дает молоко?",
-        "answers": [ "Корова", "Овца", "Свинья", "Курица" ]
+        "question": "Из чего крафтится верстак?",
+        "answers": [
+          "4 доски",
+          "4 бревна",
+          "4 палки",
+          "4 камня"
+        ]
       },
       "en": {
-        "question": "What is the name of the friendly mob that gives milk?",
-        "answers": [ "Cow", "Sheep", "Pig", "Chicken" ]
+        "question": "",
+        "answers": [
+          "4 wooden planks",
+          "4 wooden logs",
+          "4 sticks",
+          "4 stones"
+        ]
       }
     },
     {
       "id": 3,
       "ru": {
-        "question": "Что выпадает при разрушении блока травы?",
-        "answers": [ "Семена пшеницы", "Морковь", "Картофель", "Свекла" ]
+        "question": "Какой моб взрывается рядом с игроком?",
+        "answers": [
+          "Крипер",
+          "Зомби",
+          "Скелет",
+          "Паук"
+        ]
       },
       "en": {
-        "question": "What drops when breaking a grass block?",
-        "answers": [ "Wheat seeds", "Carrot", "Potato", "Beetroot" ]
+        "question": "",
+        "answers": [
+          "Creeper",
+          "Zombie",
+          "Skeleton",
+          "Spider"
+        ]
       }
     },
     {
       "id": 4,
       "ru": {
-        "question": "Какой моб атакует игрока, если на нем нет золотой брони в Нижнем мире?",
-        "answers": [ "Пиглин", "Зоглин", "Ифрит", "Магмовый куб" ]
+        "question": "Какой инструмент нужен для добычи дерева?",
+        "answers": [
+          "Топор",
+          "Кирка",
+          "Лопата",
+          "Мотыга"
+        ]
       },
       "en": {
-        "question": "Which mob attacks the player if they are not wearing gold armor in the Nether?",
-        "answers": [ "Piglin", "Zoglin", "Blaze", "Magma Cube" ]
+        "question": "",
+        "answers": [
+          "Axe",
+          "Pickaxe",
+          "Shovel",
+          "Hoe"
+        ]
       }
     },
     {
       "id": 5,
       "ru": {
-        "question": "В какой структуре можно найти сундук с сокровищами и спаунер мобов?",
-        "answers": [ "Подземелье (Dungeon)", "Деревня", "Храм в пустыне", "Иглу" ]
+        "question": "Как называется финальный босс Minecraft?",
+        "answers": [
+          "Эндер Дракон",
+          "Иссушитель",
+          "Страж",
+          "Крипер"
+        ]
       },
       "en": {
-        "question": "In which structure can you find a treasure chest and a mob spawner?",
-        "answers": [ "Dungeon", "Village", "Desert Temple", "Igloo" ]
+        "question": "",
+        "answers": [
+          "Ender Dragon",
+          "Wither",
+          "Guardian",
+          "Creeper"
+        ]
       }
     },
     {
       "id": 6,
       "ru": {
-        "question": "Какой блок используется для создания карты?",
-        "answers": [ "Бумага и компас", "Бумага и часы", "Бумага и перо", "Бумага и чернильный мешок" ]
+        "question": "Как снять все отрицательные эффекты?",
+        "answers": [
+          "Выпить молоко",
+          "Искупаться в воде",
+          "Съесть золотое яблоко",
+          "Выпить бутылочку мёда"
+        ]
       },
       "en": {
-        "question": "What items are used to craft a map?",
-        "answers": [ "Paper and compass", "Paper and clock", "Paper and feather", "Paper and ink sac" ]
+        "question": "",
+        "answers": [
+          "10",
+          "12",
+          "8",
+          "15"
+        ]
       }
     },
     {
       "id": 7,
       "ru": {
-        "question": "В каком биоме идет снег вместо дождя?",
-        "answers": [ "Тайга", "Пустыня", "Саванна", "Джунгли" ]
+        "question": "Сколько слотов в стандартном инвентаре игрока?",
+        "answers": [
+          "36",
+          "27",
+          "45",
+          "54"
+        ]
       },
       "en": {
-        "question": "In which biome does it snow instead of rain?",
-        "answers": [ "Taiga", "Desert", "Savanna", "Jungle" ]
+        "question": "",
+        "answers": [
+          "36",
+          "27",
+          "45",
+          "54"
+        ]
       }
     },
     {
       "id": 8,
       "ru": {
-        "question": "Какой моб может быть приручен с помощью кости?",
-        "answers": [ "Волк", "Оцелот", "Лошадь", "Попугай" ]
+        "question": "Какой блок горит вечно?",
+        "answers": [
+          "Адский камень (Незерак)",
+          "Древний обломок",
+          "Уголь-блок",
+          "Кварц"
+        ]
       },
       "en": {
-        "question": "Which mob can be tamed with a bone?",
-        "answers": [ "Wolf", "Ocelot", "Horse", "Parrot" ]
+        "question": "",
+        "answers": [
+          "Netherrack",
+          "Ancient Debris",
+          "Coal Block",
+          "Quartz"
+        ]
       }
     },
     {
       "id": 9,
       "ru": {
-        "question": "Что нужно сделать, чтобы размножить коров?",
-        "answers": [ "Накормить их пшеницей", "Накормить их семенами", "Накормить их яблоками", "Накормить их морковью" ]
+        "question": "Из чего делается стекло?",
+        "answers": [
+          "Песок",
+          "Гравий",
+          "Камень",
+          "Кварц"
+        ]
       },
       "en": {
-        "question": "What do you need to do to breed cows?",
-        "answers": [ "Feed them wheat", "Feed them seeds", "Feed them apples", "Feed them carrots" ]
+        "question": "",
+        "answers": [
+          "Sand",
+          "Gravel",
+          "Stone",
+          "Quartz"
+        ]
       }
     },
     {
       "id": 10,
       "ru": {
-        "question": "Какой моб живет в воде и может быть пойман ведром?",
-        "answers": [ "Рыба (любая)", "Слизень", "Черепаха", "Дельфин" ]
+        "question": "Сколько сердец здоровья у игрока по умолчанию?",
+        "answers": [
+          "10",
+          "12",
+          "8",
+          "15"
+        ]
       },
       "en": {
-        "question": "Which mob lives in water and can be caught with a bucket?",
-        "answers": [ "Fish (any)", "Slime", "Turtle", "Dolphin" ]
+        "question": "",
+        "answers": [
+          "10",
+          "12",
+          "8",
+          "15"
+        ]
       }
     },
     {
       "id": 11,
       "ru": {
-        "question": "Какой блок можно использовать для создания бесконечного источника воды?",
-        "answers": [ "2 ведра воды (в углублении 2x2)", "1 ведро воды", "3 ведра воды", "4 ведра воды" ]
+        "question": "Какой инструмент добывает камень быстрее всего?",
+        "answers": [
+          "Кирка",
+          "Топор",
+          "Лопата",
+          "Меч"
+        ]
       },
       "en": {
-        "question": "What is needed to create an infinite water source?",
-        "answers": [ "2 water buckets (in a 2x2 hole)", "1 water bucket", "3 water buckets", "4 water buckets" ]
+        "question": "",
+        "answers": [
+          "Pickaxe",
+          "Axe",
+          "Shovel",
+          "Sword"
+        ]
       }
     },
     {
       "id": 12,
       "ru": {
-        "question": "Как называется враждебный моб, который стреляет стрелами?",
-        "answers": [ "Скелет", "Зомби", "Крипер", "Паук" ]
+        "question": "Как называется измерение, куда ведет портал из обсидиана?",
+        "answers": [
+          "Незер",
+          "Енд",
+          "Рай",
+          "Лимб"
+        ]
       },
       "en": {
-        "question": "What is the name of the hostile mob that shoots arrows?",
-        "answers": [ "Skeleton", "Zombie", "Creeper", "Spider" ]
+        "question": "",
+        "answers": [
+          "The Nether",
+          "The End",
+          "Heaven",
+          "Limbo"
+        ]
       }
     },
     {
       "id": 13,
       "ru": {
-        "question": "В каком биоме естественно спаунятся лисы?",
-        "answers": [ "Тайга", "Пустыня", "Равнина", "Болото" ]
+        "question": "Из чего нельзя скрафтить меч?",
+        "answers": [
+          "Кирпичи",
+          "Железо",
+          "Алмазы",
+          "Дерево"
+        ]
       },
       "en": {
-        "question": "In which biome do foxes naturally spawn?",
-        "answers": [ "Taiga", "Desert", "Plain", "Swamp" ]
+        "question": "",
+        "answers": [
+          "Bricks",
+          "Iron",
+          "Diamonds",
+          "Wood"
+        ]
       }
     },
     {
       "id": 14,
       "ru": {
-        "question": "Какой предмет нужен для создания факела?",
-        "answers": [ "Уголь и палка", "Огниво и палка", "Красный камень и палка", "Железо и палка" ]
+        "question": "Какой моб дропает шерсть?",
+        "answers": [
+          "Овца",
+          "Корова",
+          "Свинья",
+          "Курица"
+        ]
       },
       "en": {
-        "question": "What items are needed to craft a torch?",
-        "answers": [ "Coal and stick", "Flint and steel and stick", "Redstone and stick", "Iron and stick" ]
+        "question": "",
+        "answers": [
+          "Sheep",
+          "Cow",
+          "Pig",
+          "Chicken"
+        ]
       }
     },
     {
       "id": 15,
       "ru": {
-        "question": "Какой моб появляется из яйца?",
-        "answers": [ "Цыпленок", "Утенок", "Индюк", "Голубь" ]
+        "question": "Что нужно, чтобы зажечь портал в Незер?",
+        "answers": [
+          "Огниво",
+          "Факел",
+          "Огненный шар",
+          "Лава"
+        ]
       },
       "en": {
-        "question": "Which mob hatches from an egg?",
-        "answers": [ "Chick", "Duckling", "Turkey", "Pigeon" ]
+        "question": "",
+        "answers": [
+          "Flint and Steel",
+          "Torch",
+          "Crying Obsidian",
+          "Lava"
+        ]
       }
     },
     {
       "id": 16,
       "ru": {
-        "question": "В какой структуре можно найти библиотеку?",
-        "answers": [ "Крепость (Stronghold)", "Деревня", "Храм в джунглях", "Сокровищница" ]
+        "question": "Из какого блока делают кровать?",
+        "answers": [
+          "Шерсть и деревянные доски",
+          "Кожа и деревянные доски",
+          "Шерсть и камень",
+          "Шерсть и железо"
+        ]
       },
       "en": {
-        "question": "In which structure can you find a library?",
-        "answers": [ "Stronghold", "Village", "Jungle Temple", "Buried Treasure" ]
+        "question": "",
+        "answers": [
+          "Wool and wooden planks",
+          "Leather and wooden planks",
+          "Wool and stone",
+          "Wool and iron"
+        ]
       }
     },
     {
       "id": 17,
       "ru": {
-        "question": "Какой блок используется для создания деревянной двери?",
-        "answers": [ "Доски", "Камень", "Железные слитки", "Золотые слитки" ]
+        "question": "Какой моб атакует только ночью?",
+        "answers": [
+          "Паук",
+          "Эндермен",
+          "Летучая мышь",
+          "Железный голем"
+        ]
       },
       "en": {
-        "question": "What block is used to craft a wooden door?",
-        "answers": [ "Planks", "Stone", "Iron ingots", "Gold ingots" ]
+        "question": "",
+        "answers": [
+          "??",
+          "??",
+          "??",
+          "??"
+        ]
       }
     },
     {
       "id": 18,
       "ru": {
-        "question": "Какой моб может быть приручен сырой треской или лососем?",
-        "answers": [ "Оцелот", "Волк", "Лошадь", "Попугай" ]
+        "question": "Как называется режим игры без возрождения?",
+        "answers": [
+          "Хардкор",
+          "Выживание",
+          "Приключение",
+          "Творческий"
+        ]
       },
       "en": {
-        "question": "Which mob can be tamed with raw cod or salmon?",
-        "answers": [ "Ocelot", "Wolf", "Horse", "Parrot" ]
+        "question": "",
+        "answers": [
+          "Hardcore",
+          "Survival",
+          "Adventure",
+          "Creative"
+        ]
       }
     },
     {
       "id": 19,
       "ru": {
-        "question": "В каком биоме можно найти поляны с большим количеством цветов?",
-        "answers": [ "Равнина", "Пустыня", "Горы", "Болото" ]
+        "question": "Что такое элитры?",
+        "answers": [
+          "Крылья для полёта",
+          "Броня",
+          "Плащ",
+          "Оружие"
+        ]
       },
       "en": {
-        "question": "In which biome can you find fields with many flowers?",
-        "answers": [ "Plain", "Desert", "Mountains", "Swamp" ]
+        "question": "",
+        "answers": [
+          "Wings for gliding",
+          "A breastplate",
+          "A cape",
+          "A jetpack"
+        ]
       }
     },
     {
       "id": 20,
       "ru": {
-        "question": "Как называется моб, который взрывается при приближении игрока?",
-        "answers": [ "Крипер", "Зомби", "Скелет", "Ведьма" ]
+        "question": "Какого моба нельзя оседлать?",
+        "answers": [
+          "Корова",
+          "Свинья",
+          "Лошадь",
+          "Наутилус"
+        ]
       },
       "en": {
-        "question": "What is the name of the mob that explodes when near the player?",
-        "answers": [ "Creeper", "Zombie", "Skeleton", "Witch" ]
+        "question": "",
+        "answers": [
+          "Cow",
+          "Pig",
+          "Horse",
+          "Nautilus"
+        ]
       }
-    }
-  ],
-  "medium": [
+    },
     {
       "id": 21,
       "ru": {
-        "question": "В каком биоме можно естественно найти пчел и ульи?",
-        "answers": [ "Цветочный лес", "Пустыня", "Тайга", "Болото" ]
+        "question": "Из чего делается факел?",
+        "answers": [
+          "Уголь и палка",
+          "Дерево и огонь",
+          "Кремень и палка",
+          "Железо и палка"
+        ]
       },
       "en": {
-        "question": "In which biome can bees and beehives be found naturally?",
-        "answers": [ "Flower Forest", "Desert", "Taiga", "Swamp" ]
+        "question": "",
+        "answers": [
+          "Coal and stick",
+          "Wood and fire",
+          "Flint and stick",
+          "Iron and stick"
+        ]
       }
     },
     {
       "id": 22,
       "ru": {
-        "question": "Какой моб атакует игрока, если тот смотрит ему в глаза?",
-        "answers": [ "Эндермен", "Зомби", "Скелет", "Крипер" ]
+        "question": "Что дропает курица при убийстве?",
+        "answers": [
+          "Сырая курятина и перья",
+          "Яйца и перья",
+          "Кожа и мясо",
+          "Только мясо"
+        ]
       },
       "en": {
-        "question": "Which mob attacks the player if they look it in the eyes?",
-        "answers": [ "Enderman", "Zombie", "Skeleton", "Creeper" ]
+        "question": "",
+        "answers": [
+          "Raw chicken and feathers",
+          "Eggs and feathers",
+          "Leather and meat",
+          "Only meat"
+        ]
       }
     },
     {
       "id": 23,
       "ru": {
-        "question": "Как называется крупная структура в океане, состоящая из призмарина и охраняемая Стражами?",
-        "answers": [ "Океанский памятник", "Затонувший корабль", "Подводная крепость", "Подводная пещера" ]
+        "question": "В каком режиме у игрока нет здоровья и голода?",
+        "answers": [
+          "Творческий",
+          "Выживание",
+          "Хардкор",
+          "Приключение"
+        ]
       },
       "en": {
-        "question": "What is the large ocean structure made of prismarine and guarded by Guardians?",
-        "answers": [ "Ocean Monument", "Shipwreck", "Underwater Fortress", "Underwater Cave" ]
+        "question": "",
+        "answers": [
+          "Creative",
+          "Survival",
+          "Hardcore",
+          "Adventure"
+        ]
       }
     },
     {
       "id": 24,
       "ru": {
-        "question": "Какой профессии у жителя НЕ существует в ванильной игре?",
-        "answers": [ "Охотник", "Рыбак", "Библиотекарь", "Оружейник" ]
+        "question": "Что используется для ловли рыбы?",
+        "answers": [
+          "Удочка",
+          "Сеть",
+          "Вёдра",
+          "Копьё"
+        ]
       },
       "en": {
-        "question": "Which villager profession does NOT exist in vanilla Minecraft?",
-        "answers": [ "Hunter", "Fisherman", "Librarian", "Weaponsmith" ]
+        "question": "",
+        "answers": [
+          "Fishing Rod",
+          "Net",
+          "Bucket",
+          "Spear"
+        ]
       }
     },
     {
       "id": 25,
       "ru": {
-        "question": "В каком биоме можно найти деревья с темной корой и гигантскими грибами?",
-        "answers": [ "Тёмный лес", "Березовый лес", "Джунгли", "Тайга" ]
+        "question": "Как называется блок для приготовления еды?",
+        "answers": [
+          "Печь",
+          "Верстак",
+          "Наковальня",
+          "Котёл"
+        ]
       },
       "en": {
-        "question": "In which biome can you find trees with dark bark and giant mushrooms?",
-        "answers": [ "Dark Forest", "Birch Forest", "Jungle", "Taiga" ]
+        "question": "",
+        "answers": [
+          "Furnace",
+          "Crafting Table",
+          "Anvil",
+          "Cauldron"
+        ]
       }
     },
     {
       "id": 26,
       "ru": {
-        "question": "Какой босс может быть вызван с помощью черепа Скелета-иссушителя?",
-        "answers": [ "Иссушитель", "Визер-скелет", "Эндер-дракон", "Гигант" ]
+        "question": "Сколько блоков обсидиана нужно для портала в Незер (минимум)?",
+        "answers": [
+          "10",
+          "14",
+          "6",
+          "8"
+        ]
       },
       "en": {
-        "question": "Which boss can be summoned using Wither Skeleton skulls?",
-        "answers": [ "Wither", "Wither Skeleton", "Ender Dragon", "Giant" ]
+        "question": "",
+        "answers": [
+          "10",
+          "14",
+          "6",
+          "8"
+        ]
       }
     },
     {
       "id": 27,
       "ru": {
-        "question": "В какой структуре можно найти обсидиан, сундуки и пламя в Нижнем мире?",
-        "answers": [ "Крепость Нижнего мира", "Деревня", "Подземелье", "Храм в пустыне" ]
+        "question": "Какой моб стреляет стрелами?",
+        "answers": [
+          "Скелет",
+          "Зомби",
+          "Крипер",
+          "Паук"
+        ]
       },
       "en": {
-        "question": "In which structure in the Nether can you find obsidian, chests, and blaze spawners?",
-        "answers": [ "Nether Fortress", "Village", "Dungeon", "Desert Temple" ]
+        "question": "",
+        "answers": [
+          "Skeleton",
+          "Zombie",
+          "Creeper",
+          "Spider"
+        ]
       }
     },
     {
       "id": 28,
       "ru": {
-        "question": "Какой блок является основой для пирамиды маяка?",
-        "answers": [ "Железный блок", "Алмазный блок", "Золотой блок", "Изумрудный блок" ]
+        "question": "Что нужно для приручения волка?",
+        "answers": [
+          "Кость",
+          "Мясо",
+          "Рыба",
+          "Яблоко"
+        ]
       },
       "en": {
-        "question": "Which block can be used as the base for a beacon pyramid?",
-        "answers": [ "Iron Block", "Diamond Block", "Gold Block", "Emerald Block" ]
+        "question": "",
+        "answers": [
+          "Bone",
+          "Meat",
+          "Fish",
+          "Apple"
+        ]
       }
     },
     {
       "id": 29,
       "ru": {
-        "question": "В каком биоме можно найти голубые орхидеи?",
-        "answers": [ "Болото", "Равнина", "Лес", "Горы" ]
+        "question": "Какой блок нельзя разрушить инструментом?",
+        "answers": [
+          "Бедрок",
+          "Обсидиан",
+          "Плачущий обсидиан",
+          "Незеритовый блок"
+        ]
       },
       "en": {
-        "question": "In which biome can blue orchids be found?",
-        "answers": [ "Swamp", "Plain", "Forest", "Mountains" ]
+        "question": "",
+        "answers": [
+          "Bedrock",
+          "Obsidian",
+          "Enchanted Obsidian",
+          "Netherite Block"
+        ]
       }
     },
     {
       "id": 30,
       "ru": {
-        "question": "Какой предмет позволяет игроку летать в режиме Выживания?",
-        "answers": [ "Элитры", "Лошадь", "Свинья с седлом", "Лодка" ]
+        "question": "Какой камень получается при плавке булыжника?",
+        "answers": [
+          "Камень",
+          "Гранит",
+          "Диорит",
+          "Андезит"
+        ]
       },
       "en": {
-        "question": "Which item allows the player to fly in Survival mode?",
-        "answers": [ "Elytra", "Horse", "Pig with saddle", "Boat" ]
+        "question": "",
+        "answers": [
+          "Stone",
+          "Granite",
+          "Diorite",
+          "Andesite"
+        ]
       }
     },
     {
       "id": 31,
       "ru": {
-        "question": "Как называется враждебный моб, который появляется в Нижнем мире и стреляет огненными шарами?",
-        "answers": [ "Ифрит", "Зоглин", "Магмовый куб", "Пиглин" ]
+        "question": "В каком биоме постоянно идёт снег?",
+        "answers": [
+          "Заснеженная тундра",
+          "Тайга",
+          "Горы",
+          "Равнины"
+        ]
       },
       "en": {
-        "question": "What is the hostile mob that spawns in the Nether and shoots fireballs?",
-        "answers": [ "Blaze", "Zoglin", "Magma Cube", "Piglin" ]
+        "question": "",
+        "answers": [
+          "Snowy Tundra",
+          "Taiga",
+          "Mountains",
+          "Plains"
+        ]
       }
     },
     {
       "id": 32,
       "ru": {
-        "question": "В какой структуре можно найти портал в Край?",
-        "answers": [ "Крепость (Stronghold)", "Деревня", "Храм в пустыне", "Иглу" ]
+        "question": "Что дропает корова при убийстве?",
+        "answers": [
+          "Говядина и кожа",
+          "Молоко и говядина",
+          "Только кожа",
+          "Только молоко"
+        ]
       },
       "en": {
-        "question": "In which structure can you find the End portal?",
-        "answers": [ "Stronghold", "Village", "Desert Temple", "Igloo" ]
+        "question": "",
+        "answers": [
+          "Beef and leather",
+          "Milk and beef",
+          "Only leather",
+          "Only milk"
+        ]
       }
     },
     {
       "id": 33,
       "ru": {
-        "question": "Какой предмет нужен для варки зелий?",
-        "answers": [ "Варочная стойка", "Верстак", "Наковальня", "Стол зачаровывания" ]
+        "question": "Что нужно для того, чтобы приручить кошку?",
+        "answers": [
+          "Сырая треска или лосось",
+          "Молоко",
+          "Кость",
+          "Мясо"
+        ]
       },
       "en": {
-        "question": "What block is needed to brew potions?",
-        "answers": [ "Brewing Stand", "Crafting Table", "Anvil", "Enchanting Table" ]
+        "question": "",
+        "answers": [
+          "Raw cod or salmon",
+          "Milk",
+          "Bone",
+          "Meat"
+        ]
       }
     },
     {
       "id": 34,
       "ru": {
-        "question": "В каком биоме вода замерзает, образуя лед?",
-        "answers": [ "Замерзшая река", "Пустыня", "Саванна", "Джунгли" ]
+        "question": "Какой инструмент используется для вспахивания земли?",
+        "answers": [
+          "Мотыга",
+          "Лопата",
+          "Топор",
+          "Кирка"
+        ]
       },
       "en": {
-        "question": "In which biome does water freeze into ice?",
-        "answers": [ "Frozen River", "Desert", "Savanna", "Jungle" ]
+        "question": "",
+        "answers": [
+          "Hoe",
+          "Shovel",
+          "Axe",
+          "Pickaxe"
+        ]
       }
     },
     {
       "id": 35,
       "ru": {
-        "question": "Какой моб может быть приручен сладкими ягодами?",
-        "answers": [ "Лиса", "Волк", "Медведь", "Кролик" ]
+        "question": "Что добывается из железной руды при плавке?",
+        "answers": [
+          "Железный слиток",
+          "Железная пыль",
+          "Железный самородок",
+          "Сталь"
+        ]
       },
       "en": {
-        "question": "Which mob can be tamed with sweet berries?",
-        "answers": [ "Fox", "Wolf", "Bear", "Rabbit" ]
+        "question": "",
+        "answers": [
+          "Iron Ingot",
+          "Iron Dust",
+          "Iron Nugget",
+          "Steel"
+        ]
       }
     },
     {
       "id": 36,
       "ru": {
-        "question": "Как называется структура в пустыне, содержащая ловушки и скрытые сундуки?",
-        "answers": [ "Храм в пустыне", "Деревня в пустыне", "Крепость", "Подземелье" ]
+        "question": "Как называется структура, в которой живут жители?",
+        "answers": [
+          "Деревня",
+          "Форт",
+          "Храм",
+          "Аванпост"
+        ]
       },
       "en": {
-        "question": "What is the structure in the desert that contains traps and hidden chests?",
-        "answers": [ "Desert Temple", "Desert Village", "Stronghold", "Dungeon" ]
+        "question": "",
+        "answers": [
+          "Village",
+          "Fort",
+          "Temple",
+          "Outpost"
+        ]
       }
     },
     {
       "id": 37,
       "ru": {
-        "question": "Какой блок является ключевым для создания Сердец моря?",
-        "answers": [ "Сердце моря (это предмет)", "Призмарин", "Морской фонарь", "Влажный губчатый блок" ]
+        "question": "Какой материал самый прочный в игре?",
+        "answers": [
+          "Незерит",
+          "Алмаз",
+          "Золото",
+          "Железо"
+        ]
       },
       "en": {
-        "question": "Which item is key to crafting conduits?",
-        "answers": [ "Heart of the Sea", "Prismarine", "Sea Lantern", "Wet Sponge" ]
+        "question": "",
+        "answers": [
+          "Netherite",
+          "Diamond",
+          "Gold",
+          "Iron"
+        ]
       }
     },
     {
       "id": 38,
       "ru": {
-        "question": "В каком уникальном биоме спаунятся грибные коровы?",
-        "answers": [ "Грибной остров", "Равнина", "Лес", "Горы" ]
+        "question": "Что происходит, если упасть в пустоту?",
+        "answers": [
+          "Смерть",
+          "Телепортируешься на ближайший блок",
+          "Телепортируешься в спавн",
+          "Ничего"
+        ]
       },
       "en": {
-        "question": "In which unique biome do mooshrooms spawn?",
-        "answers": [ "Mushroom Fields", "Plain", "Forest", "Mountains" ]
+        "question": "",
+        "answers": [
+          "Death",
+          "Teleport to the nearest block",
+          "Teleport to spawn",
+          "Nothing"
+        ]
       }
     },
     {
       "id": 39,
       "ru": {
-        "question": "Какой моб может носить сундук и использоваться для перевозки грузов?",
-        "answers": [ "Лама", "Лошадь", "Осел", "Свинья" ]
+        "question": "Что нужно, чтобы скрафтить ножницы?",
+        "answers": [
+          "2 железных слитка",
+          "2 медных слитка",
+          "Кремень и железо",
+          "2 золотых слитка"
+        ]
       },
       "en": {
-        "question": "Which mob can wear a chest and be used to carry items?",
-        "answers": [ "Llama", "Horse", "Donkey", "Pig" ]
+        "question": "",
+        "answers": [
+          "2 iron ingots",
+          "2 copper ingots",
+          "Flint and iron",
+          "2 gold ingots"
+        ]
       }
     },
     {
       "id": 40,
       "ru": {
-        "question": "Как называется структура в джунглях, содержащая ловушки, красный камень и сундуки?",
-        "answers": [ "Храм в джунглях", "Деревня в джунглях", "Крепость", "Подземелье" ]
+        "question": "Что падает с зомби при убийстве?",
+        "answers": [
+          "Гнилая плоть",
+          "Кости",
+          "Стрелы",
+          "Кожа"
+        ]
       },
       "en": {
-        "question": "What is the structure in the jungle that contains traps, redstone, and chests?",
-        "answers": [ "Jungle Temple", "Jungle Village", "Stronghold", "Dungeon" ]
+        "question": "",
+        "answers": [
+          "Rotten Flesh",
+          "Bones",
+          "Arrows",
+          "Leather"
+        ]
       }
-    }
-  ],
-  "hard": [
+    },
     {
       "id": 41,
       "ru": {
-        "question": "В каком биоме можно найти редкий цветок – синюю орхидею?",
-        "answers": [ "Болото", "Цветочный лес", "Тайга", "Равнина" ]
+        "question": "Из чего крафтится лук?",
+        "answers": [
+          "3 палки и 3 нити",
+          "2 палки и 4 нити",
+          "4 палки и 2 нити",
+          "3 палки и 3 кожи"
+        ]
       },
       "en": {
-        "question": "In which biome can the rare blue orchid be found?",
-        "answers": [ "Swamp", "Flower Forest", "Taiga", "Plain" ]
+        "question": "",
+        "answers": [
+          "3 sticks and 3 strings",
+          "2 sticks and 4 strings",
+          "4 sticks and 2 strings",
+          "3 sticks and 3 leather"
+        ]
       }
     },
     {
       "id": 42,
       "ru": {
-        "question": "Какой моб может быть вызван игроком с помощью определенных предметов?",
-        "answers": [ "Железный голем", "Визер-скелет", "Эндер-дракон", "Гигант" ]
+        "question": "Что нужно для дыхания под водой без зелий?",
+        "answers": [
+          "Черепаший панцирь (шлем)",
+          "Шлем из золота",
+          "Маска для ныряния",
+          "Кольцо из коралла"
+        ]
       },
       "en": {
-        "question": "Which mob can be spawned by the player using specific items?",
-        "answers": [ "Iron Golem", "Wither Skeleton", "Ender Dragon", "Giant" ]
+        "question": "",
+        "answers": [
+          "Turtle Shell (helmet)",
+          "Gold Helmet",
+          "Diving Mask",
+          "Coral Ring"
+        ]
       }
     },
     {
       "id": 43,
       "ru": {
-        "question": "В какой структуре можно найти комнату с уже активированным порталом в Нижний мир?",
-        "answers": [ "Руины портала", "Деревня", "Крепость", "Иглу" ]
+        "question": "Какой враждебный моб не горит на солнце",
+        "answers": [
+          "Кадавр",
+          "Зомби-наездник",
+          "Скелет-наездник",
+          "Зомби-житель"
+        ]
       },
       "en": {
-        "question": "In which structure can you find a room with an already activated Nether portal?",
-        "answers": [ "Ruined Portal", "Village", "Stronghold", "Igloo" ]
+        "question": "",
+        "answers": [
+          "",
+          "",
+          "",
+          ""
+        ]
       }
     },
     {
       "id": 44,
       "ru": {
-        "question": "Какая профессия жителя позволяет покупать зачарованные книги?",
-        "answers": [ "Библиотекарь", "Оружейник", "Торговец картами", "Кожевник" ]
+        "question": "Какой главный ингредиент для зелья ночного зрения?",
+        "answers": [
+          "Золотая морковь",
+          "Иглобрюх",
+          "Слеза гаста",
+          "Сахар"
+        ]
       },
       "en": {
-        "question": "Which villager profession allows you to buy enchanted books?",
-        "answers": [ "Librarian", "Weaponsmith", "Cartographer", "Leatherworker" ]
+        "question": "",
+        "answers": [
+          "Golden Carrot",
+          "Pufferfish",
+          "Ghast Tear",
+          "Sugar"
+        ]
       }
     },
     {
       "id": 45,
       "ru": {
-        "question": "В каком биоме можно найти редкий блок – мицелий?",
-        "answers": [ "Грибной остров", "Болото", "Лес", "Горы" ]
+        "question": "Какой моб не даёт молоко?",
+        "answers": [
+          "Овца",
+          "Коза",
+          "Корова",
+          "Грибная корова"
+        ]
       },
       "en": {
-        "question": "In which biome can the rare block mycelium be found?",
-        "answers": [ "Mushroom Fields", "Swamp", "Forest", "Mountains" ]
+        "question": "",
+        "answers": [
+          "Sheep",
+          "Goat",
+          "Cow",
+          "Mooshroom"
+        ]
       }
     },
     {
       "id": 46,
       "ru": {
-        "question": "Какой моб может быть использован для ускорения плавания игрока?",
-        "answers": [ "Дельфин", "Черепаха", "Рыба", "Кальмар" ]
+        "question": "Что нужно для крафта ведра?",
+        "answers": [
+          "3 железных слитка",
+          "3 золотых слитка",
+          "3 медных слитка",
+          "4 железных слитка"
+        ]
       },
       "en": {
-        "question": "Which mob can be used to increase the player's swimming speed?",
-        "answers": [ "Dolphin", "Turtle", "Fish", "Squid" ]
+        "question": "",
+        "answers": [
+          "3 iron ingots",
+          "3 gold ingots",
+          "3 copper ingots",
+          "4 iron ingots"
+        ]
       }
     },
     {
       "id": 47,
       "ru": {
-        "question": "Как называется структура, которая генерируется в снежном биоме и содержит жителя-бездомного и зомби-жителя?",
-        "answers": [ "Иглу с подвалом", "Деревня в тундре", "Крепость", "Подземелье" ]
+        "question": "Какой цвет имеет алмаз в Minecraft?",
+        "answers": [
+          "Голубой",
+          "Зелёный",
+          "Жёлтый",
+          "Красный"
+        ]
       },
       "en": {
-        "question": "What is the structure that generates in snowy biomes and contains a nitwit villager and a zombie villager?",
-        "answers": [ "Igloo with basement", "Snowy Tundra Village", "Stronghold", "Dungeon" ]
+        "question": "",
+        "answers": [
+          "Blue",
+          "Green",
+          "Yellow",
+          "Red"
+        ]
       }
     },
     {
       "id": 48,
       "ru": {
-        "question": "Какой блок используется для создания Якоря возрождения?",
-        "answers": [ "Плачущий обсидиан", "Обсидиан", "Магма-блок", "Незерраковая руда" ]
+        "question": "Как называется дерево с белой корой?",
+        "answers": [
+          "Берёза",
+          "Ель",
+          "Дуб",
+          "Акация"
+        ]
       },
       "en": {
-        "question": "Which block is used to craft a Respawn Anchor?",
-        "answers": [ "Crying Obsidian", "Obsidian", "Magma Block", "Netherrack" ]
+        "question": "",
+        "answers": [
+          "Birch",
+          "Spruce",
+          "Oak",
+          "Acacia"
+        ]
       }
     },
     {
       "id": 49,
       "ru": {
-        "question": "В каком биоме можно найти редкое дерево – темный дуб?",
-        "answers": [ "Тёмный лес", "Березовый лес", "Джунгли", "Тайга" ]
+        "question": "Что происходит с крипером при ударе молнии?",
+        "answers": [
+          "Становится заряженным",
+          "Сразу взрывается",
+          "Умирает",
+          "Ничего"
+        ]
       },
       "en": {
-        "question": "In which biome can the rare dark oak tree be found?",
-        "answers": [ "Dark Forest", "Birch Forest", "Jungle", "Taiga" ]
+        "question": "",
+        "answers": [
+          "It becomes charged",
+          "It immediately explodes",
+          "It dies",
+          "Nothing"
+        ]
       }
     },
     {
       "id": 50,
       "ru": {
-        "question": "Какой моб может быть создан игроком для защиты от враждебных мобов?",
-        "answers": [ "Снежный голем", "Визер-скелет", "Эндермен", "Ифрит" ]
+        "question": "В каком году была официально выпущена Java Edition Minecraft?",
+        "answers": [
+          "2011",
+          "2009",
+          "2013",
+          "2015"
+        ]
       },
       "en": {
-        "question": "Which mob can be created by the player to defend against hostile mobs?",
-        "answers": [ "Snow Golem", "Wither Skeleton", "Enderman", "Blaze" ]
+        "question": "",
+        "answers": [
+          "2011",
+          "2009",
+          "2013",
+          "2015"
+        ]
       }
     },
     {
       "id": 51,
       "ru": {
-        "question": "Как называется крупная, опасная структура в Нижнем мире, состоящая из черного камня и содержащая пиглинов-брутов?",
-        "answers": [ "Бастион", "Крепость Нижнего мира", "Руины портала", "Лавовое озеро" ]
+        "question": "Как называется вид дерева, растущего в болоте с версии 1.19?",
+        "answers": [
+          "Мангровое дерево",
+          "Болотный кипарис",
+          "Тростниковое дерево",
+          "Болотная пальма"
+        ]
       },
       "en": {
-        "question": "What is the large, dangerous structure in the Nether made of blackstone that contains piglin brutes?",
-        "answers": [ "Bastion", "Nether Fortress", "Ruined Portal", "Lava Lake" ]
+        "question": "",
+        "answers": [
+          "Mangrove Tree",
+          "Swamp Cypress",
+          "Reed Tree",
+          "Swamp Palm"
+        ]
       }
     },
     {
       "id": 52,
       "ru": {
-        "question": "Какой предмет нужен для создания Звезды Края?",
-        "answers": [ "Слезы Гаста", "Звезда Нижнего мира", "Алмаз", "Изумруд" ]
+        "question": "Чем кормят кроликов, чтобы они размножались?",
+        "answers": [
+          "Морковь, одуванчик или золотая морковь",
+          "Только морковь",
+          "Трава и листья",
+          "Яблоки"
+        ]
       },
       "en": {
-        "question": "What item is needed to craft an End Crystal?",
-        "answers": [ "Ghast Tear", "Nether Star", "Diamond", "Emerald" ]
+        "question": "",
+        "answers": [
+          "Dandelion, carrot or golden carrot",
+          "Only carrots",
+          "Grass and leaves",
+          "Apples"
+        ]
       }
     },
     {
       "id": 53,
       "ru": {
-        "question": "В каком биоме можно найти редкий блок – подзол?",
-        "answers": [ "Гигантская еловая тайга", "Болото", "Лес", "Горы" ]
+        "question": "Из чего делается блок слизи?",
+        "answers": [
+          "9 слизи",
+          "4 слизис",
+          "6 слизис",
+          "8 слизи и зелёный краситель"
+        ]
       },
       "en": {
-        "question": "In which biome can the rare block podzol be found?",
-        "answers": [ "Giant Spruce Taiga", "Swamp", "Forest", "Mountains" ]
+        "question": "",
+        "answers": [
+          "9 slimeballs",
+          "4 slimeballs",
+          "6 slimeballs",
+          "9 swamp slime"
+        ]
       }
     },
     {
       "id": 54,
       "ru": {
-        "question": "Какой моб может быть использован для создания бесконечного источника стрел?",
-        "answers": [ "Скелет", "Зомби", "Крипер", "Ведьма" ]
+        "question": "Кого боиться криппер?",
+        "answers": [
+          "Кошки",
+          "Игрока",
+          "Скилета",
+          "Лису"
+        ]
       },
       "en": {
-        "question": "Which mob can be used to create an infinite arrow source?",
-        "answers": [ "Skeleton", "Zombie", "Creeper", "Witch" ]
+        "question": "",
+        "answers": [
+          "Bee",
+          "Wolf",
+          "Polar Bear",
+          "Fox"
+        ]
       }
     },
     {
       "id": 55,
       "ru": {
-        "question": "Как называется структура, которая генерируется в океане и содержит сундук с картой сокровищ?",
-        "answers": [ "Затонувший корабль", "Подводная крепость", "Океанский памятник", "Руины" ]
+        "question": "Что нужно для крафта компаса?",
+        "answers": [
+          "4 железных слитка и 1 красный камень",
+          "4 золотых слитка и 1 красный камень",
+          "4 железных слитка и 1 уголь",
+          "2 железных слитка и 2 красных камня"
+        ]
       },
       "en": {
-        "question": "What is the structure that generates in oceans and contains a chest with a treasure map?",
-        "answers": [ "Shipwreck", "Underwater Fortress", "Ocean Monument", "Ruins" ]
+        "question": "",
+        "answers": [
+          "4 iron ingots and 1 redstone dust",
+          "4 gold ingots and 1 redstone dust",
+          "4 iron ingots and 1 coal",
+          "2 iron ingots and 2 redstone dust"
+        ]
       }
     },
     {
       "id": 56,
       "ru": {
-        "question": "Какой блок используется для создания полной пирамиды маяка максимального уровня?",
-        "answers": [ "164 блока из железа, золота, изумруда, алмаза или незерита", "100 блоков камня", "200 блоков стекла", "50 блоков обсидиана" ]
+        "question": "Какой урон у железного меча?",
+        "answers": [
+          "7",
+          "8",
+          "5",
+          "4"
+        ]
       },
       "en": {
-        "question": "How many blocks are needed for a full pyramid to power a beacon to maximum level?",
-        "answers": [ "164 blocks of iron, gold, emerald, diamond, or netherite", "100 stone blocks", "200 glass blocks", "50 obsidian blocks" ]
+        "question": "",
+        "answers": [
+          "Glowstone",
+          "Glowbug",
+          "Fluoresceite",
+          "Darkstone"
+        ]
       }
     },
     {
       "id": 57,
       "ru": {
-        "question": "В каком биоме можно найти редкий цветок – ландыш?",
-        "answers": [ "Лес", "Тайга", "Равнина", "Болото" ]
+        "question": "Что падает со скелета?",
+        "answers": [
+          "Кости и стрелы",
+          "Стрелы и кожа",
+          "Порох и кости",
+          "Только кости"
+        ]
       },
       "en": {
-        "question": "In which biome can the rare lily of the valley be found?",
-        "answers": [ "Forest", "Taiga", "Plain", "Swamp" ]
+        "question": "",
+        "answers": [
+          "Bones and arrows",
+          "Arrows and leather",
+          "Gunpowder and bones",
+          "Only bones"
+        ]
       }
     },
     {
       "id": 58,
       "ru": {
-        "question": "Какой моб может быть использован для быстрого перемещения по льду?",
-        "answers": [ "Лодка", "Лошадь", "Свинья со слизневым блоком", "Корабль" ]
+        "question": "Как открыть инвентарь по умолчанию?",
+        "answers": [
+          "E",
+          "I",
+          "Tab",
+          "Q"
+        ]
       },
       "en": {
-        "question": "What can be used for fast travel on ice?",
-        "answers": [ "Boat", "Horse", "Pig with slime block", "Ship" ]
+        "question": "",
+        "answers": [
+          "E",
+          "I",
+          "Tab",
+          "Q"
+        ]
       }
     },
     {
       "id": 59,
       "ru": {
-        "question": "Как называется структура, которая генерируется в Нижнем мире и содержит множество золотых блоков и пиглинов?",
-        "answers": [ "Бастион", "Крепость Нижнего мира", "Руины портала", "Лавовое озеро" ]
+        "question": "Что нужно для крафта лестницы?",
+        "answers": [
+          "7 палок",
+          "6 палок",
+          "2 доски",
+          "4 доски"
+        ]
       },
       "en": {
-        "question": "What is the structure that generates in the Nether and contains many gold blocks and piglins?",
-        "answers": [ "Bastion", "Nether Fortress", "Ruined Portal", "Lava Lake" ]
+        "question": "",
+        "answers": [
+          "7 sticks",
+          "6 sticks",
+          "2 planks",
+          "4 planks"
+        ]
       }
     },
     {
       "id": 60,
       "ru": {
-        "question": "Какой предмет нужен для создания зелья регенерации?",
-        "answers": [ "Огненный порошок", "Светопыль", "Глаз паука", "Слеза гаста" ]
+        "question": "Какой плод можно найти в джунглях на деревьях?",
+        "answers": [
+          "Какао-бобы",
+          "Бананы",
+          "Кокосы",
+          "Манго"
+        ]
       },
       "en": {
-        "question": "What item is needed to brew a Potion of Regeneration?",
-        "answers": [ "Ghast Tear", "Glowstone Dust", "Spider Eye", "Blaze Powder" ]
+        "question": "",
+        "answers": [
+          "Cocoa Beans",
+          "Bananas",
+          "Coconuts",
+          "Mangoes"
+        ]
       }
-    }
-  ],
-  "very_hard": [
+    },
     {
       "id": 61,
       "ru": {
-        "question": "В каком биоме можно найти редкий блок – голубой лед?",
-        "answers": [ "Замерзший океан", "Тайга", "Горы", "Болото" ]
+        "question": "Как называется блок, который восстанавливает редстоун-сигналы до 15?",
+        "answers": [
+          "Репитер",
+          "Компаратор",
+          "Диспенсер",
+          "Хопер"
+        ]
       },
       "en": {
-        "question": "In which biome can the rare block blue ice be found?",
-        "answers": [ "Frozen Ocean", "Taiga", "Mountains", "Swamp" ]
+        "question": "",
+        "answers": [
+          "Repeater",
+          "Comparator",
+          "Dispenser",
+          "Hopper"
+        ]
       }
     },
     {
       "id": 62,
       "ru": {
-        "question": "Какой моб может быть призван с помощью определенного чарования на трискеле?",
-        "answers": [ "Нет такого моба", "Визер-скелет", "Иссушитель", "Эндер-дракон" ]
+        "question": "Как называется блок для варки зелий?",
+        "answers": [
+          "Стойка для зелий",
+          "Алхимический стол",
+          "Котёл",
+          "Печь"
+        ]
       },
       "en": {
-        "question": "Which mob can be summoned with a specific enchantment on a trident?",
-        "answers": [ "No such mob", "Wither Skeleton", "Wither", "Ender Dragon" ]
+        "question": "",
+        "answers": [
+          "Brewing Stand",
+          "Alchemy Table",
+          "Cauldron",
+          "Furnace"
+        ]
       }
     },
     {
       "id": 63,
       "ru": {
-        "question": "В какой структуре можно найти комнату с драгоценными блоками и спаунером мобов в Нижнем мире?",
-        "answers": [ "Бастион", "Крепость Нижнего мира", "Руины портала", "Лавовое озеро" ]
+        "question": "Какое животное можно оседлать в Minecraft?",
+        "answers": [
+          "Лошадь",
+          "Медведь",
+          "Волк",
+          "Лиса"
+        ]
       },
       "en": {
-        "question": "In which structure in the Nether can you find a room with precious blocks and a mob spawner?",
-        "answers": [ "Bastion", "Nether Fortress", "Ruined Portal", "Lava Lake" ]
+        "question": "",
+        "answers": [
+          "Horse",
+          "Bear",
+          "Wolf",
+          "Fox"
+        ]
       }
     },
     {
       "id": 64,
       "ru": {
-        "question": "Какая профессия жителя позволяет покупать зачарованные алмазные инструменты?",
-        "answers": [ "Оружейник", "Библиотекарь", "Торговец картами", "Кожевник" ]
+        "question": "Что происходит при прыжке на кровать?",
+        "answers": [
+          "Отскакиваешь",
+          "Засыпаешь",
+          "Теряешь здоровье",
+          "Ломается кровать"
+        ]
       },
       "en": {
-        "question": "Which villager profession allows you to buy enchanted diamond tools?",
-        "answers": [ "Weaponsmith", "Librarian", "Cartographer", "Leatherworker" ]
+        "question": "",
+        "answers": [
+          "You bounce",
+          "You sleep",
+          "You take damage",
+          "The bed breaks"
+        ]
       }
     },
     {
       "id": 65,
       "ru": {
-        "question": "В каком биоме можно найти редкий цветок – венчик розового куста?",
-        "answers": [ "Цветочный лес", "Лес", "Тайга", "Равнина" ]
+        "question": "Сколько очков опыта нужно на первый уровень?",
+        "answers": [
+          "7",
+          "5",
+          "10",
+          "3"
+        ]
       },
       "en": {
-        "question": "In which biome can the rare rose bush be found?",
-        "answers": [ "Flower Forest", "Forest", "Taiga", "Plain" ]
+        "question": "",
+        "answers": [
+          "7",
+          "5",
+          "10",
+          "3"
+        ]
       }
     },
     {
       "id": 66,
       "ru": {
-        "question": "Какой моб может быть приручен и использован для атаки на других мобов с помощью красного камня?",
-        "answers": [ "Железный голем", "Снежный голем", "Волк", "Оцелот" ]
+        "question": "Что нужно сделать, чтобы спать в кровати?",
+        "answers": [
+          "Подойти и нажать правую кнопку мыши",
+          "Лечь и ждать",
+          "Поставить кровать и стоять рядом",
+          "Нажать клавишу сна"
+        ]
       },
       "en": {
-        "question": "Which mob can be tamed and used to attack other mobs using redstone?",
-        "answers": [ "Iron Golem", "Snow Golem", "Wolf", "Ocelot" ]
+        "question": "",
+        "answers": [
+          "Approach and right-click",
+          "Lie down and wait",
+          "Place the bed and stand near it",
+          "Press a sleep key"
+        ]
       }
     },
     {
       "id": 67,
       "ru": {
-        "question": "Как называется структура, которая генерируется в Краю и содержит множество шалкеров?",
-        "answers": [ "Энд-город", "Энд-корабль", "Энд-порталы", "Энд-остров" ]
+        "question": "Какой предмет необходим для зачарования оружия на столе зачарований?",
+        "answers": [
+          "Лазурит",
+          "Изумруд",
+          "Рубин",
+          "Алмаз"
+        ]
       },
       "en": {
-        "question": "What is the structure that generates in the End and contains many shulkers?",
-        "answers": [ "End City", "End Ship", "End Portals", "End Island" ]
+        "question": "",
+        "answers": [
+          "Lapis Lazuli",
+          "Emerald",
+          "Ruby",
+          "Diamond"
+        ]
       }
     },
     {
       "id": 68,
       "ru": {
-        "question": "Какой блок используется для создания Якоря возрождения в Нижнем мире?",
-        "answers": [ "Плачущий обсидиан", "Обсидиан", "Магма-блок", "Незерраковая руда" ]
+        "question": "Что дропает гаст при убийстве?",
+        "answers": [
+          "Слеза гаста и порох",
+          "Огненный шар и слеза",
+          "Только порох",
+          "Только слеза гаста"
+        ]
       },
       "en": {
-        "question": "Which block is used to craft a Respawn Anchor in the Nether?",
-        "answers": [ "Crying Obsidian", "Obsidian", "Magma Block", "Netherrack" ]
+        "question": "",
+        "answers": [
+          "Ghast tear and gunpowder",
+          "Fireball and tear",
+          "Only gunpowder",
+          "Only ghast tear"
+        ]
       }
     },
     {
       "id": 69,
       "ru": {
-        "question": "В каком биоме можно найти редкий блок – каменный уголь (угольная руда)?",
-        "answers": [ "Горы", "Тайга", "Лес", "Болото" ]
+        "question": "Какой блок можно использовать как топливо в печи?",
+        "answers": [
+          "Уголь",
+          "Камень",
+          "Железный слиток",
+          "Золотой слиток"
+        ]
       },
       "en": {
-        "question": "In which biome can the rare block coal ore be found? (trick: it generates everywhere, but mountains are most common)",
-        "answers": [ "Mountains", "Taiga", "Forest", "Swamp" ]
+        "question": "",
+        "answers": [
+          "Coal",
+          "Stone",
+          "Iron Ingot",
+          "Gold Ingot"
+        ]
       }
     },
     {
       "id": 70,
       "ru": {
-        "question": "Какой моб может быть призван с помощью яйца призыва в креативе?",
-        "answers": [ "Эндер-дракон", "Визер-скелет", "Иссушитель", "Гигант" ]
+        "question": "Как называется дерево в болотном биоме?",
+        "answers": [
+          "Мангровое дерево",
+          "Дуб",
+          "Ель",
+          "Тёмный дуб"
+        ]
       },
       "en": {
-        "question": "Which mob can be summoned with a spawn egg in Creative mode?",
-        "answers": [ "Ender Dragon", "Wither Skeleton", "Wither", "Giant" ]
+        "question": "",
+        "answers": [
+          "Oak with vines",
+          "Mangrove Tree",
+          "Willow",
+          "Dark Oak"
+        ]
       }
     },
     {
       "id": 71,
       "ru": {
-        "question": "Как называется структура, которая генерируется в океане и содержит призмариновые блоки и золотые блоки?",
-        "answers": [ "Океанский памятник", "Затонувший корабль", "Подводная крепость", "Руины" ]
+        "question": "Как называется моб-торговец, путешествующий по миру с ламами?",
+        "answers": [
+          "Странствующий торговец",
+          "Бродячий купец",
+          "Цыганский торговец",
+          "Свободный торговец"
+        ]
       },
       "en": {
-        "question": "What is the structure that generates in oceans and contains prismarine blocks and gold blocks?",
-        "answers": [ "Ocean Monument", "Shipwreck", "Underwater Fortress", "Ruins" ]
+        "question": "",
+        "answers": [
+          "Wandering Trader",
+          "Roaming Merchant",
+          "Gypsy Trader",
+          "Free Merchant"
+        ]
       }
     },
     {
       "id": 72,
       "ru": {
-        "question": "Какой предмет нужен для создания зелья медленного падения?",
-        "answers": [ "Перо", "Огненный порошок", "Светопыль", "Глаз паука" ]
+        "question": "Что нужно сделать для получения двойного сундука?",
+        "answers": [
+          "Поставить два сундука рядом",
+          "Скрафтить большой сундук",
+          "Использовать зачарование",
+          "Двойные сундуки не существуют"
+        ]
       },
       "en": {
-        "question": "What item is needed to brew a Potion of Slow Falling?",
-        "answers": [ "Phantom Membrane", "Blaze Powder", "Glowstone Dust", "Spider Eye" ]
+        "question": "",
+        "answers": [
+          "Place two chests side by side",
+          "Craft a large chest",
+          "Use an enchantment",
+          "You can't, double chests don't exist"
+        ]
       }
     },
     {
       "id": 73,
       "ru": {
-        "question": "В каком биоме можно найти редкий цветок – подсолнух?",
-        "answers": [ "Подсолнечная равнина", "Лес", "Тайга", "Болото" ]
+        "question": "Что нужно для крафта книги?",
+        "answers": [
+          "3 бумаги и 1 кожа",
+          "4 бумаги",
+          "2 бумаги и 2 кожи",
+          "3 кожи и 1 бумага"
+        ]
       },
       "en": {
-        "question": "In which biome can the rare sunflower be found?",
-        "answers": [ "Sunflower Plains", "Forest", "Taiga", "Swamp" ]
+        "question": "",
+        "answers": [
+          "3 paper and 1 leather",
+          "4 paper",
+          "2 paper and 2 leather",
+          "3 leather and 1 paper"
+        ]
       }
     },
     {
       "id": 74,
       "ru": {
-        "question": "Какой моб может быть использован для поиска сокровищ?",
-        "answers": [ "Свинья-единорог (нет в игре)", "Дельфин", "Лиса", "Кролик" ]
+        "question": "Какой моб является пассивным и живёт в воде?",
+        "answers": [
+          "Аксолотль",
+          "Страж",
+          "Утопленник",
+          "Страж"
+        ]
       },
       "en": {
-        "question": "Which mob can be used to find buried treasure?",
-        "answers": [ "Unicorn pig (not in game)", "Dolphin", "Fox", "Rabbit" ]
+        "question": "",
+        "answers": [
+          "Fish",
+          "Squid",
+          "Drowned",
+          "Guardian"
+        ]
       }
     },
     {
       "id": 75,
       "ru": {
-        "question": "Как называется структура, которая генерируется в пустыне и содержит скрытые комнаты с сокровищами?",
-        "answers": [ "Храм в пустыне", "Деревня в пустыне", "Крепость", "Подземелье" ]
+        "question": "Что нужно для приручения попугая?",
+        "answers": [
+          "Семена",
+          "Ягоды",
+          "Орехи",
+          "Фрукты"
+        ]
       },
       "en": {
-        "question": "What is the structure that generates in deserts and contains hidden rooms with treasure?",
-        "answers": [ "Desert Temple", "Desert Village", "Stronghold", "Dungeon" ]
+        "question": "",
+        "answers": [
+          "Seeds",
+          "Cookies",
+          "Nuts",
+          "Fruit"
+        ]
       }
     },
     {
       "id": 76,
       "ru": {
-        "question": "Какой блок используется для создания маяка максимального уровня?",
-        "answers": [ "164 блока из железа, золота, изумруда, алмаза или незерита", "100 блоков", "200 блоков", "50 блоков" ]
+        "question": "Какой инструмент лучше всего добывает гравий?",
+        "answers": [
+          "Лопата",
+          "Кирка",
+          "Топор",
+          "Мотыга"
+        ]
       },
       "en": {
-        "question": "How many blocks are needed for a max level beacon pyramid?",
-        "answers": [ "164 blocks of iron, gold, emerald, diamond, or netherite", "100 blocks", "200 blocks", "50 blocks" ]
+        "question": "",
+        "answers": [
+          "Shovel",
+          "Pickaxe",
+          "Axe",
+          "Hoe"
+        ]
       }
     },
     {
       "id": 77,
       "ru": {
-        "question": "В каком биоме можно найти редкий блок – красный песок?",
-        "answers": [ "Меза", "Пустыня", "Саванна", "Болото" ]
+        "question": "Где появляются гасты?",
+        "answers": [
+          "В Незере",
+          "В энде",
+          "В пещерах",
+          "В пустыне"
+        ]
       },
       "en": {
-        "question": "In which biome can the rare block red sand be found?",
-        "answers": [ "Badlands", "Desert", "Savanna", "Swamp" ]
+        "question": "",
+        "answers": [
+          "In the Nether",
+          "In The End",
+          "In caves",
+          "In the desert"
+        ]
       }
     },
     {
       "id": 78,
       "ru": {
-        "question": "Какой моб может быть призван с помощью командного блока?",
-        "answers": [ "Любой моб", "Только враждебные мобы", "Только дружелюбные мобы", "Только нейтральные мобы" ]
+        "question": "Что выпадает из гравия?",
+        "answers": [
+          "Кремень",
+          "Камень",
+          "Уголь",
+          "Ничего"
+        ]
       },
       "en": {
-        "question": "Which mob can be summoned using a command block?",
-        "answers": [ "Any mob", "Only hostile mobs", "Only friendly mobs", "Only neutral mobs" ]
+        "question": "",
+        "answers": [
+          "Flint",
+          "Stone",
+          "Coal",
+          "Nothing"
+        ]
       }
     },
     {
       "id": 79,
       "ru": {
-        "question": "Как называется структура, которая генерируется в аду и содержит древние обломки?",
-        "answers": [ "Бастион", "Крепость Нижнего мира", "Руины портала", "Лавовое озеро" ]
+        "question": "Сколько максимально глаз эндера нужно для активации портала?",
+        "answers": [
+          "12",
+          "8",
+          "14",
+          "10"
+        ]
       },
       "en": {
-        "question": "What is the structure that generates in the Nether and contains ancient debris?",
-        "answers": [ "Bastion", "Nether Fortress", "Ruined Portal", "Lava Lake" ]
+        "question": "",
+        "answers": [
+          "End Portal Frame",
+          "Ender Stone",
+          "Teleport Block",
+          "Portalite"
+        ]
       }
     },
     {
       "id": 80,
       "ru": {
-        "question": "Какой предмет нужен для создания зелья невидимости?",
-        "answers": [ "Золотая морковь и ферментированный глаз паука", "Огненный порошок", "Светопыль", "Слеза гаста" ]
+        "question": "Что нужно для активации портала в Энд?",
+        "answers": [
+          "Глаза эндера в рамку портала",
+          "Алмазы в рамку портала",
+          "Поджечь",
+          "Эндер-жемчуг в центре"
+        ]
       },
       "en": {
-        "question": "What item is needed to brew a Potion of Invisibility?",
-        "answers": [ "Golden Carrot and Fermented Spider Eye", "Blaze Powder", "Glowstone Dust", "Ghast Tear" ]
+        "question": "",
+        "answers": [
+          "Eyes of Ender placed in the portal frame",
+          "Diamonds in the portal frame",
+          "Light with flint and steel",
+          "Ender Pearl in the center"
+        ]
+      }
+    },
+    {
+      "id": 81,
+      "ru": {
+        "question": "Что такое Minecraft?",
+        "answers": [
+          "Это игра про блоки и выживание",
+          "Это RPG",
+          "Это шутер",
+          "Это гоночная игра"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Sandbox / survival game",
+          "RPG",
+          "Shooter",
+          "Racing game"
+        ]
+      }
+    },
+    {
+      "id": 82,
+      "ru": {
+        "question": "Что дропает паук при убийстве?",
+        "answers": [
+          "Нить и глаза паука",
+          "Яд и нить",
+          "Паутина и нить",
+          "Только нить"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "String and spider eyes",
+          "Venom and string",
+          "Cobweb and string",
+          "Only string"
+        ]
+      }
+    },
+    {
+      "id": 83,
+      "ru": {
+        "question": "Что можно скрафтить из костей?",
+        "answers": [
+          "Костная мука",
+          "Белый краситель",
+          "Зола",
+          "Меловой порошок"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Bone Meal",
+          "White Dye",
+          "Ash",
+          "Chalk Powder"
+        ]
+      }
+    },
+    {
+      "id": 84,
+      "ru": {
+        "question": "Что нужно, чтобы скрафтить карту?",
+        "answers": [
+          "8 бумаги и 1 компас",
+          "4 бумаги и 1 компаса",
+          "9 бумаги",
+          "6 бумаги и 1 кожа"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "8 paper and 1 compass",
+          "4 paper and 1 compasses",
+          "9 paper",
+          "6 paper and 1 leather"
+        ]
+      }
+    },
+    {
+      "id": 85,
+      "ru": {
+        "question": "Какой блок не используется для хранения предметов?",
+        "answers": [
+          "Верстак",
+          "Сундук",
+          "Шалкеровый ящик",
+          "Бочка"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Chest",
+          "Crafting Table",
+          "Furnace",
+          "Barrel"
+        ]
+      }
+    },
+    {
+      "id": 86,
+      "ru": {
+        "question": "Что нужно для крафта бумаги?",
+        "answers": [
+          "3 сахарного тростника",
+          "2 сахарного тростника",
+          "4 сахарного тростника",
+          "1 бамбук и 2 тростника"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "3 sugar cane",
+          "2 sugar cane",
+          "4 sugar cane",
+          "1 bamboo and 2 cane"
+        ]
+      }
+    },
+    {
+      "id": 87,
+      "ru": {
+        "question": "Что нужно для крафта наковальни?",
+        "answers": [
+          "3 железных блока и 4 железных слитка",
+          "4 железных блока и 3 слитка",
+          "9 железных блоков",
+          "6 железных блоков"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "3 iron blocks and 4 iron ingots",
+          "4 iron blocks and 3 ingots",
+          "9 iron blocks",
+          "6 iron blocks"
+        ]
+      }
+    },
+    {
+      "id": 88,
+      "ru": {
+        "question": "Что нужно для крафта деревянного меча?",
+        "answers": [
+          "2 деревянные доски и 1 палка",
+          "3 деревянные доски",
+          "2 палки и 1 доска",
+          "3 палки"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "2 wooden planks and 1 stick",
+          "3 wooden planks",
+          "2 sticks and 1 plank",
+          "3 sticks"
+        ]
+      }
+    },
+    {
+      "id": 89,
+      "ru": {
+        "question": "Как называется цветок, из которого можно получить желтый краситель?",
+        "answers": [
+          "Одуванчик",
+          "Тюльпан",
+          "Ландыш",
+          "Сирень"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Dandelion",
+          "Tulip",
+          "Rose",
+          "Daisy"
+        ]
+      }
+    },
+    {
+      "id": 90,
+      "ru": {
+        "question": "Какой блок не горит и не взрывается?",
+        "answers": [
+          "Обсидиан",
+          "Железный блок",
+          "Камень",
+          "Незеритовый блок"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Obsidian",
+          "Iron Block",
+          "Stone",
+          "Wood"
+        ]
+      }
+    },
+    {
+      "id": 91,
+      "ru": {
+        "question": "Что дропает эндермен при убийстве?",
+        "answers": [
+          "Эндер-жемчуг",
+          "Частицы Края",
+          "Эндер-кристалл",
+          "Око Края"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Ender Pearl",
+          "End Particles",
+          "End Crystal",
+          "String"
+        ]
+      }
+    },
+    {
+      "id": 92,
+      "ru": {
+        "question": "Какой блок притягивает к себе предметы и мобов?",
+        "answers": [
+          "Магма-блок",
+          "Лёд",
+          "Поршень",
+          "Обсидиан"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Magma Block",
+          "Ice",
+          "Piston",
+          "Obsidian"
+        ]
+      }
+    },
+    {
+      "id": 93,
+      "ru": {
+        "question": "Кто или что такое Herobrine в культуре Minecraft?",
+        "answers": [
+          "Легендарный фиктивный персонаж-призрак, якобы скрытый в игре, но никогда не существовал официально",
+          "Секретный босс в Незере",
+          "Плащ",
+          "Баг в ранних версиях игры"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "A legendary fictional ghost character supposedly hidden in the game; never officially existed",
+          "A secret boss in the Nether",
+          "A skin for Steve without pupils",
+          "A real bug in early versions"
+        ]
+      }
+    },
+    {
+      "id": 94,
+      "ru": {
+        "question": "Как называется моб, который может копировать звуки других мобов?",
+        "answers": [
+          "Попугай",
+          "Эндермен",
+          "Слизень",
+          "Магмакуб"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Shulker (when its shell is closed)",
+          "Enderman",
+          "Slime",
+          "Magma Cube"
+        ]
+      }
+    }
+  ],
+  "medium": [
+    {
+      "id": 95,
+      "ru": {
+        "question": "Какой моб преследует игрока, пока тот на него не смотрит?",
+        "answers": [
+          "Скрипун",
+          "Пиглин",
+          "Фантом",
+          "Эндермен"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "id": 96,
+      "ru": {
+        "question": "Как остановить окисление медных блоков и предметов?",
+        "answers": [
+          "Применить воск",
+          "Применить слизь",
+          "Применьть мед",
+          "Применить костную пыть"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "id": 97,
+      "ru": {
+        "question": "Сколько существует видов волков?",
+        "answers": [
+          "9",
+          "10",
+          "8",
+          "7"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Use a fire charge",
+          "Tap the frame with a diamond",
+          "Pour lava inside",
+          "Impossible"
+        ]
+      }
+    },
+    {
+      "id": 98,
+      "ru": {
+        "question": "Как называется биом Minecraft в Java Edition на котором не спавнятся враждеюные мобы?",
+        "answers": [
+          "Грибной остров",
+          "Ледяные шипы",
+          "Зачарованный лес",
+          "Глубокий Океан"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Modified Jungle Edge",
+          "Ice Spikes",
+          "Enchanted Forest",
+          "Mushroom Island"
+        ]
+      }
+    },
+    {
+      "id": 99,
+      "ru": {
+        "question": "Сколько существует вариантов глиняных черепков?",
+        "answers": [
+          "23",
+          "22",
+          "21",
+          "20"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Mining Fatigue",
+          "Lethargy",
+          "Slow Miner",
+          "Paralysis"
+        ]
+      }
+    },
+    {
+      "id": 100,
+      "ru": {
+        "question": "Какой из этих блоков не проводит сигнал редстоуна?",
+        "answers": [
+          "Стекло",
+          "Песок",
+          "Гравий",
+          "Шерсть"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Gunpowder, coal and blaze powder",
+          "Gunpowder, fire and flint",
+          "Ghast fireball and gunpowder",
+          "Coal and lava"
+        ]
+      }
+    },
+    {
+      "id": 101,
+      "ru": {
+        "question": "В каком биоме можно найти хижину ведьмы?",
+        "answers": [
+          "Болото",
+          "Джунгли",
+          "Саванна",
+          "Лес"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Jungle",
+          "Swamp",
+          "Savanna",
+          "Forest"
+        ]
+      }
+    },
+    {
+      "id": 102,
+      "ru": {
+        "question": "Сколько нужно черепов скелета-иссушителя для создания иссушителя?",
+        "answers": [
+          "3",
+          "2",
+          "4",
+          "1"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "3",
+          "2",
+          "4",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": 103,
+      "ru": {
+        "question": "Какое зачарование защищает от огня?",
+        "answers": [
+          "Огнестойкость",
+          "Шипы",
+          "Ледоход",
+          "Заговор Огня"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Fire Protection",
+          "Flame Shield",
+          "Fire Guard",
+          "Immunity"
+        ]
+      }
+    },
+    {
+      "id": 104,
+      "ru": {
+        "question": "Из чего делается незеритовый слиток?",
+        "answers": [
+          "4 незеритовых лома и 4 золотых слитка",
+          "2 незеритовых лома и 6 золотых слитков",
+          "4 незеритовых лома и 4 медных слитка",
+          "4 незеритовых лома и 4 железных слитка"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "4 Netherite scraps and 4 gold ingots",
+          "2 scraps and 6 gold ingots",
+          "8 Netherite scraps",
+          "4 scraps and 4 iron ingots"
+        ]
+      }
+    },
+    {
+      "id": 105,
+      "ru": {
+        "question": "Какое зачарование позволяет копать быстрее?",
+        "answers": [
+          "Эффективность",
+          "Удача",
+          "Шёлковое касание",
+          "Прочность"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Efficiency",
+          "Fortune",
+          "Silk Touch",
+          "Unbreaking"
+        ]
+      }
+    },
+    {
+      "id": 106,
+      "ru": {
+        "question": "Что нужно для создания стола зачарований?",
+        "answers": [
+          "4 обсидиана, 2 алмаза, 1 книга",
+          "4 алмаза, 2 обсидиана, 1 книга",
+          "4 алмаза, 2 обсидиана, 1 книга",
+          "4 обсидиана, 2 книги, 1 алмаз"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "4 obsidian, 2 diamonds, 1 book",
+          "4 diamonds, 2 obsidian, 1 book",
+          "4 obsidian, 4 diamonds",
+          "3 obsidian, 3 diamonds, 1 book"
+        ]
+      }
+    },
+    {
+      "id": 107,
+      "ru": {
+        "question": "Какой моб появляется из зомби, убитого в воде?",
+        "answers": [
+          "Утопленник",
+          "Кадавр",
+          "Скелет",
+          "Зомби-Житель"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Drowned",
+          "Water Zombie",
+          "Aqua Undead",
+          "Sea Zombie"
+        ]
+      }
+    },
+    {
+      "id": 108,
+      "ru": {
+        "question": "Как называется структура в Незере, где обитают скелеты-иссушители?",
+        "answers": [
+          "Незерская крепость",
+          "Багровый лес",
+          "Базальтовые дельты",
+          "Бастион"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Nether Fortress",
+          "Nether Castle",
+          "Basalt Deltas",
+          "Bastion"
+        ]
+      }
+    },
+    {
+      "id": 109,
+      "ru": {
+        "question": "Как можно получить трезубец?",
+        "answers": [
+          "Дроп с утопленника",
+          "Крафт из 3 морских кристаллов и 2 палок",
+          "Найти в затонувшем корабле",
+          "Купить у жителя"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Drop from a Drowned",
+          "Craft from sea crystals",
+          "Craft from fish bones",
+          "Buy from a villager"
+        ]
+      }
+    },
+    {
+      "id": 110,
+      "ru": {
+        "question": "В какой версии добавил манговые деревья и биом мангровые болота?",
+        "answers": [
+          "1.19",
+          "1.21",
+          "1.18",
+          "1.20"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Mangrove Swamp",
+          "Tropical Forest",
+          "River Swamp",
+          "Leafy Swamp"
+        ]
+      }
+    },
+    {
+      "id": 111,
+      "ru": {
+        "question": "Сколько опыта начиная с 0 нужно что бы получить 30 уровень",
+        "answers": [
+          "1395",
+          "910",
+          "1288",
+          "1500"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Potion of Water Breathing",
+          "Aqua Helmet",
+          "Gills",
+          "Diving Mask"
+        ]
+      }
+    },
+    {
+      "id": 112,
+      "ru": {
+        "question": "Что не может дропать страж (Guardian) при убийстве?",
+        "answers": [
+          "Сердце моря",
+          "Призмариновый осколок",
+          "Рыба",
+          "Призмариновый кристалл"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Prismarine shard and fish",
+          "Sea lantern and crystal",
+          "Only fish",
+          "Sea glass"
+        ]
+      }
+    },
+    {
+      "id": 113,
+      "ru": {
+        "question": "Скольким сущностям возможно находиться в одном блоке (по умолчанию)?",
+        "answers": [
+          "24",
+          "12",
+          "20",
+          "16"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "id": 114,
+      "ru": {
+        "question": "Какое зелье замедляет падение?",
+        "answers": [
+          "Плавное падения",
+          "Плетения",
+          "Стремительности",
+          "Прыгучести"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Slow Falling",
+          "Lightness",
+          "Levitation",
+          "Jump Boost"
+        ]
+      }
+    },
+    {
+      "id": 115,
+      "ru": {
+        "question": "Что выпадает из шалкеров при убийстве?",
+        "answers": [
+          "Шалкеровый панцирь",
+          "Шалкеровый ящик",
+          "Частицы Края",
+          "Кристаллы Энда"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Shulker shells (sometimes)",
+          "Shulker boxes",
+          "End particles",
+          "End crystals"
+        ]
+      }
+    },
+    {
+      "id": 116,
+      "ru": {
+        "question": "Сколько дней без сна нужно для появления фантомов?",
+        "answers": [
+          "3",
+          "2",
+          "5",
+          "4"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "3",
+          "2",
+          "5",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": 117,
+      "ru": {
+        "question": "Что нужно для телепортации с помощью эндер-жемчуга?",
+        "answers": [
+          "Бросить эндер-жемчуг",
+          "Держать жемчуг и нажать на блок",
+          "Ничего",
+          "Положить в портал"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Throw the Ender Pearl",
+          "Hold the pearl and click a block",
+          "Toss the pearl into the air",
+          "Place it in a portal"
+        ]
+      }
+    },
+    {
+      "id": 118,
+      "ru": {
+        "question": "Что нужно для крафта эндер сундука?",
+        "answers": [
+          "8 обсидиана и 1 глаз эндера",
+          "8 камня и 1 глаз эндера",
+          "6 обсидиана и 3 алмаза",
+          "4 обсидиана и 4 эндер-жемчуга"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "8 obsidian and 1 eye of ender",
+          "8 stone and 1 eye of ender",
+          "6 obsidian and 3 diamonds",
+          "4 obsidian and 4 ender pearls"
+        ]
+      }
+    },
+    {
+      "id": 119,
+      "ru": {
+        "question": "Как называется руда, добавленная в 1.17?",
+        "answers": [
+          "Медная руда",
+          "Руда незерита",
+          "Изумрудная руда",
+          "Кварцевая руда"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Amethyst",
+          "Netherite",
+          "Copper",
+          "Dark Crystal"
+        ]
+      }
+    },
+    {
+      "id": 120,
+      "ru": {
+        "question": "Что нужно для создания маяка?",
+        "answers": [
+          "1 звезда Незера, 3 обсидиана, 5 стекла",
+          "1 звезды Незера, 4 обсидиана, 4 стекла",
+          "1 алмаз, 3 обсидиана, 5 стекла",
+          "3 звезды Незера и 6 стекла"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "1 Nether Star, 3 obsidian, 5 glass",
+          "2 Nether Stars, 4 obsidian, 4 glass",
+          "1 diamond and 8 glass",
+          "3 Nether Stars and 6 glass"
+        ]
+      }
+    },
+    {
+      "id": 121,
+      "ru": {
+        "question": "Какая прочность у Алмазной кирки без зачарований?",
+        "answers": [
+          "1561",
+          "2031",
+          "1370",
+          "1841"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "It transforms into a Zombified Piglin",
+          "It dies",
+          "It becomes angry",
+          "Nothing"
+        ]
+      }
+    },
+    {
+      "id": 122,
+      "ru": {
+        "question": "Какой моб живёт в бастионах Незера?",
+        "answers": [
+          "Пиглин",
+          "Зомби-пиглин",
+          "Гаст",
+          "Блейз"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Piglin",
+          "Zombified Piglin",
+          "Ghast",
+          "Blaze"
+        ]
+      }
+    },
+    {
+      "id": 123,
+      "ru": {
+        "question": "Что нужно для обмена с пиглином?",
+        "answers": [
+          "Золотой слиток",
+          "Золотой самородок",
+          "Золотой блок",
+          "Изумруд"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Gold ingot",
+          "Gold nugget",
+          "Gold block",
+          "Emerald"
+        ]
+      }
+    },
+    {
+      "id": 124,
+      "ru": {
+        "question": "Что такое 'Удача' как зачарование?",
+        "answers": [
+          "Увеличивает дроп с блоков",
+          "Ускоряет добычу",
+          "Повышает опыт",
+          "Добавляет шёлковое касание"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Increases block drops",
+          "Speeds up mining",
+          "Boosts experience",
+          "Adds silk touch"
+        ]
+      }
+    },
+    {
+      "id": 125,
+      "ru": {
+        "question": "В каком обновлении добавили Незеритовые инструменты?",
+        "answers": [
+          "1.16",
+          "1.17",
+          "1.15",
+          "1.18"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "1.16",
+          "1.17",
+          "1.15",
+          "1.18"
+        ]
+      }
+    },
+    {
+      "id": 126,
+      "ru": {
+        "question": "Что нужно для приручения лошади?",
+        "answers": [
+          "Сесть на неё несколько раз",
+          "Дать яблоко",
+          "Дать морковь",
+          "Привязать поводком"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Mount it several times until tamed",
+          "Feed it an apple",
+          "Feed it a carrot",
+          "Tie it with a lead"
+        ]
+      }
+    },
+    {
+      "id": 127,
+      "ru": {
+        "question": "Как называются структуры в Энде на внешних островах?",
+        "answers": [
+          "Город Края",
+          "Замок Края",
+          "Башня Края",
+          "Руины Края"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "End Cities",
+          "End Castles",
+          "End Towers",
+          "End Forts"
+        ]
+      }
+    },
+    {
+      "id": 128,
+      "ru": {
+        "question": "Что нужно для создания шалкерового ящика?",
+        "answers": [
+          "2 шалкеровых панциря и 1 сундук",
+          "1 шалкеровый панцирь и 1 сундук",
+          "4 шалкеровых панциря и 1 сундук",
+          "8 шалкеровых панциря"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "2 shulker shells and 1 chest",
+          "1 shulker shell and 1 chest",
+          "4 shells and 1 chest",
+          "2 shells and 2 chests"
+        ]
+      }
+    },
+    {
+      "id": 129,
+      "ru": {
+        "question": "Какой биом был добавлен в обновлении 1.18?",
+        "answers": [
+          "Пышные пещеры",
+          "Тёмный лес",
+          "Манговое болото",
+          "Вишневая роща"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Lush Caves",
+          "Dark Forest",
+          "Mangrove Swamp",
+          "Snowy Taiga"
+        ]
+      }
+    },
+    {
+      "id": 130,
+      "ru": {
+        "question": "Как называется моб, который появляется в скалистых горах?",
+        "answers": [
+          "Коза",
+          "Лиса",
+          "Овца",
+          "Медведь"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Mountain Goat",
+          "Mountain Deer",
+          "Ibex",
+          "Snow Ram"
+        ]
+      }
+    },
+    {
+      "id": 131,
+      "ru": {
+        "question": "Какой эффект может наложить Древний Страж на игрока?",
+        "answers": [
+          "Эффект утомления",
+          "Никакой",
+          "Слепота",
+          "Дурное Знамение"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Prismarine shard, crystal, and wet sponge",
+          "Sea lantern and fish",
+          "Only experience",
+          "Corals"
+        ]
+      }
+    },
+    {
+      "id": 132,
+      "ru": {
+        "question": "Как называется моб не может появиться в измерении Края?",
+        "answers": [
+          "Фантом",
+          "Эндермит",
+          "Шалкер",
+          "Эндермен"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Shulker",
+          "Ender Shooter",
+          "Crystal Guardian",
+          "End Warden"
+        ]
+      }
+    },
+    {
+      "id": 133,
+      "ru": {
+        "question": "В каком обновлении добавили пчёл?",
+        "answers": [
+          "1.15",
+          "1.14",
+          "1.16",
+          "1.13"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "1.15",
+          "1.14",
+          "1.16",
+          "1.13"
+        ]
+      }
+    },
+    {
+      "id": 134,
+      "ru": {
+        "question": "Что нужно для крафта блока меда?",
+        "answers": [
+          "4 бутылки мёда",
+          "9 бутылок мёда",
+          "4 сота",
+          "2 сота и 2 бутылки мёда"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "4 honey bottles",
+          "9 honey bottles",
+          "4 honeycombs",
+          "2 honeycombs and 2 honey"
+        ]
+      }
+    },
+    {
+      "id": 135,
+      "ru": {
+        "question": "Какой враждебный моб не появляется при Набеге (рейде)?",
+        "answers": [
+          "Зимогор",
+          "Ведьма",
+          "Разоритель",
+          "Поборник"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Pillager",
+          "Raider",
+          "Plunderer",
+          "Ravisher"
+        ]
+      }
+    },
+    {
+      "id": 136,
+      "ru": {
+        "question": "Что нужно для вызова рейда на деревню?",
+        "answers": [
+          "Зайти в деревню с эффектом Дурное знамение",
+          "Убить жителя",
+          "Разрушить Аванпост",
+          "Убить разбойника"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Enter a village with the Bad Omen effect",
+          "Kill a villager",
+          "Blow up TNT",
+          "Kill 10 Pillagers"
+        ]
+      }
+    },
+    {
+      "id": 137,
+      "ru": {
+        "question": "Что даёт зачарование 'Шёлковое касание'?",
+        "answers": [
+          "При разрущении выпадает разрущенный блок",
+          "Увеличивает дроп",
+          "Ускоряет добычу",
+          "Добавляет опыт"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Blocks drop as themselves",
+          "Increases drop amount",
+          "Speeds up mining",
+          "Adds experience"
+        ]
+      }
+    },
+    {
+      "id": 138,
+      "ru": {
+        "question": "Из чего делается фонарь?",
+        "answers": [
+          "Факел и кусочки железа",
+          "Уголь и кусочки железа",
+          "Свеча и кусочки железа",
+          "Редстоуновая пыль и светокамень"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Torch and iron nuggets",
+          "Coal and iron",
+          "Candle and stone",
+          "Glowstone and glass"
+        ]
+      }
+    },
+    {
+      "id": 139,
+      "ru": {
+        "question": "Как называется структура в тёмном лесу?",
+        "answers": [
+          "Лесной особняк",
+          "Замок вампира",
+          "Тёмная крепость",
+          "Хижина ведьмы"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Woodland Mansion",
+          "Vampire Castle",
+          "Dark Fortress",
+          "Witch Manor"
+        ]
+      }
+    },
+    {
+      "id": 140,
+      "ru": {
+        "question": "Что происходит с пиглином в Верхнем мире?",
+        "answers": [
+          "Превращается в зомби-пиглина",
+          "Умирает",
+          "Ничего",
+          "Атакует всех"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "It transforms into a Zombified Piglin",
+          "It dies",
+          "It flees",
+          "It attacks everyone"
+        ]
+      }
+    },
+    {
+      "id": 141,
+      "ru": {
+        "question": "Как называется структура в Незере, где живут пиглины?",
+        "answers": [
+          "Развалины бастиона",
+          "Незерская крепость",
+          "Пиглинский замок",
+          "Гнездо пиглинов"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Bastion Remnant",
+          "Nether Fortress",
+          "Piglin Castle",
+          "Piglin Den"
+        ]
+      }
+    },
+    {
+      "id": 142,
+      "ru": {
+        "question": "Сколько обсидиановых столбов генерируется в Крае?",
+        "answers": [
+          "10",
+          "8",
+          "16",
+          "12"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "12",
+          "8",
+          "16",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": 143,
+      "ru": {
+        "question": "Сколько книжных полок нужно для возможности зачарования на максимальный уровень?",
+        "answers": [
+          "15",
+          "14",
+          "13",
+          "12"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Enchanting table surrounded by 15 bookshelves",
+          "Anvil and experience",
+          "Crafting table and diamonds",
+          "30 bookshelves around the table"
+        ]
+      }
+    },
+    {
+      "id": 144,
+      "ru": {
+        "question": "Что происходит при использовании костной муки на мицелии?",
+        "answers": [
+          "Ничего",
+          "Блоки рядом превращаются в мицелий",
+          "Превращаяется в траву",
+          "Уничтожается"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Nothing special; nearby mushrooms may grow",
+          "The mycelium expands",
+          "New blocks appear",
+          "The mycelium is destroyed"
+        ]
+      }
+    },
+    {
+      "id": 145,
+      "ru": {
+        "question": "Как называется специальный моб, охраняющий морской монумент?",
+        "answers": [
+          "Древний страж",
+          "Наутилус",
+          "Морской дракон",
+          "Кракен"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Elder Guardian",
+          "Guardian",
+          "Sea Dragon",
+          "Kraken"
+        ]
+      }
+    },
+    {
+      "id": 146,
+      "ru": {
+        "question": "Что нужно для приготовления золотого яблока?",
+        "answers": [
+          "Яблоко и 8 золотых слитков",
+          "Яблоко и 8 кусочков золота",
+          "Яблоко и 4 золотых слитка",
+          "Яблоко и золотой блок"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Apple and 8 gold ingots",
+          "Apple and 8 gold nuggets",
+          "Apple and 4 gold ingots",
+          "Apple and a gold block"
+        ]
+      }
+    },
+    {
+      "id": 147,
+      "ru": {
+        "question": "С каким материалом маяк не будет работать?",
+        "answers": [
+          "Медный блок",
+          "Незеритовый блок",
+          "Железный блок",
+          "Изумрудный блок"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Pyramid of 9 mineral blocks with beacon on top",
+          "25 blocks and beacon",
+          "A single beacon on any surface",
+          "Pyramid of 4 blocks"
+        ]
+      }
+    },
+    {
+      "id": 148,
+      "ru": {
+        "question": "Как называется блок, передвигающий другие блоки с помощью редстоуна?",
+        "answers": [
+          "Поршень",
+          "Двигатель",
+          "Тягач",
+          "Варонка"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Piston",
+          "Engine",
+          "Puller",
+          "Pusher"
+        ]
+      }
+    },
+    {
+      "id": 149,
+      "ru": {
+        "question": "Что нужно для крафта торта?",
+        "answers": [
+          "3 пшеницы, 2 сахара, 1 яйцо, 3 молока",
+          "3 пшеницы, 2 яйца, 3 молока, 1 сахар",
+          "3 пшеницы, 3 яйца, 1 молоко",
+          "2 пшеницы, 1 сахар, 2 яйца, 2 молока"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "3 wheat, 2 sugar, 1 egg, 3 buckets of milk",
+          "4 wheat, 2 eggs, 2 milk",
+          "3 wheat, 3 eggs, 1 milk",
+          "2 wheat, 1 sugar, 2 eggs, 2 milk"
+        ]
+      }
+    },
+    {
+      "id": 150,
+      "ru": {
+        "question": "Какие блоки нужны для создания иссушителя?",
+        "answers": [
+          "3 черепа иссушителя и 4 блока песка душ",
+          "3 черепа иссушителя и 4 блока незеррака",
+          "3 черепа иссушителя и 4 обсидиана",
+          "1 череп и 4 блока песка душ"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "3 Wither Skulls and 4 blocks of Soul Sand or Soul Soil",
+          "3 Wither Skulls and 4 Netherrack",
+          "3 Wither Skulls and 4 obsidian",
+          "2 skulls and 3 stone"
+        ]
+      }
+    },
+    {
+      "id": 151,
+      "ru": {
+        "question": "Что происходит при убийстве Эндер Дракона первый раз?",
+        "answers": [
+          "Появляется портал домой и Драконово яйцо",
+          "Открывается финальный уровень",
+          "Игра заканчивается",
+          "Появляется портал в новое изменение"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "A return portal and Dragon Egg appear",
+          "The final level unlocks",
+          "The game ends",
+          "A new world appears"
+        ]
+      }
+    },
+    {
+      "id": 152,
+      "ru": {
+        "question": "В каком биоме можно встретить лису?",
+        "answers": [
+          "Тайга",
+          "Тундра",
+          "Равнины",
+          "Темный лес"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Taiga",
+          "Tundra",
+          "Desert",
+          "Jungle"
+        ]
+      }
+    },
+    {
+      "id": 153,
+      "ru": {
+        "question": "Что такое мембрана фантома и для чего она используется?",
+        "answers": [
+          "Дроп с фантома; Используется для зельй и починки элитры",
+          "Дроп с летучей мыши; Используется для зельй",
+          "Дроп с фантома; Редкий материал для брони",
+          "Дроп с фантома; Ингредиент для невидимости"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Brewing Slow Falling potions and repairing Elytra",
+          "Brewing invisibility potions",
+          "Crafting rare armor",
+          "Making night vision potions"
+        ]
+      }
+    },
+    {
+      "id": 154,
+      "ru": {
+        "question": "В каком биоме можно найти структуру Подводная крепость?",
+        "answers": [
+          "Глубокий океан",
+          "Темные глубины",
+          "Холодный океан",
+          "Теплый океан"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Ocean Monument",
+          "Underwater Temple",
+          "Coral Castle",
+          "Underwater Fortress"
+        ]
+      }
+    },
+    {
+      "id": 155,
+      "ru": {
+        "question": "Что нужно для создания поводка?",
+        "answers": [
+          "5 нитей",
+          "6 нитей",
+          "2 кожи и 2 нити",
+          "4 нити и 1 кожа"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "4 string and 1 slimeball",
+          "6 strings",
+          "2 leather and 2 strings",
+          "3 string and 1 leather"
+        ]
+      }
+    },
+    {
+      "id": 156,
+      "ru": {
+        "question": "В какой версии добавили Фантома?",
+        "answers": [
+          "1.13",
+          "1.18",
+          "1.10",
+          "1.15"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Trident, underwater mobs and corals",
+          "Only turtles and corals",
+          "Mangrove swamps",
+          "Sharks and dolphins"
+        ]
+      }
+    },
+    {
+      "id": 157,
+      "ru": {
+        "question": "Какой уровень освещения у обычного фонаря?",
+        "answers": [
+          "15",
+          "18",
+          "14",
+          "10"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "6 planks and 2 slabs",
+          "6 planks, 2 paper and 1 lid",
+          "8 wooden blocks",
+          "6 wooden slabs"
+        ]
+      }
+    },
+    {
+      "id": 158,
+      "ru": {
+        "question": "Какой уровень освещения у Фонаря душ?",
+        "answers": [
+          "10",
+          "15",
+          "12",
+          "14"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Jump Boost",
+          "Speed",
+          "Lightness",
+          "Weightlessness"
+        ]
+      }
+    },
+    {
+      "id": 159,
+      "ru": {
+        "question": "Какое снаряжение не сгорит в лаве?",
+        "answers": [
+          "Незеритовое",
+          "Любое зачарованное на огнестойкость",
+          "Алмазное",
+          "Никакое"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Netherite is naturally lava-resistant",
+          "Fire Protection enchantment",
+          "Netherite shell",
+          "Lava Resistance Potion"
+        ]
+      }
+    },
+    {
+      "id": 160,
+      "ru": {
+        "question": "Какой уровень освещения у обычного факела?",
+        "answers": [
+          "14",
+          "15",
+          "12",
+          "9"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Ravager",
+          "Raider Beast",
+          "Mounted Pillager",
+          "Cavalry"
+        ]
+      }
+    },
+    {
+      "id": 161,
+      "ru": {
+        "question": "Какой моб боиться кошки?",
+        "answers": [
+          "Фантом",
+          "Скилет",
+          "Страж",
+          "Паук"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "A chest and a boat",
+          "4 planks and 1 compass",
+          "5 wooden planks",
+          "Boat + chest in anvil"
+        ]
+      }
+    },
+    {
+      "id": 162,
+      "ru": {
+        "question": "Какой уровень освещения у редстоун факела?",
+        "answers": [
+          "7",
+          "9",
+          "Не является источником света",
+          "15"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "4 Nether Brick items (nuggets)",
+          "Smelt Netherrack",
+          "4 Nether stones",
+          "2 Nether stone and 2 fire"
+        ]
+      }
+    },
+    {
+      "id": 163,
+      "ru": {
+        "question": "Какой биом в Незере полностью состоит из базальта?",
+        "answers": [
+          "Базальтовые дельты",
+          "Незерские пустоши",
+          "Багровый лес",
+          "Базальтовые равнины"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Basalt Deltas",
+          "Nether Wastes",
+          "Nether Dark Forest",
+          "Basalt Mountains"
+        ]
+      }
+    },
+    {
+      "id": 164,
+      "ru": {
+        "question": "Что нужно для воспроизведения музыкального диска?",
+        "answers": [
+          "Применить пластинку на проигрывателе",
+          "Применить пластинку на музыкальный блоке",
+          "Применить пластинку на раздачике",
+          "Просто держать в руках"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Cannot be crafted, only dropped by skeletons killing creepers",
+          "9 emeralds",
+          "4 quartz and 4 glass",
+          "Buy from a villager"
+        ]
+      }
+    },
+    {
+      "id": 165,
+      "ru": {
+        "question": "Как называется биом в Незере с деревьями?",
+        "answers": [
+          "Искажённый лес",
+          "Базальтовый лес",
+          "Малиново-грибной лес",
+          "В Незере не растут деревья"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Crimson Forest",
+          "Warped Forest",
+          "Crimson Mushroom Forest",
+          "Purple Wasteland"
+        ]
+      }
+    },
+    {
+      "id": 166,
+      "ru": {
+        "question": "Какой силы сигнал выдает редстоун факел?",
+        "answers": [
+          "15",
+          "20",
+          "10",
+          "12"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "15",
+          "30",
+          "10",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": 167,
+      "ru": {
+        "question": "Какой моб был добавлен в обновлении 1.19?",
+        "answers": [
+          "Лягушка",
+          "Страж",
+          "Магмовый куб",
+          "Разоритель"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Frog and Warden",
+          "Frog and Guardian",
+          "Toad and Allay",
+          "Allay and Warden"
+        ]
+      }
+    },
+    {
+      "id": 168,
+      "ru": {
+        "question": "Что нужно для превращения обычного зомби в утопленника?",
+        "answers": [
+          "Он должен утонуть в воде",
+          "Он должен упасть в воду с высоты",
+          "Его должна ударить молния",
+          "Он должен поднять трезубец"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "The zombie must stand in water for 30 seconds",
+          "The zombie must fall into water from height",
+          "Throw the zombie into water",
+          "The zombie must kill a fish"
+        ]
+      }
+    },
+    {
+      "id": 169,
+      "ru": {
+        "question": "Как называется вид зелья, который можно кинуть?",
+        "answers": [
+          "Взрявное зелье",
+          "Бомба-зелье",
+          "Любое зелье",
+          "Осколочное зелье"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Splash Potion",
+          "Bomb Potion",
+          "Throw Potion",
+          "Fragmentation Potion"
+        ]
+      }
+    },
+    {
+      "id": 170,
+      "ru": {
+        "question": "Сколько пластинок существует в игре?",
+        "answers": [
+          "22",
+          "12",
+          "18",
+          "Такого предмета нет в игре"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Cannot be crafted — found in pillager outposts and woodland mansions",
+          "Craft from ender pearl and feathers",
+          "Drop from Phantom",
+          "Buy from trader"
+        ]
+      }
+    },
+    {
+      "id": 171,
+      "ru": {
+        "question": "Как получить Звезду Незера?",
+        "answers": [
+          "Убить Иссушителя",
+          "Убить Гаста",
+          "Найти в развалинах бастиона",
+          "Скрафтить"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Dropped by the Wither",
+          "Craft from Netherite crystals",
+          "Fire core",
+          "Lava crystal"
+        ]
+      }
+    },
+    {
+      "id": 172,
+      "ru": {
+        "question": "Что происходит, если попытаться вылить воду в Незере?",
+        "answers": [
+          "Испаряется",
+          "Замерзает",
+          "Превращается в лаву",
+          "Растекается, но медленно"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "A structure filled with Pillagers and their captain",
+          "A Pillager village",
+          "A desert camp",
+          "A Piglin fortress"
+        ]
+      }
+    },
+    {
+      "id": 173,
+      "ru": {
+        "question": "Какой биом добавили в обновление 1.17?",
+        "answers": [
+          "Крастовая пещера",
+          "Глубокий Океан",
+          "Бледный Сад",
+          "Заснеженная тайга"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Amethyst Geode",
+          "Netherite Block",
+          "Honey Block",
+          "Basalt Block"
+        ]
+      }
+    },
+    {
+      "id": 174,
+      "ru": {
+        "question": "В каком биоме можно встретить Скрипуна?",
+        "answers": [
+          "Бледный сад",
+          "Тёмный лес",
+          "Темные глубины",
+          "Искажённый лес"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Dark Forest",
+          "Black Forest",
+          "Twilight Forest",
+          "Shadow Forest"
+        ]
+      }
+    },
+    {
+      "id": 175,
+      "ru": {
+        "question": "Как снять зачарование в предмета?",
+        "answers": [
+          "Использовать точило",
+          "Использовать кузнечный стол",
+          "Кинуть в лаву",
+          "Никак"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "id": 176,
+      "ru": {
+        "question": "Что такое AFK-ферма?",
+        "answers": [
+          "Ферма, работающая без активного участия",
+          "Читерская техника, запрещённая Mojang",
+          "Метод дублирования предметов",
+          "Специальная механика для серверов"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "A farm working while you're idle; not banned in singleplayer",
+          "A cheating technique banned by Mojang",
+          "An item duplication method",
+          "A special mechanic for servers"
+        ]
+      }
+    }
+  ],
+  "hard": [
+    {
+      "id": 177,
+      "ru": {
+        "question": "Что способен делать медный голем?",
+        "answers": [
+          "Берет предметы из медных сундуков и кладет их в обычные сундуки",
+          "Ничего, просто декорация",
+          "Бегает за игроком и подбирает дроп",
+          "Вырастает в железного голема через время"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "id": 178,
+      "ru": {
+        "question": "На каком расстоянии от центрального острова распалагаются острова края?",
+        "answers": [
+          "1 000 блоков",
+          "5 000 блоков",
+          "10 000 блоков",
+          "3 000 блоков"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "1.9",
+          "1.8",
+          "1.10",
+          "1.11"
+        ]
+      }
+    },
+    {
+      "id": 179,
+      "ru": {
+        "question": "Какой максимальный уровень зачарования Заговор огня?",
+        "answers": [
+          "II (2)",
+          "IV (4)",
+          "III (3)",
+          "V (5)"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "id": 180,
+      "ru": {
+        "question": "Сколько вариантов картин существует?",
+        "answers": [
+          "47",
+          "41",
+          "28",
+          "32"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Dark Forest",
+          "Black Forest",
+          "Twilight Forest",
+          "Shadow Forest"
+        ]
+      }
+    },
+    {
+      "id": 181,
+      "ru": {
+        "question": "Сколько всего пластинок существует?",
+        "answers": [
+          "22",
+          "21",
+          "20",
+          "23"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "id": 182,
+      "ru": {
+        "question": "Сколько опыта выпадает при первом убийстве Эндер-дракона?",
+        "answers": [
+          "12000",
+          "5000",
+          "7000",
+          "18000"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "id": 183,
+      "ru": {
+        "question": "Какова максимальная высота мира в Java Edition после обновления 1.18?",
+        "answers": [
+          "320",
+          "256",
+          "384",
+          "512"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "320",
+          "256",
+          "384",
+          "512"
+        ]
+      }
+    },
+    {
+      "id": 184,
+      "ru": {
+        "question": "Какая минимальная высота мира в Java Edition после 1.18?",
+        "answers": [
+          "-64",
+          "-128",
+          "0",
+          "-32"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "-64",
+          "-128",
+          "0",
+          "-32"
+        ]
+      }
+    },
+    {
+      "id": 185,
+      "ru": {
+        "question": "На каком уровне Y чаще всего генерируются алмазы после обновления 1.18?",
+        "answers": [
+          "от 16 до -64",
+          "от 0 до -16",
+          "от -16 до -64",
+          "от 0 до -32"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "-58 or -59",
+          "12",
+          "-16",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": 186,
+      "ru": {
+        "question": "Какой максимальный уровень зачарования Эффективность?",
+        "answers": [
+          "V (5)",
+          "IV (4)",
+          "X (10)",
+          "III (3)"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "V (5)",
+          "IV (4)",
+          "X (10)",
+          "III (3)"
+        ]
+      }
+    },
+    {
+      "id": 187,
+      "ru": {
+        "question": "В какой версии впервые добавили редстоун-компаратор?",
+        "answers": [
+          "1.5",
+          "1.4",
+          "1.6",
+          "1.7"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "1.5 (Redstone Update)",
+          "1.4",
+          "1.6",
+          "1.7"
+        ]
+      }
+    },
+    {
+      "id": 188,
+      "ru": {
+        "question": "Сколько блоков можно сдвинуть с помощью одного поршня?",
+        "answers": [
+          "12",
+          "8",
+          "16",
+          "Неограниченно"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "12",
+          "8",
+          "16",
+          "Unlimited"
+        ]
+      }
+    },
+    {
+      "id": 189,
+      "ru": {
+        "question": "С каким зачарованием несовместимо зачарование Бич Членистоногих",
+        "answers": [
+          "Небесная кара",
+          "Добыча",
+          "Починка",
+          "Заговор огня"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Increases arrow damage",
+          "Speeds up arrow flight",
+          "Adds fire arrows",
+          "Increases range"
+        ]
+      }
+    },
+    {
+      "id": 190,
+      "ru": {
+        "question": "Что такое 'тик' (tick) в Minecraft?",
+        "answers": [
+          "Единица времени",
+          "Единица измерения блоков",
+          "Единица опыта",
+          "Игровое событие"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "A unit of game time; 20 ticks per second",
+          "A unit for block measurement; 10 ticks/sec",
+          "A unit of experience; 20 ticks/sec",
+          "A game event; 25 ticks/sec"
+        ]
+      }
+    },
+    {
+      "id": 191,
+      "ru": {
+        "question": "Сколько существует видов кошек?",
+        "answers": [
+          "11",
+          "12",
+          "10",
+          "13"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "id": 192,
+      "ru": {
+        "question": "Что нужно сделать, чтобы возродить Эндер Дракона?",
+        "answers": [
+          "Поставить 4 кристалла Энда на краях портала",
+          "Поставить 4 кристалла Энда на столпах",
+          "Бросить эндер-жемчуг в центр портала",
+          "Поставить кристаллы Энда на всех столпах"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Place 4 End Crystals on the edges of the End's fountain",
+          "Place 4 crystals on the pillars",
+          "Throw an Ender Pearl into the center",
+          "Kill all Endermen"
+        ]
+      }
+    },
+    {
+      "id": 193,
+      "ru": {
+        "question": "Что такое 'chunk' (чанк) в Minecraft?",
+        "answers": [
+          "Секция мира 16×16 блоков",
+          "Секция мира 32×32 блоков",
+          "Файл сохранения",
+          "Зачарование"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "A 16×16 block section of the world",
+          "A group of 32 blocks",
+          "A save file",
+          "A group of mobs"
+        ]
+      }
+    },
+    {
+      "id": 194,
+      "ru": {
+        "question": "Сколько видов волков бывает?",
+        "answers": [
+          "9",
+          "10",
+          "11",
+          "8"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "id": 195,
+      "ru": {
+        "question": "Что такое 'seed' (сид) мира?",
+        "answers": [
+          "Число, определяющее генерацию мира",
+          "Превью-иконка мира",
+          "Скорость загрузки мира",
+          "Код для мультиплеера"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "A number that determines world generation",
+          "Planting material for farming",
+          "Seeds for breeding",
+          "A multiplayer access code"
+        ]
+      }
+    },
+    {
+      "id": 196,
+      "ru": {
+        "question": "В каком обновлении был добавлен Хранитель?",
+        "answers": [
+          "1.19",
+          "1.18",
+          "1.20",
+          "1.17"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "1.19",
+          "1.18",
+          "1.20",
+          "1.17"
+        ]
+      }
+    },
+    {
+      "id": 197,
+      "ru": {
+        "question": "Каким образом можно добыть тотема бессмертия?",
+        "answers": [
+          "Выпадает с Вызывателя",
+          "Крафт из 4 изумрудов и золота",
+          "Выпадает с Иссушителя",
+          "Купить у жителя"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Cannot be crafted — only drops from the Evoker mob",
+          "Craft from 4 emeralds and gold",
+          "Drop from the Wither",
+          "Buy from a villager"
+        ]
+      }
+    },
+    {
+      "id": 198,
+      "ru": {
+        "question": "Что является особенностью Хранителя?",
+        "answers": [
+          "Слепой, ориентируется на звук и вибрации",
+          "Видит сквозь стены",
+          "Может телепортироваться за спину игрока",
+          "Агрессивный только на свету"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "It's blind and relies on sound/vibration",
+          "It sees through walls",
+          "It smells the player",
+          "It only reacts to light"
+        ]
+      }
+    },
+    {
+      "id": 199,
+      "ru": {
+        "question": "Сколько здоровья имеет Хранителя?",
+        "answers": [
+          "500",
+          "200",
+          "300",
+          "400"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Sculk Sensor",
+          "Redstone Pressure Plate",
+          "Skull Button",
+          "Nether Pulse"
+        ]
+      }
+    },
+    {
+      "id": 200,
+      "ru": {
+        "question": "Что нужно для улучшения алмазного снаряжения до незеритового?",
+        "answers": [
+          "Незеритовый слиток + алмазный предмет на кузнечном столе",
+          "Незеритовый слиток + алмазный предмет на наковальне",
+          "Незеритовый блок + предмет на верстаке",
+          "Незеритовое снаряжение можно только найти"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Netherite ingot + diamond item at a Smithing Table",
+          "Netherite ingot + diamond item at an Anvil",
+          "Netherite block + item at a Crafting Table",
+          "Smelt the diamond item with Netherite"
+        ]
+      }
+    },
+    {
+      "id": 201,
+      "ru": {
+        "question": "Сколько слотов в шалкерном ящике?",
+        "answers": [
+          "27",
+          "36",
+          "32",
+          "18"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "27",
+          "36",
+          "54",
+          "18"
+        ]
+      }
+    },
+    {
+      "id": 202,
+      "ru": {
+        "question": "Что нужно для полного уровня 4 маяка?",
+        "answers": [
+          "Пирамида из 164 минеральных блоков",
+          "Пирамида из 100 блоков",
+          "Пирамида из 256 блоков",
+          "Пирамида из 81 блока"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "164",
+          "100",
+          "256",
+          "81"
+        ]
+      }
+    },
+    {
+      "id": 203,
+      "ru": {
+        "question": "Какой максимальный уровень зачарования Защита?",
+        "answers": [
+          "IV (4)",
+          "V (5)",
+          "III (3)",
+          "II (2)"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "IV (4)",
+          "V (5)",
+          "III (3)",
+          "X (10)"
+        ]
+      }
+    },
+    {
+      "id": 204,
+      "ru": {
+        "question": "Сколько пройденных блоков в Верхнем мире соответствует одному пройденному блоку в Нижнем мире?",
+        "answers": [
+          "8",
+          "2",
+          "4",
+          "12"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "id": 205,
+      "ru": {
+        "question": "Что нужно для создания незеритового шаблона?",
+        "answers": [
+          "Нельзя создать, только найти в бастионах",
+          "7 алмазов и 1 незерита",
+          "Нельзя создать, только купить у кузнеца-жителя",
+          "Нельзя создать, только купить у странствующего торговца"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Found only in Bastion Remnant chests, cannot be crafted from scratch",
+          "Craft from 7 diamonds and 1 netherite scrap",
+          "Buy from a blacksmith villager",
+          "Found in village chests"
+        ]
+      }
+    },
+    {
+      "id": 206,
+      "ru": {
+        "question": "Какой максимальный уровень зачарования Острота?",
+        "answers": [
+          "V (5)",
+          "X (10)",
+          "IV (4)",
+          "VII (7)"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "V (5)",
+          "X (10)",
+          "IV (4)",
+          "VII (7)"
+        ]
+      }
+    },
+    {
+      "id": 207,
+      "ru": {
+        "question": "Что происходит при нажатии клавиш F3 + G в Java Edition?",
+        "answers": [
+          "Показывает границы чанков",
+          "Показывает хитбоксы",
+          "Перезагружает шейдеры",
+          "Открывает отладчик"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Shows chunk borders",
+          "Shows hitboxes",
+          "Reloads shaders",
+          "Opens the debugger"
+        ]
+      }
+    },
+    {
+      "id": 208,
+      "ru": {
+        "question": "Что такое 'Data Pack' в Java Edition?",
+        "answers": [
+          "Пользовательский пакет данных, изменяющий поведение игры без модов",
+          "Официальное DLC от Mojang",
+          "Дополнительные текстуры",
+          "Мод на новых мобов"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "A user-made pack that modifies game behavior without mods",
+          "An official DLC from Mojang",
+          "Additional textures",
+          "A mod for new mobs"
+        ]
+      }
+    },
+    {
+      "id": 209,
+      "ru": {
+        "question": "В каком обновлении появились лошади?",
+        "answers": [
+          "1.6",
+          "1.5",
+          "1.7",
+          "1.4"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "1.6",
+          "1.5",
+          "1.7",
+          "1.4"
+        ]
+      }
+    },
+    {
+      "id": 210,
+      "ru": {
+        "question": "Что происходит с жителем, достигшим максимального уровня торговли?",
+        "answers": [
+          "Получает значек мастера своей профессии",
+          "Предлагает уникальный предмет",
+          "Становиться странствующим торговцем",
+          "Учит других жителей"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "It gains a master hat for its profession",
+          "It offers a unique item",
+          "It stops trading",
+          "It becomes an arch-villager"
+        ]
+      }
+    },
+    {
+      "id": 211,
+      "ru": {
+        "question": "Как называется файл, хранящий данные мира в Java Edition?",
+        "answers": [
+          "level.dat",
+          "world.nbt",
+          "save.dat",
+          "minecraft.world"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "level.dat",
+          "world.nbt",
+          "save.dat",
+          "minecraft.world"
+        ]
+      }
+    },
+    {
+      "id": 212,
+      "ru": {
+        "question": "Как получить блок грязи?",
+        "answers": [
+          "Применить бутылочку воды на блок земли",
+          "Скрафтить из 2 блоков земли и 2 блоков гравия",
+          "Только натуральная генирация",
+          "Скрафтить из блока подзола и костной муки"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Survival Multiplayer",
+          "Single Mode Play",
+          "Super Minecraft Project",
+          "Standard Mob Protocol"
+        ]
+      }
+    },
+    {
+      "id": 213,
+      "ru": {
+        "question": "Что нужно для создания командного блока в выживании?",
+        "answers": [
+          "Нельзя получить в выживании",
+          "Крафт из 8 обсидиана и 1 редстоуна",
+          "Награда за убийство Иссушителя",
+          "Купить у жителя"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "You can't — only obtainable via /give in Creative",
+          "Craft from 8 obsidian and 1 redstone",
+          "Reward for killing the Wither",
+          "Buy from a wizard villager"
+        ]
+      }
+    },
+    {
+      "id": 214,
+      "ru": {
+        "question": "Что способен делать Тихоня (Allay)?",
+        "answers": [
+          "Способен переносить и отдавать предметы игроку или выбрасывать их к музыкальному блоку",
+          "Летает на игроком и исполняет музыку",
+          "Спобен взаимодействовать с музыкальными блоками и играть музыку",
+          "Способен отгонять фантомов от игрока"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "id": 215,
+      "ru": {
+        "question": "Какой механизм позволяет перемещать предметы между контейнерами автоматически?",
+        "answers": [
+          "Загрузочная варонка",
+          "Редстоуновый компаратор",
+          "Выбрасыватель",
+          "Липкий поршень"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Hopper",
+          "Dispenser",
+          "Dropper",
+          "Piston"
+        ]
+      }
+    },
+    {
+      "id": 216,
+      "ru": {
+        "question": "Какой максимальный уровень зачарования Взрывоустойчивость?",
+        "answers": [
+          "IV (4)",
+          "V (5)",
+          "III (3)",
+          "II (2)"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "80 seconds (1600 ticks)",
+          "40 seconds",
+          "160 seconds",
+          "20 seconds"
+        ]
+      }
+    },
+    {
+      "id": 217,
+      "ru": {
+        "question": "Что нужно, чтобы зафиксировать профессию жителя?",
+        "answers": [
+          "Совершить хотя бы одну торговую сделку с ним",
+          "Поставить рядом стол профессии",
+          "Назвать его именем",
+          "Заключить его в здании"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Complete at least one trade with them",
+          "Place a job site block next to them",
+          "Name them with a name tag",
+          "Trap them in a building"
+        ]
+      }
+    },
+    {
+      "id": 218,
+      "ru": {
+        "question": "Что такое 'superflat' мир?",
+        "answers": [
+          "Мир с плоской генерацией без холмов",
+          "Мир максимального размера",
+          "Мир с большими биомами",
+          "Мир с максимальным количеством пещер"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "A world with flat generation and no terrain features",
+          "A maximum-size world",
+          "A world without structures",
+          "A world with maximum caves"
+        ]
+      }
+    },
+    {
+      "id": 219,
+      "ru": {
+        "question": "Что нужно для получения кристалла Энда?",
+        "answers": [
+          "7 стёкол, 1 эндер-глаз, 1 слеза гаста",
+          "7 обсидиана, 1 эндер-жемчуг",
+          "9 эндер-кристаллов малых",
+          "4 кристалла квартца и 3 стекла"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "7 glass, 1 eye of ender, 1 ghast tear",
+          "7 obsidian, 1 ender pearl",
+          "9 small end crystals",
+          "4 quartz crystals and 3 glass"
+        ]
+      }
+    },
+    {
+      "id": 220,
+      "ru": {
+        "question": "Какая команда предназначена для телепортации сущностей?",
+        "answers": [
+          "/teleport",
+          "Нет такой команды",
+          "/goto",
+          "/move"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "/tp @s 0 64 0",
+          "/teleport 0 64 0",
+          "/goto 0 64 0",
+          "/move @p 0 64 0"
+        ]
+      }
+    },
+    {
+      "id": 221,
+      "ru": {
+        "question": "В каких биомах не может генерироваться руины былых времен",
+        "answers": [
+          "Тёмный лес",
+          "Заснежиная тайга",
+          "Джунгли",
+          "Многолетний березняк"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "id": 222,
+      "ru": {
+        "question": "Что происходит при нажатии клавиш F3 + B в Java Edition?",
+        "answers": [
+          "Показывает хитбоксы мобов и блоков",
+          "Перезагружает биомы",
+          "Отображает границы чанков",
+          "Показывает FPS"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Shows hitboxes of entities and blocks",
+          "Reloads biomes",
+          "Displays chunk borders",
+          "Shows FPS"
+        ]
+      }
+    },
+    {
+      "id": 223,
+      "ru": {
+        "question": "В каком обновлении были добавлены Пышные пещеры?",
+        "answers": [
+          "1.18",
+          "1.17",
+          "1.19",
+          "1.16"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "1.18",
+          "1.17",
+          "1.19",
+          "1.16"
+        ]
+      }
+    },
+    {
+      "id": 224,
+      "ru": {
+        "question": "Что нужно для крафта спектральной стрелы?",
+        "answers": [
+          "1 стрела и 4 светопыли",
+          "1 стрелы и 2 пороха и 2 светопыли",
+          "1 стрела и 4 пороха",
+          "1 стрелы и 4 фейерверка"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "1 arrow and 4 glowstone dust",
+          "2 arrows and 2 ender pearls",
+          "1 arrow and 4 glowing gunpowder",
+          "2 arrows and 4 fireworks"
+        ]
+      }
+    },
+    {
+      "id": 225,
+      "ru": {
+        "question": "Как называется редкий вариант кролика, которого очень сложно найти?",
+        "answers": [
+          "Кролик-убийца",
+          "Белый кролик",
+          "Золотой кролик",
+          "Радужный кролик"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "The Killer Bunny",
+          "White Rabbit",
+          "Golden Rabbit",
+          "Rainbow Rabbit"
+        ]
+      }
+    },
+    {
+      "id": 226,
+      "ru": {
+        "question": "Какой блок позволяет сравнивать два сигнала редстоуна или вычитать один из другого?",
+        "answers": [
+          "Компаратор",
+          "Наблюдатель",
+          "Повторитель",
+          "Редстоуновый факел"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Exploiting chunk borders for farm mechanics or duplication",
+          "A texture bug at chunk borders",
+          "Random game crashes",
+          "Mob disappearance"
+        ]
+      }
+    },
+    {
+      "id": 227,
+      "ru": {
+        "question": "В каком году Microsoft приобрела компанию Mojang?",
+        "answers": [
+          "2014",
+          "2016",
+          "2015",
+          "2013"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "2014 (not a game version)",
+          "With update 1.8",
+          "With update 1.9",
+          "With update 1.7"
+        ]
+      }
+    },
+    {
+      "id": 228,
+      "ru": {
+        "question": "На каком расстоянии скалк-сенсер может уловить звук?",
+        "answers": [
+          "8 блоков",
+          "10 блоков",
+          "6 блоков",
+          "12 блоков"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Deep cave blocks/biome found in the Ancient City",
+          "Nether blocks near lava",
+          "Special End blocks",
+          "Mountain blocks above Y=200"
+        ]
+      }
+    },
+    {
+      "id": 229,
+      "ru": {
+        "question": "На каком расстоянии откалиброванный скалк-сенсер может уловить звук?",
+        "answers": [
+          "16 блоков",
+          "24 блока",
+          "12 блоков",
+          "8 блоков"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "0-15 depending on how full the chest is",
+          "Always 15",
+          "Always 0",
+          "It depends on the block type, not contents"
+        ]
+      }
+    },
+    {
+      "id": 230,
+      "ru": {
+        "question": "Что нужно для создания Якоря возрождения?",
+        "answers": [
+          "6 плачущего обсидиана и 3 блока светокамня",
+          "3 плачущего обсидиана и 6 блоков светокамня",
+          "8 плачущего обсидиана и 1 блок светокамня",
+          "8 обсидиана и 1 незеритовый кирпич"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "6 crying obsidian and 3 glowstone blocks",
+          "4 obsidian and 5 crying obsidian",
+          "9 crying obsidian",
+          "6 obsidian and 3 Nether Brick"
+        ]
+      }
+    },
+    {
+      "id": 231,
+      "ru": {
+        "question": "Что нужно для зарядки Якоря возрождения?",
+        "answers": [
+          "Блок светокамня",
+          "Редстоуновый блок",
+          "Незеритовый слиток",
+          "Плачущий обсидиан"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Glowstone block",
+          "Redstone",
+          "Netherite ingot",
+          "Blaze powder"
+        ]
+      }
+    },
+    {
+      "id": 232,
+      "ru": {
+        "question": "Какой блок выдаёт короткий импульс при обнаружении изменения соседнего блока?",
+        "answers": [
+          "Наблюдатель",
+          "Компаратор",
+          "Повторитель",
+          "Поршень"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "id": 233,
+      "ru": {
+        "question": "Какой максимальный редстоун-сигнал может выдать резная книжная полка?",
+        "answers": [
+          "6",
+          "2",
+          "12",
+          "Не выдает сигналов"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "id": 234,
+      "ru": {
+        "question": "Как получить подводный TNT в ванильном Java Edition?",
+        "answers": [
+          "Никак, какого предмета нет",
+          "Купить у странствующего торговца",
+          "Найти в затонувщем корабле",
+          "Дроп с Древнего стража в Подводной крепости"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "A circuit that detects neighbor block updates",
+          "A mob detector",
+          "A mine detection block",
+          "An alarm system"
+        ]
+      }
+    },
+    {
+      "id": 235,
+      "ru": {
+        "question": "Что происходит с зачарованным предметом при ремонте на наковальне?",
+        "answers": [
+          "Зачарования сохраняются и могут комбинироваться",
+          "Зачарования убираются",
+          "Предмет ломается",
+          "Зачарование понижается на 1 уровень"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Enchantments are preserved and can be combined",
+          "Enchantments are erased",
+          "The item breaks",
+          "The enchantment level decreases by 1"
+        ]
+      }
+    }
+  ],
+  "veryhard": [
+    {
+      "id": 236,
+      "ru": {
+        "question": "В какой версии впервые появился Медный голем?",
+        "answers": [
+          "Никогда — он проиграл голосование и не был добавлен",
+          "1.21",
+          "1.22",
+          "1.20"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Never — it lost the 2021 Mob Vote and was never added",
+          "1.17",
+          "1.18",
+          "1.19"
+        ]
+      }
+    },
+    {
+      "id": 237,
+      "ru": {
+        "question": "Сколько здоровья имеет наутилус?",
+        "answers": [
+          "15",
+          "18",
+          "7",
+          "10"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "id": 238,
+      "ru": {
+        "question": "Какой подарок может принести прирученная игроком кошка?",
+        "answers": [
+          "Нить",
+          "Сырая треска",
+          "Иглоблюх",
+          "Морковь"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "id": 239,
+      "ru": {
+        "question": "Какая пластинка выдает редстоун сигнал силой 5 когда играет в проигровытеле?",
+        "answers": [
+          "far",
+          "blocks",
+          "cat",
+          "wait"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "id": 240,
+      "ru": {
+        "question": "Какой подарок не может принести прирученная игроком кошка?",
+        "answers": [
+          "Паучий глаз",
+          "Гнилая плоть",
+          "Сырая курятина",
+          "Мембрана фантома"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Approximately $2.5 billion",
+          "10% in perpetual royalties",
+          "Nothing — all rights went to Microsoft",
+          "50% of all revenues"
+        ]
+      }
+    },
+    {
+      "id": 241,
+      "ru": {
+        "question": "Какую примерную площадь мира занимает биом Грибные поля?",
+        "answers": [
+          "0,15%",
+          "0,5%",
+          "1,5%",
+          "3%"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "An optimal route for obtaining blaze rods to activate the End portal",
+          "A Nether route using blazes as fuel",
+          "A method for quickly killing bosses",
+          "A crafting technique"
+        ]
+      }
+    },
+    {
+      "id": 242,
+      "ru": {
+        "question": "Какой дополнительный ингредиент нужен для подозрительного супа, который накладывает эффект Отравление",
+        "answers": [
+          "Ландыш",
+          "Василек",
+          "Мак",
+          "Одуванчик"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "id": 243,
+      "ru": {
+        "question": "Какую пластинку можно найти в Древнем городе?",
+        "answers": [
+          "otherside",
+          "Bounce",
+          "Pigstep",
+          "wait"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Marketplace content and official cross-platform play",
+          "Unlimited world size",
+          "RTX support",
+          "Redstone comparators"
+        ]
+      }
+    },
+    {
+      "id": 244,
+      "ru": {
+        "question": "Что произойдёт, если игрок с ботинками, зачарованными на Ледоход, упадёт с большой высоты в воду?",
+        "answers": [
+          "Игрок погрузится в воду, лед не появиться",
+          "Появиться блок льда и игрок получит урон от падения",
+          "Появиться блок льда, но игрок не получит урон от падения",
+          "Игрок погрузиться в воду, лед появиться на поверхности над игроком"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Jasper Boerstra — the lead artist and visual designer of Minecraft",
+          "The Japanese version of the game",
+          "A popular server plugin",
+          "The codename for the Japan release"
+        ]
+      }
+    },
+    {
+      "id": 245,
+      "ru": {
+        "question": "В Java Edition есть особенность, из-за которой в измерении края после определенных координат не генерируются острова. После какой координаты?",
+        "answers": [
+          "Примерно от 370 000 до 525 000",
+          "Примерно от 35 000 до 55 000",
+          "Примерно от 135 000 до 155 000",
+          "Примерно от 240 000 до 550 000"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "A popular SMP server that became a cultural phenomenon with millions of viewers",
+          "Mojang's official server",
+          "A Minecraft competitive season",
+          "The first Minecraft mod"
+        ]
+      }
+    },
+    {
+      "id": 246,
+      "ru": {
+        "question": "Какой входной редстоун-сигнал нужно подать Откалиброваному скалковому сенсеру, что бы тот уловил потребление еды и напитков?",
+        "answers": [
+          "8",
+          "5",
+          "6",
+          "1"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "id": 247,
+      "ru": {
+        "question": "Как вызвать Хранителя, обедающего в Древнем городе?",
+        "answers": [
+          "После 4 срабатываний скалковый крикун вызывает Хранителя",
+          "После 3 срабатываний скалковый крикун вызывает Хранителя",
+          "После 5 срабатываний скалковый крикун вызывает Хранителя",
+          "После 1 срабатывания скалковый крикун вызывает Хранителя"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "3 activations (warning levels 1-3), then summons on the 4th",
+          "1 activation",
+          "5 consecutive activations",
+          "Only at night"
+        ]
+      }
+    },
+    {
+      "id": 248,
+      "ru": {
+        "question": "В каком обновлении появились Аксолотли?",
+        "answers": [
+          "1.17",
+          "1.16",
+          "1.18",
+          "1.19"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "1.17",
+          "1.16",
+          "1.18",
+          "1.19"
+        ]
+      }
+    },
+    {
+      "id": 249,
+      "ru": {
+        "question": "Что такое редкий синий аксолотль и как его получить?",
+        "answers": [
+          "1 из 1200 аксолотлей при разведении; синий не встречается в дикой природе",
+          "Найти в особом биоме",
+          "Дроп с морского моба",
+          "Купить у рыбака-жителя"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "A 1 in 1200 chance when breeding axolotls; not found in the wild",
+          "Found in a special biome",
+          "Dropped by a sea mob",
+          "Bought from a fisherman villager"
+        ]
+      }
+    },
+    {
+      "id": 250,
+      "ru": {
+        "question": "Каков максимальный размер стека предметов для большинства блоков?",
+        "answers": [
+          "64",
+          "99",
+          "32",
+          "128"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "64",
+          "99",
+          "32",
+          "128"
+        ]
+      }
+    },
+    {
+      "id": 251,
+      "ru": {
+        "question": "Какого моба не встретишь в Лесном особняке?",
+        "answers": [
+          "Разбойник",
+          "Вызыватель",
+          "Поборник",
+          "Тихоня (Allay)"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "/function <namespace:path>",
+          "/run <function>",
+          "/datapack execute",
+          "/pack run"
+        ]
+      }
+    },
+    {
+      "id": 252,
+      "ru": {
+        "question": "В каком обновлении появилась система профессий жителей?",
+        "answers": [
+          "1.14",
+          "1.13",
+          "1.12",
+          "1.16"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "1.14",
+          "1.13",
+          "1.12",
+          "1.16"
+        ]
+      }
+    },
+    {
+      "id": 253,
+      "ru": {
+        "question": "На каком уровне Y в среднем больше всего генерируется Древних обломков?",
+        "answers": [
+          "16",
+          "8",
+          "50",
+          "24"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "A rare Nether ore most common at Y=15-16",
+          "A Nether resource at Y=8",
+          "A rare End block at Y=50",
+          "A cave resource at Y=-20"
+        ]
+      }
+    },
+    {
+      "id": 254,
+      "ru": {
+        "question": "Что такое Скалковый катализатор?",
+        "answers": [
+          "Блок, создающий скалк-сенсены и скалк-крикуны при гибели существ поблизости",
+          "Блок, призывающий мобов",
+          "Блок, призывающий Хранителя",
+          "Декоративный блок в Древнем Городе"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "A block that generates sculk when nearby mobs die, using their XP",
+          "A block that summons mobs",
+          "The Warden's sound source",
+          "A decorative block in the Ancient City"
+        ]
+      }
+    },
+    {
+      "id": 255,
+      "ru": {
+        "question": "Как попасть на крышу Незера?",
+        "answers": [
+          "Через баги с поршнями или TNT-прыжком",
+          "",
+          "Сломать киркой верхний слой незерских блоков",
+          "Если туда попать игрок сразу умирает"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "The area above y=128 in the Nether; accessible via piston glitches or TNT jump in Java",
+          "A secret Nether biome",
+          "The top layer of Nether blocks",
+          "An inaccessible area in Bedrock"
+        ]
+      }
+    },
+    {
+      "id": 256,
+      "ru": {
+        "question": "В каком обновлении впервые появился Кадавр?",
+        "answers": [
+          "1.10",
+          "1.9",
+          "1.11",
+          "1.12"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "1.10 (Frostburn Update)",
+          "1.9",
+          "1.11",
+          "1.12"
+        ]
+      }
+    },
+    {
+      "id": 257,
+      "ru": {
+        "question": "Что такое Зимогор и где он появляется?",
+        "answers": [
+          "Скелет из снежных биомов",
+          "Редкий скелет из Незера",
+          "Подводный скелет",
+          "Скелет из тундры с трезубцем"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "A skeleton variant from snowy biomes; a regular skeleton standing in snow converts to Stray",
+          "A rare Nether skeleton",
+          "An underwater skeleton",
+          "A tundra skeleton with trident"
+        ]
+      }
+    },
+    {
+      "id": 258,
+      "ru": {
+        "question": "Что такое Вызыватель и где он появляется?",
+        "answers": [
+          "Враждебный моб иллюзионист в особняке",
+          "Профессия деревенского жителя, продающего зелья",
+          "Босс измерения Края",
+          "Враждебный моб-стражник Древнего Города"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "An illusioner mob in the Woodland Mansion that drops the Totem of Undying",
+          "A mage villager that drops potions",
+          "A raid boss that drops emeralds",
+          "A mansion guard that drops a key"
+        ]
+      }
+    },
+    {
+      "id": 259,
+      "ru": {
+        "question": "Какой дополнительный ингредиент нужен для подозрительного супа, который накладывает эффект Прыгучесть?",
+        "answers": [
+          "Василек",
+          "Одуванчик",
+          "Синяя орхидея",
+          "Тюльпан"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "id": 260,
+      "ru": {
+        "question": "Какой размер мира в майнкрафт?",
+        "answers": [
+          "Примерно 60 на 60 блоков миллионов",
+          "Примерно 30 на 30 блоков миллионов",
+          "Примерно 600 на 600 блоков миллионов",
+          "Примерно 6 на 6 блоков миллионов"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "id": 261,
+      "ru": {
+        "question": "В каком обновлении появился Тихоня (Allay)?",
+        "answers": [
+          "1.19",
+          "1.20",
+          "1.18",
+          "1.17"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "1.19",
+          "1.20",
+          "1.18",
+          "1.17"
+        ]
+      }
+    },
+    {
+      "id": 262,
+      "ru": {
+        "question": "Что не может выбросить Пиглин в обмен на золото?",
+        "answers": [
+          "Магмовый блок",
+          "Кожа",
+          "Гравий",
+          "Песок душ"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Piglin",
+          "Zombified Piglin",
+          "Wither Skeleton",
+          "Nether Skeleton"
+        ]
+      }
+    },
+    {
+      "id": 263,
+      "ru": {
+        "question": "Кто или что такое Наблюдатель?",
+        "answers": [
+          "Блок, отслеживающий изменения состояния блока перед собой и выдающий редстоун-импульс",
+          "Моб, атакующий только двигающихся мобов",
+          "Датчик дня и ночи",
+          "Блок, обнаруживающий игрока"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "A block that detects changes in the block state in front of it and outputs a redstone pulse",
+          "A block that tracks mob movement",
+          "A day/night sensor",
+          "A block that detects a player"
+        ]
+      }
+    },
+    {
+      "id": 264,
+      "ru": {
+        "question": "Как называется версия Minecraft, разработанная специально для образовательных учреждений?",
+        "answers": [
+          "Minecraft Education Edition",
+          "Minecraft School Edition",
+          "Minecraft Learning Edition",
+          "Minecraft Academic Edition"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Minecraft Education Edition",
+          "Minecraft School Edition",
+          "Minecraft Learning Edition",
+          "Minecraft Academic Edition"
+        ]
+      }
+    },
+    {
+      "id": 265,
+      "ru": {
+        "question": "Что такое NBT-тег в Minecraft?",
+        "answers": [
+          "Именованные двоичные теги данных предметов/блоков",
+          "Название блока текстуры",
+          "Индивидуальный индификатор предмета/блока",
+          "Название предмета/блока"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Named Binary Tag — data attached to items/blocks/entities",
+          "Name of Block Texture",
+          "Number of Block Texture",
+          "Nano-Byte Tag"
+        ]
+      }
+    },
+    {
+      "id": 266,
+      "ru": {
+        "question": "Как может быть получена пластинка Relic?",
+        "answers": [
+          "Только посредством раскопок частей пластинки и последующего крафта",
+          "Дроп с заряженого криппера которого убьет скелет",
+          "В сундуках сакровищницы",
+          "В развалинах бастиона"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "id": 267,
+      "ru": {
+        "question": "Какая команда убивает всех сущностей в радиусе 300 блоков (для версии Java Edition)?",
+        "answers": [
+          "/kill @e[distance=..300]",
+          "/kill @e",
+          "/kill @e[distance=..300, type=!player]",
+          "/remove @e[distance=..300]"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "/kill @e[type=!player]",
+          "/kill @a[!player]",
+          "/kill @e[not=player]",
+          "/kill @all[except=player]"
+        ]
+      }
+    },
+    {
+      "id": 268,
+      "ru": {
+        "question": "Что может уловить Откалиброванный скалковый сенсер, которому подали входной сигнал силы 5?",
+        "answers": [
+          "Спешивание с сущностей или экипировка снаряжения",
+          "Любые звуки",
+          "Потребление еды и напитков",
+          "Передвижение"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Enderman",
+          "Shulker",
+          "Ender Dragon",
+          "Endermite"
+        ]
+      }
+    },
+    {
+      "id": 269,
+      "ru": {
+        "question": "По какому принципу резная книжная полка выдает редстоун сигнал?",
+        "answers": [
+          "Уровень сигнала указывает последний слот, с которым взаимодействовали",
+          "Уровень сигнала указывает на количество любых книг",
+          "Уровень сигнала указывает на количеством зачарованных книг",
+          "Если есть хоть одна книга, то выдает сигнал равный 15"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "id": 270,
+      "ru": {
+        "question": "Сколько видов окраса Аксолотля существует?",
+        "answers": [
+          "5",
+          "4",
+          "6",
+          "3"
+        ]
+      },
+      "en": {
+        "question": "",
+        "answers": [
+          "Cave Game",
+          "Block World",
+          "MineTest",
+          "Survival Builder"
+        ]
       }
     }
   ]

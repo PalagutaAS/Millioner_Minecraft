@@ -15,8 +15,8 @@ MonoBehaviour:
   _prizeAmounts: e8030000d0070000a00f0000581b000010270000983a0000f0550000007d0000c8af0000e8fd0000905f0100c0d401000071020050340300c0450400407e0500e0040700a0d90800b0710b0040420f00
   _safeAmountIndices: 04000000090000000e00000013000000
   _introDuration: 1
-  _answerRevealDelay: 1.5
-  _resultDisplayDuration: 1.5
+  _answerRevealDelay: 2
+  _resultDisplayDuration: 2.8
   _endGameDelay: 3
   _defaultAnswerColor: {r: 0, g: 0.14063296, b: 0.8301887, a: 1}
   _highlightColor: {r: 0.6320754, g: 0.6320754, b: 0.6320754, a: 1}
