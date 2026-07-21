@@ -412,10 +412,10 @@ TextureImporter:
       name: load background
       rect:
         serializedVersion: 2
-        x: 899
-        y: 919
-        width: 54
-        height: 104
+        x: 898
+        y: 916
+        width: 56
+        height: 106
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 2, y: 2, z: 2, w: 2}

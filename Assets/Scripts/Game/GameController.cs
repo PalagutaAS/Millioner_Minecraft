@@ -85,7 +85,8 @@ public class GameController
         _gameUI.HideQuestionPanel();
         _gameUI.HideResultText();
         _menuUI.HidePlayButton();
-        _audioManager.PlayIntro();
+        _audioManager.PlayBackgroundMusic();
+        _audioManager.PlayFirstQuestion();
         
         await UniTask.Delay(TimeSpan.FromSeconds(_config.IntroDuration));
 
@@ -188,9 +189,10 @@ public class GameController
 
     private string GetCategoryForQuestion(int questionNumber)
     {
+        Debug.Log($"questionNumber: {questionNumber}");
         if (questionNumber < 4) return "easy";
-        if (questionNumber < 10) return "medium";
-        if (questionNumber < 16) return "hard";
+        if (questionNumber < 9) return "medium";
+        if (questionNumber < 14) return "hard";
         return "very_hard";
     }
 
@@ -245,7 +247,6 @@ public class GameController
             _gameUI.HideQuestionPanel();
             _gameUI.ShowGamePanel();
             _gameUI.SetResultText(false, safe);
-            _audioManager.PlayGameOver();
             State = GameState.GameOver;
 
             await UniTask.Delay(TimeSpan.FromSeconds(_config.EndGameDelay));
@@ -262,7 +263,6 @@ public class GameController
 
         _gameUI.HideQuestionPanel();
         _gameUI.SetResultText(true, prize);
-        _audioManager.PlayWin();
         State = GameState.GameWon;
 
         await UniTask.Delay(TimeSpan.FromSeconds(_config.EndGameDelay));
@@ -284,6 +284,7 @@ public class GameController
     {
         if (State != GameState.QuestionActive) return;
 
+        _audioManager.PlayPressButtonHint();
         switch (type)
         {
             case HintType.FiftyFifty when !_fiftyFiftyUsed:
@@ -352,7 +353,6 @@ public class GameController
         vals[_currentQuestion.CorrectIndex] += (100 - vals[_currentQuestion.CorrectIndex]) - sum;
 
         _hintPopupUI.ShowAudienceHelp(vals);
-        _audioManager.PlayAudienceMurmur();
         UpdateHintButtons();
         SaveProgress();
     }
@@ -373,9 +373,8 @@ public class GameController
             $"Уверен на 100%, это ответ {correctLetter}!"
         };
 
-        string phrase = phrases[UnityEngine.Random.Range(0, phrases.Length)];
+        string phrase = phrases[Random.Range(0, phrases.Length)];
         _hintPopupUI.ShowPhoneFriend(phrase);
-        _audioManager.PlayPhoneRing();
         UpdateHintButtons();
         SaveProgress();
     }

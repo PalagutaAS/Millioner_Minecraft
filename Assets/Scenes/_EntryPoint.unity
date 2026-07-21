@@ -144,7 +144,7 @@ PrefabInstance:
       objectReference: {fileID: 1579027347, guid: b4ffc87969ebab74e972fc58b8470224, type: 3}
     - target: {fileID: 1652449038091249560, guid: 0f6d94371f6dec5489ee89ae36c9943f, type: 3}
       propertyPath: m_FillAmount
-      value: 0.349
+      value: 0.284
       objectReference: {fileID: 0}
     - target: {fileID: 1652449038091249560, guid: 0f6d94371f6dec5489ee89ae36c9943f, type: 3}
       propertyPath: m_PreserveAspect
@@ -254,6 +254,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6880962430160008513, guid: 0f6d94371f6dec5489ee89ae36c9943f, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: 8c8bc8813d0a10d4e946be4f17f89683, type: 3}
     - target: {fileID: 8111515652848124201, guid: 0f6d94371f6dec5489ee89ae36c9943f, type: 3}
       propertyPath: m_SizeDelta.x
       value: 27
@@ -321,7 +325,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
   m_AnchoredPosition: {x: 0, y: 100}
-  m_SizeDelta: {x: 30, y: 1000}
+  m_SizeDelta: {x: 35, y: 1005}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &701290240
 MonoBehaviour:
@@ -346,7 +350,7 @@ MonoBehaviour:
   m_Sprite: {fileID: 364844080, guid: b4ffc87969ebab74e972fc58b8470224, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
-  m_FillCenter: 1
+  m_FillCenter: 0
   m_FillMethod: 1
   m_FillAmount: 1
   m_FillClockwise: 1

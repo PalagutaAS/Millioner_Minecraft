@@ -93,8 +93,8 @@ public class GameUI : MonoBehaviour
     {
         _resultGameObject.SetActive(true);
         _resultText.text = won
-            ? $"<color=#2ecc71>Поздравляем!</color>\n\nВы выигрыш:\n<b>{amount:N0}</b>!\n\nОбщий выигрыш составляет:\n\n<color=#FFC125><b>{_saveService.Data.wallet}</b></color>"
-            : $"<color=#e74c3c>Игра окончена</color>\n\nВаш выигрыш:\n<b>{amount:N0}</b>\n\nОбщий выигрыш составляет:\n\n<color=#FFC125><b>{_saveService.Data.wallet}</b></color>\n\nВаше место в рейтинге: {_playerData.currentPlayer.rank}";
+            ? $"<color=#2ecc71>Поздравляем!</color>\n\nВы выигрыш:\n<b>{amount:N0}</b>!\n\nОбщий выигрыш составляет:\n\n<color=#FFC125><b>{_saveService.Data.wallet:N0}</b></color>"
+            : $"<color=#e74c3c>Игра окончена</color>\n\nВаш выигрыш:\n<b>{amount:N0}</b>\n\nОбщий выигрыш составляет:\n\n<color=#FFC125><b>{_saveService.Data.wallet:N0}</b></color>\n\nВаше место в рейтинге: {_playerData.currentPlayer.rank}";
     }
     
     public void SetQuestionText(string text) => _questionText.text = text;
