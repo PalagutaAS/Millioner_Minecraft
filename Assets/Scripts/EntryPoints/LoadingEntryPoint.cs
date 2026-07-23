@@ -53,7 +53,7 @@ public class LoadingEntryPoint : IInitializable
     
     private async UniTask FakeLoadAsync()
     {
-        float totalMoveDuration = 1f;
+        float totalMoveDuration = 0.2f;
         
         float p1 = Random.Range(0.10f, 0.35f);
         float p2 = Random.Range(0.41f, 0.65f);

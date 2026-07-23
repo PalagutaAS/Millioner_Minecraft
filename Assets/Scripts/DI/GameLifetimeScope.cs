@@ -21,7 +21,7 @@ public class GameLifetimeScope : LifetimeScope
         builder.RegisterInstance(_prizeLadder);
         builder.RegisterInstance(_gameConfig);
         
-        builder.Register<RewardedAD>(Lifetime.Singleton).AsSelf().WithParameter("rewardID", _gameConfig.RewardID);
+        builder.Register<RewardedAD>(Lifetime.Singleton).AsSelf();
         builder.Register<SaveService>(Lifetime.Singleton);
 
         builder.Register<GameController>(Lifetime.Singleton);

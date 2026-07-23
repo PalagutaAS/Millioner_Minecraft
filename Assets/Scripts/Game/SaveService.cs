@@ -40,8 +40,12 @@ public class SaveService
         //PlayerPrefs.SetString(_config.SaveKey, JsonUtility.ToJson(Data));
         //PlayerPrefs.Save();
         YG2.saves.progress = JsonUtility.ToJson(Data);
-        YG2.SetLeaderboard("amountWon", Data.wallet);
         YG2.SaveProgress();
+    }
+
+    public void SaveLeaderboard()
+    {
+        YG2.SetLeaderboard("amountWon", Data.wallet);
     }
 
     public void DeleteSave()

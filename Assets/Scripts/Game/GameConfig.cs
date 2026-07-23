@@ -42,7 +42,8 @@ public class GameConfig : ScriptableObject
     [SerializeField] private string[] _availableLanguages = { "ru", "en" };
     
     [Header("YG")]
-    [SerializeField]private string _rewardAd;
+    [SerializeField] private string _nameLeaderboard;
+    [SerializeField] private string _rewardAd;
 
     public int QuestionsToWin => _prizeAmounts.Length;
     public int[] PrizeAmounts => _prizeAmounts;
@@ -70,4 +71,5 @@ public class GameConfig : ScriptableObject
     public string DefaultLanguage => _defaultLanguage;
     public string[] AvailableLanguages => _availableLanguages;
     public string RewardID => _rewardAd;
+    public string NameLB => _nameLeaderboard;
 }

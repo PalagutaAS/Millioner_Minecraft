@@ -12,7 +12,6 @@ public class BootLifetimeScope : LifetimeScope
 
         builder.Register<SceneLoader>(Lifetime.Singleton).AsImplementedInterfaces().AsSelf();
         builder.Register<QuestionBankHolder>(Lifetime.Singleton).AsImplementedInterfaces().AsSelf();
-        //builder.Register<QuestionBank>(Lifetime.Singleton).AsImplementedInterfaces().AsSelf();
         builder.Register<QuestionBankCreationService>(Lifetime.Singleton).AsImplementedInterfaces().AsSelf();
         builder.Register<QuestionByIdRetrievalService>(Lifetime.Singleton).AsImplementedInterfaces().AsSelf();
         builder.Register<QuestionCategoryService>(Lifetime.Singleton).AsImplementedInterfaces().AsSelf();

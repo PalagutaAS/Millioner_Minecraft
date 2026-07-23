@@ -1,4 +1,5 @@
 using VContainer.Unity;
+using YG;
 
 public class EntryPoint : IInitializable
 {
@@ -12,5 +13,6 @@ public class EntryPoint : IInitializable
     public void Initialize()
     {
         _gameController.Initialize();
+        YG2.GameReadyAPI();
     }
 }

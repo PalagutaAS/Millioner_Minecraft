@@ -69,6 +69,7 @@ public class GameController
 
         _gameUI.Initialize(_config, _saveService);
         _gameUI.HideQuestionPanel();
+        _gameUI.HideResultText();
         _prizeLadder.ResetAll();
     }
 
@@ -189,8 +190,7 @@ public class GameController
 
     private string GetCategoryForQuestion(int questionNumber)
     {
-        Debug.Log($"questionNumber: {questionNumber}");
-        if (questionNumber < 4) return "easy";
+        if (questionNumber < 3) return "easy";
         if (questionNumber < 9) return "medium";
         if (questionNumber < 14) return "hard";
         return "very_hard";
@@ -239,19 +239,23 @@ public class GameController
         }
         else
         {
-            int safe = GetSafeAmount();
-            _saveService.Data.wallet += safe;
-            _saveService.Data.hasActiveGame = false;
-            _saveService.Save();
-
-            _gameUI.HideQuestionPanel();
-            _gameUI.ShowGamePanel();
-            _gameUI.SetResultText(false, safe);
-            State = GameState.GameOver;
-
-            await UniTask.Delay(TimeSpan.FromSeconds(_config.EndGameDelay));
-            ReturnToMenu();
+            await LoseGame();
         }
+    }
+
+    private async UniTask LoseGame()
+    {
+        int safe = GetSafeAmount();
+        _saveService.Data.wallet += safe;
+        _saveService.Data.hasActiveGame = false;
+        _saveService.SaveLeaderboard();
+        _saveService.Save();
+        _gameUI.HideQuestionPanel();
+        _gameUI.SetResultText(false, safe);
+        State = GameState.GameOver;
+            
+        await UniTask.Delay(TimeSpan.FromSeconds(_config.EndGameDelay));
+        ReturnToMenu();
     }
 
     private async UniTask WinGameAsync()
@@ -259,6 +263,7 @@ public class GameController
         int prize = _config.PrizeAmounts[^1];
         _saveService.Data.wallet += prize;
         _saveService.Data.hasActiveGame = false;
+        _saveService.SaveLeaderboard();
         _saveService.Save();
 
         _gameUI.HideQuestionPanel();
@@ -414,7 +419,6 @@ public class GameController
 
     private void ReturnToMenu()
     {
-        _gameUI.HideQuestionPanel();
         _menuUI.ShowPlayButton();
         State = GameState.Idle;
     }

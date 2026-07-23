@@ -24,12 +24,8 @@ public class GameUI : MonoBehaviour
     [SerializeField] private HintButton _phoneFriend;
     [SerializeField] private HintButton _replaceQuestion;
 
-    //[Header("Info")]
-    //[SerializeField] private TextMeshProUGUI _walletText;
-
-    [Header("Result")]
-    [SerializeField] private TextMeshProUGUI _resultText;
-    [SerializeField] private GameObject _resultGameObject;
+    [Header("Result Test")]
+    [SerializeField] private TMP_Text _resultEndGameText;
 
     public event Action<int> OnAnswerClicked;
     public event Action<HintType> OnHintClicked;
@@ -48,6 +44,7 @@ public class GameUI : MonoBehaviour
     private void OnGetLeaderboard(LBData playerData)
     {
         _playerData = playerData;
+        _resultEndGameText.text += $"\n\nВаше место в рейтинге: {_playerData.currentPlayer.rank}";
     }
 
     private void OnEnable()
@@ -91,10 +88,10 @@ public class GameUI : MonoBehaviour
 
     public void SetResultText(bool won, int amount)
     {
-        _resultGameObject.SetActive(true);
-        _resultText.text = won
+        _resultPanel.SetActive(true);
+        _resultEndGameText.text = won
             ? $"<color=#2ecc71>Поздравляем!</color>\n\nВы выигрыш:\n<b>{amount:N0}</b>!\n\nОбщий выигрыш составляет:\n\n<color=#FFC125><b>{_saveService.Data.wallet:N0}</b></color>"
-            : $"<color=#e74c3c>Игра окончена</color>\n\nВаш выигрыш:\n<b>{amount:N0}</b>\n\nОбщий выигрыш составляет:\n\n<color=#FFC125><b>{_saveService.Data.wallet:N0}</b></color>\n\nВаше место в рейтинге: {_playerData.currentPlayer.rank}";
+            : $"<color=#e74c3c>Игра окончена</color>\n\nВаш выигрыш:\n<b>{amount:N0}</b>\n\nОбщий выигрыш составляет:\n\n<color=#FFC125><b>{_saveService.Data.wallet:N0}</b></color>";
     }
     
     public void SetQuestionText(string text) => _questionText.text = text;
@@ -172,11 +169,10 @@ public class GameUI : MonoBehaviour
         if (btn != null)
             btn.SetInteractable(active);
     }
-    //public void SetWalletText(int amount) => _walletText.text = amount.ToString("N0");
 
     public void HideResultText()
     {
-        _resultGameObject.SetActive(false);
+        _resultPanel.SetActive(false);
     }
 
     private void OnDestroy()

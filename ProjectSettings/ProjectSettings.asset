@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
-  productName: My project
+  companyName: ELGames
+  productName: Who wants to be a millionaire Minecraft
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -23,7 +23,7 @@ PlayerSettings:
   m_SplashScreenAnimation: 1
   m_SplashScreenLogoStyle: 1
   m_SplashScreenDrawMode: 0
-  m_SplashScreenBackgroundAnimationZoom: 1
+  m_SplashScreenBackgroundAnimationZoom: 0
   m_SplashScreenLogoAnimationZoom: 1
   m_SplashScreenBackgroundLandscapeAspect: 1
   m_SplashScreenBackgroundPortraitAspect: 1
@@ -141,7 +141,7 @@ PlayerSettings:
   loadStoreDebugModeEnabled: 0
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
-  bundleVersion: 0.1
+  bundleVersion: 0.9.0
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -841,17 +841,17 @@ PlayerSettings:
   webGLMemoryGeometricGrowthCap: 96
   webGLPowerPreference: 2
   scriptingDefineSymbols:
-    Android: YandexGamesPlatform_yg;PLUGIN_YG_2;TMP_YG2;NJSON_YG2;RU_YG2;InterstitialAdv_yg;RewardedAdv_yg;Authorization_yg;Storage_yg;Leaderboards_yg
-    LinuxHeadlessSimulation: YandexGamesPlatform_yg;PLUGIN_YG_2;TMP_YG2;NJSON_YG2;RU_YG2;InterstitialAdv_yg;RewardedAdv_yg;Authorization_yg;Storage_yg;Leaderboards_yg
-    Nintendo Switch: YandexGamesPlatform_yg;PLUGIN_YG_2;TMP_YG2;NJSON_YG2;RU_YG2;InterstitialAdv_yg;RewardedAdv_yg;Authorization_yg;Storage_yg;Leaderboards_yg
-    PS4: YandexGamesPlatform_yg;PLUGIN_YG_2;TMP_YG2;NJSON_YG2;RU_YG2;InterstitialAdv_yg;RewardedAdv_yg;Authorization_yg;Storage_yg;Leaderboards_yg
-    PS5: YandexGamesPlatform_yg;PLUGIN_YG_2;TMP_YG2;NJSON_YG2;RU_YG2;InterstitialAdv_yg;RewardedAdv_yg;Authorization_yg;Storage_yg;Leaderboards_yg
-    Standalone: YandexGamesPlatform_yg;PLUGIN_YG_2;TMP_YG2;NJSON_YG2;RU_YG2;InterstitialAdv_yg;RewardedAdv_yg;Authorization_yg;Storage_yg;Leaderboards_yg
-    WebGL: YandexGamesPlatform_yg;PLUGIN_YG_2;TMP_YG2;NJSON_YG2;RU_YG2;InterstitialAdv_yg;RewardedAdv_yg;Authorization_yg;Storage_yg;Leaderboards_yg
-    Windows Store Apps: YandexGamesPlatform_yg;PLUGIN_YG_2;TMP_YG2;NJSON_YG2;RU_YG2;InterstitialAdv_yg;RewardedAdv_yg;Authorization_yg;Storage_yg;Leaderboards_yg
-    XboxOne: YandexGamesPlatform_yg;PLUGIN_YG_2;TMP_YG2;NJSON_YG2;RU_YG2;InterstitialAdv_yg;RewardedAdv_yg;Authorization_yg;Storage_yg;Leaderboards_yg
-    iPhone: YandexGamesPlatform_yg;PLUGIN_YG_2;TMP_YG2;NJSON_YG2;RU_YG2;InterstitialAdv_yg;RewardedAdv_yg;Authorization_yg;Storage_yg;Leaderboards_yg
-    tvOS: YandexGamesPlatform_yg;PLUGIN_YG_2;TMP_YG2;NJSON_YG2;RU_YG2;InterstitialAdv_yg;RewardedAdv_yg;Authorization_yg;Storage_yg;Leaderboards_yg
+    Android: YandexGamesPlatform_yg;PLUGIN_YG_2;TMP_YG2;NJSON_YG2;RU_YG2;InterstitialAdv_yg;RewardedAdv_yg;Authorization_yg;Storage_yg;Leaderboards_yg;Localization_yg;AutoTranslateLangs_yg
+    LinuxHeadlessSimulation: YandexGamesPlatform_yg;PLUGIN_YG_2;TMP_YG2;NJSON_YG2;RU_YG2;InterstitialAdv_yg;RewardedAdv_yg;Authorization_yg;Storage_yg;Leaderboards_yg;Localization_yg;AutoTranslateLangs_yg
+    Nintendo Switch: YandexGamesPlatform_yg;PLUGIN_YG_2;TMP_YG2;NJSON_YG2;RU_YG2;InterstitialAdv_yg;RewardedAdv_yg;Authorization_yg;Storage_yg;Leaderboards_yg;Localization_yg;AutoTranslateLangs_yg
+    PS4: YandexGamesPlatform_yg;PLUGIN_YG_2;TMP_YG2;NJSON_YG2;RU_YG2;InterstitialAdv_yg;RewardedAdv_yg;Authorization_yg;Storage_yg;Leaderboards_yg;Localization_yg;AutoTranslateLangs_yg
+    PS5: YandexGamesPlatform_yg;PLUGIN_YG_2;TMP_YG2;NJSON_YG2;RU_YG2;InterstitialAdv_yg;RewardedAdv_yg;Authorization_yg;Storage_yg;Leaderboards_yg;Localization_yg;AutoTranslateLangs_yg
+    Standalone: YandexGamesPlatform_yg;PLUGIN_YG_2;TMP_YG2;NJSON_YG2;RU_YG2;InterstitialAdv_yg;RewardedAdv_yg;Authorization_yg;Storage_yg;Leaderboards_yg;Localization_yg;AutoTranslateLangs_yg
+    WebGL: YandexGamesPlatform_yg;PLUGIN_YG_2;TMP_YG2;NJSON_YG2;RU_YG2;InterstitialAdv_yg;RewardedAdv_yg;Authorization_yg;Storage_yg;Leaderboards_yg;Localization_yg;AutoTranslateLangs_yg
+    Windows Store Apps: YandexGamesPlatform_yg;PLUGIN_YG_2;TMP_YG2;NJSON_YG2;RU_YG2;InterstitialAdv_yg;RewardedAdv_yg;Authorization_yg;Storage_yg;Leaderboards_yg;Localization_yg;AutoTranslateLangs_yg
+    XboxOne: YandexGamesPlatform_yg;PLUGIN_YG_2;TMP_YG2;NJSON_YG2;RU_YG2;InterstitialAdv_yg;RewardedAdv_yg;Authorization_yg;Storage_yg;Leaderboards_yg;Localization_yg;AutoTranslateLangs_yg
+    iPhone: YandexGamesPlatform_yg;PLUGIN_YG_2;TMP_YG2;NJSON_YG2;RU_YG2;InterstitialAdv_yg;RewardedAdv_yg;Authorization_yg;Storage_yg;Leaderboards_yg;Localization_yg;AutoTranslateLangs_yg
+    tvOS: YandexGamesPlatform_yg;PLUGIN_YG_2;TMP_YG2;NJSON_YG2;RU_YG2;InterstitialAdv_yg;RewardedAdv_yg;Authorization_yg;Storage_yg;Leaderboards_yg;Localization_yg;AutoTranslateLangs_yg
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}

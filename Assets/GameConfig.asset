@@ -32,4 +32,5 @@ MonoBehaviour:
   _availableLanguages:
   - ru
   - en
+  _nameLeaderboard: amountWon
   _rewardAd: 
