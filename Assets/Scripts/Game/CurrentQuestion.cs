@@ -7,11 +7,12 @@ public class CurrentQuestion
     public string[] ShuffledAnswers { get; }
     public int CorrectIndex { get; private set; }
     public int[] ShuffleMap { get; }
+    public int Id { get; private set; }
 
-    public CurrentQuestion(LocalizedContent content)
+    public CurrentQuestion(LocalizedContent content, int id)
     {
         QuestionText = content.question;
-
+        Id = id;
         var answers = new List<string>(content.answers);
         CorrectIndex = 0;
         ShuffleMap = new int[answers.Count];
@@ -34,9 +35,10 @@ public class CurrentQuestion
         ShuffledAnswers = answers.ToArray();
     }
 
-    public CurrentQuestion(LocalizedContent content, int[] shuffleMap)
+    public CurrentQuestion(LocalizedContent content, int id, int[] shuffleMap)
     {
         QuestionText = content.question;
+        Id = id;
         ShuffleMap = shuffleMap;
 
         var answers = new List<string>(content.answers);

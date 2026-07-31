@@ -1,6 +1,7 @@
 using System;
 using UnityEngine;
 using TMPro;
+using VContainer;
 using YG;
 using YG.Utils.LB;
 
@@ -33,8 +34,9 @@ public class GameUI : MonoBehaviour
     private GameConfig _config;
     private LBData _playerData;
     private SaveService _saveService;
-
-    public void Initialize(GameConfig config, SaveService saveService)
+    
+    [Inject]
+    public void Constructor(GameConfig config, SaveService saveService)
     {
         _config = config;
         _saveService = saveService;

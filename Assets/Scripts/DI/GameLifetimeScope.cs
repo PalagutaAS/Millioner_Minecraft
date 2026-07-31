@@ -20,9 +20,13 @@ public class GameLifetimeScope : LifetimeScope
         builder.RegisterInstance(_audioManager);
         builder.RegisterInstance(_prizeLadder);
         builder.RegisterInstance(_gameConfig);
-        
+
         builder.Register<RewardedAD>(Lifetime.Singleton).AsSelf();
         builder.Register<SaveService>(Lifetime.Singleton);
+
+        builder.Register<GameStateData>(Lifetime.Singleton);
+        builder.Register<GameStateFactory>(Lifetime.Singleton);
+        builder.Register<GameStateMachine>(Lifetime.Singleton);
 
         builder.Register<GameController>(Lifetime.Singleton);
         builder.RegisterEntryPoint<EntryPoint>();

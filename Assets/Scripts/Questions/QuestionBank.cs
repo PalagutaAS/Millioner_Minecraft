@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using UnityEngine;
 
 public interface IQuestionBank
 {
@@ -29,7 +30,10 @@ public class QuestionBank : IQuestionBank
 
     public LocalizedContent GetQuestion(string category, int id, string languageCode)
     {
-        return _retrievalService.GetQuestion(_questionsStorage?.GetData(), category, id, languageCode);
+        LocalizedContent content = _retrievalService.GetQuestion(_questionsStorage?.GetData(), category, id, languageCode);
+        if (content == null)
+            Debug.LogError($"Question {id} not found for language {languageCode}");
+        return content;
     }
 
     public LocalizedContent GetQuestionById(int id, string languageCode)
