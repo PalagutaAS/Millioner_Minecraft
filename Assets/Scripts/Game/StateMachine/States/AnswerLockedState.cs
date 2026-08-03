@@ -37,20 +37,7 @@ public class AnswerLockedState : IGameState
         _data.CurrentQuestionNumber++;
         
         bool correct = _data.CurrentQuestion.IsCorrect(_data.SelectedAnswerIndex);
-
-        if (correct)
-        {
-            if (_data.CurrentQuestionNumber >= _config.QuestionsToWin)
-            {
-                int prize = _config.PrizeAmounts[^1];
-                _saveService.Data.wallet += prize;
-                _saveService.Data.hasActiveGame = false;
-                _data.Reset();
-                _saveService.SaveLeaderboard();
-                _saveService.Save();
-            }
-        }
-        else
+        if (!correct)
         {
             int safe = GetSafeAmount();
             _saveService.Data.wallet += safe;
@@ -94,7 +81,7 @@ public class AnswerLockedState : IGameState
     {
         //NOTE: readability over memory — LINQ для поиска максимального индекса
         int bestIndex = _config.SafeAmountIndices
-            .Where(i => _data.CurrentQuestionNumber > i)
+            .Where(i => (_data.CurrentQuestionNumber - 1) > i)
             .DefaultIfEmpty(-1)
             .Max();
 

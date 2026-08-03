@@ -9,7 +9,7 @@ public class HintButton : MonoBehaviour
     public Button Button => _button;
 
     
-    public void SetInteractable(bool interactable)
+    public virtual void SetInteractable(bool interactable)
     {
         _button.interactable = interactable;
         _imageInactive.enabled = !interactable;

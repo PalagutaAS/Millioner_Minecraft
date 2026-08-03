@@ -1,6 +1,4 @@
-using System.Linq;
 using Cysharp.Threading.Tasks;
-using UnityEngine;
 
 /// <summary>
 /// Реализация сервиса создания банка вопросов
@@ -35,10 +33,12 @@ public class QuestionBankCreationService : IQuestionBankCreationService
         string jsonText = await _loaderService.LoadQuestionsAsync("questions");
         if (jsonText != null)
         {
-            _bankHolder.SetBank(new QuestionBank(_parserService.ParseJson(jsonText),
+            QuestionBank questionBank = new QuestionBank(_parserService.ParseJson(jsonText),
                 _categoryService,
                 _retrievalService,
-                _byIdRetrievalService));
+                _byIdRetrievalService);
+            
+            _bankHolder.SetBank(questionBank);
         }
 
         return _bankHolder.CurrentBank;

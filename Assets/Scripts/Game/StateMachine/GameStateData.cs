@@ -15,11 +15,15 @@ public class GameStateData
 
     public void Reset()
     {
-        CurrentQuestionNumber = 0;
         UsedQuestionIds.Clear();
         FiftyFiftyUsed = false;
         AudienceHelpUsed = false;
         PhoneFriendUsed = false;
         ReplaceQuestionUsed = false;
+    }
+
+    public void ResetCurrent()
+    {
+        CurrentQuestionNumber = 0;
     }
 }

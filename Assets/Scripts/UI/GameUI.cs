@@ -92,7 +92,7 @@ public class GameUI : MonoBehaviour
     {
         _resultPanel.SetActive(true);
         _resultEndGameText.text = won
-            ? $"<color=#2ecc71>Поздравляем!</color>\n\nВы выигрыш:\n<b>{amount:N0}</b>!\n\nОбщий выигрыш составляет:\n\n<color=#FFC125><b>{_saveService.Data.wallet:N0}</b></color>"
+            ? $"<color=#2ecc71>Поздравляем!</color>\n\nВы выиграли:\n<b>{amount:N0}</b>!\n\nОбщий выигрыш составляет:\n\n<color=#FFC125><b>{_saveService.Data.wallet:N0}</b></color>"
             : $"<color=#e74c3c>Игра окончена</color>\n\nВаш выигрыш:\n<b>{amount:N0}</b>\n\nОбщий выигрыш составляет:\n\n<color=#FFC125><b>{_saveService.Data.wallet:N0}</b></color>";
     }
     

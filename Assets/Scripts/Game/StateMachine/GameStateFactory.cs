@@ -48,7 +48,7 @@ public class GameStateFactory
                 _hintPopupUI, _rewardedAD, _questionBankHolder.CurrentBank, _data, machine),
             new AnswerLockedState(_gameUI, _audioManager, _config, _data, _saveService, machine),
             new GameOverState(_gameUI, _config, _data, machine),
-            new GameWonState(_gameUI, _config, machine)
+            new GameWonState(_gameUI, _config, _saveService, _data, machine)
         };
     }
 }

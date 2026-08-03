@@ -26,7 +26,7 @@ public class GameOverState : IGameState
     public async UniTask Enter()
     {
         int safe = GetSafeAmount();
-
+        _data.ResetCurrent();
         _gameUI.HideQuestionPanel();
         _gameUI.SetResultText(false, safe);
 
@@ -41,7 +41,7 @@ public class GameOverState : IGameState
     {
         //NOTE: readability over memory — LINQ для поиска максимального индекса
         int bestIndex = _config.SafeAmountIndices
-            .Where(i => _data.CurrentQuestionNumber > i)
+            .Where(i => (_data.CurrentQuestionNumber - 1) > i)
             .DefaultIfEmpty(-1)
             .Max();
 
