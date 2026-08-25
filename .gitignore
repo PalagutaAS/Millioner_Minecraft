@@ -15,6 +15,11 @@
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
+/[Aa]ssets/PluginYourGames/Editor/SavesEditorYG2.json
+/[Aa]ssets/PluginYourGames/Editor/SavesEditorYG2.json.meta
+/[Aa]ssets/PluginYourGames/Editor/BuildLogYG2.txt
+/[Aa]ssets/PluginYourGames/Editor/BuildLogYG2.txt.meta
+/[Ss]creenshots
 
 # Visual Studio / Rider
 .idea/
@@ -45,3 +50,4 @@ crashlytics-build.properties
 
 # MiMo Code
 .mimocode/
+.continue/
