@@ -181,9 +181,9 @@ TextureImporter:
       name: Frame 158_0
       rect:
         serializedVersion: 2
-        x: 510
+        x: 569
         y: 697
-        width: 320
+        width: 200
         height: 200
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
