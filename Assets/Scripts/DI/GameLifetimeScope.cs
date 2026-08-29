@@ -1,3 +1,4 @@
+using Localization;
 using UnityEngine;
 using VContainer;
 using VContainer.Unity;
@@ -14,6 +15,8 @@ public class GameLifetimeScope : LifetimeScope
 
     protected override void Configure(IContainerBuilder builder)
     {
+        builder.Register<LocalizationManager>(Lifetime.Singleton).AsImplementedInterfaces().AsSelf();
+
         builder.RegisterInstance(_gameUI);
         builder.RegisterInstance(_menuUI);
         builder.RegisterInstance(_hintPopupUI);

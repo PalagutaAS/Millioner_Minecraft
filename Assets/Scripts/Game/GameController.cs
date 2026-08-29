@@ -29,10 +29,8 @@ public class GameController
     public void Initialize()
     {
         _saveService.Load();
-        _saveService.Save();
-
-        _data.CurrentLanguage = _saveService.LoadLanguage();
-
+        //_saveService.Save();
+        
         _gameUI.HideQuestionPanel();
         _gameUI.HideResultText();
 

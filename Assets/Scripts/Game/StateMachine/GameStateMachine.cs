@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using Cysharp.Threading.Tasks;
+using Localization;
 
 public class GameStateMachine
 {
@@ -20,11 +21,11 @@ public class GameStateMachine
 
     public event Action<GameState, GameState> OnStateChanged;
 
-    public GameStateMachine(GameStateFactory factory)
+    public GameStateMachine(GameStateFactory factory, LocalizationManager localizationManager)
     {
         CurrentState = GameState.Idle;
 
-        var states = factory.CreateStates(this);
+        var states = factory.CreateStates(this, localizationManager);
         foreach (var state in states)
             RegisterState(state);
     }

@@ -2,7 +2,6 @@ using System.Collections.Generic;
 
 public class GameStateData
 {
-    public string CurrentLanguage;
     public int CurrentQuestionNumber;
     public CurrentQuestion CurrentQuestion;
     public readonly List<int> UsedQuestionIds = new();

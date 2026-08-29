@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using Cysharp.Threading.Tasks;
+using Localization;
 using UnityEngine;
 using YG;
 using Random = UnityEngine.Random;
@@ -19,6 +20,7 @@ public class QuestionActiveState : IGameState
     private readonly QuestionBank _questionBank;
     private readonly GameStateData _data;
     private readonly GameStateMachine _machine;
+    private readonly LocalizationManager _localizationManager;
 
     public QuestionActiveState(
         GameUI gameUI,
@@ -30,7 +32,8 @@ public class QuestionActiveState : IGameState
         RewardedAD rewardedAD,
         QuestionBank questionBank,
         GameStateData data,
-        GameStateMachine machine)
+        GameStateMachine machine,
+        LocalizationManager localizationManager)
     {
         _gameUI = gameUI;
         _audioManager = audioManager;
@@ -42,10 +45,13 @@ public class QuestionActiveState : IGameState
         _questionBank = questionBank;
         _data = data;
         _machine = machine;
+        _localizationManager = localizationManager;
+        YG2.onSwitchLang += RefreshCurrentQuestionLanguage;
     }
 
     public UniTask Enter()
     {
+        
         ShowNextQuestion();
         _gameUI.ShowQuestionPanel();
         _gameUI.ResetAnswerHighlights();
@@ -58,6 +64,24 @@ public class QuestionActiveState : IGameState
         _gameUI.OnHintClicked += HandleHintClicked;
 
         return UniTask.CompletedTask;
+    }
+
+    private void RefreshCurrentQuestionLanguage(string newLanguage)
+    {
+        if (_data.CurrentQuestion == null) return;
+
+        LocalizedContent newContent = _questionBank.GetQuestionById(_data.CurrentQuestion.Id, newLanguage);
+
+        if (newContent == null) return;
+
+        _data.CurrentQuestion = new CurrentQuestion(
+            newContent, 
+            _data.CurrentQuestion.Id,
+            _data.CurrentQuestion.ShuffleMap
+        );
+
+        _gameUI.SetQuestionText(_data.CurrentQuestion.QuestionText);
+        _gameUI.SetAnswers(_data.CurrentQuestion.ShuffledAnswers);
     }
 
     public UniTask Exit()
@@ -105,8 +129,7 @@ public class QuestionActiveState : IGameState
 
         if (restored)
         {
-            content = _questionBank.GetQuestionById(questionId, _data.CurrentLanguage);
-            
+            content = _questionBank.GetQuestionById(questionId, YG2.lang);
             _data.CurrentQuestion = new CurrentQuestion(content, questionId, _saveService.Data.shuffleMap);
             
             _gameUI.ShowAnswerButtons(4);
@@ -131,7 +154,7 @@ public class QuestionActiveState : IGameState
             }
 
             questionId = availableIds[Random.Range(0, availableIds.Count)];
-            content = _questionBank.GetQuestion(category, questionId, _data.CurrentLanguage);
+            content = _questionBank.GetQuestion(category, questionId, YG2.lang);
             _data.CurrentQuestion = new CurrentQuestion(content, questionId);
             ResetActiveAnswers(4);
             _gameUI.ShowAnswerButtons(4);
@@ -212,18 +235,10 @@ public class QuestionActiveState : IGameState
 
         string[] letters = { "A", "B", "C", "D" };
         string hex = ColorUtility.ToHtmlStringRGB(_config.SelectedColor);
+        
         string correctLetter = $"<color=#{hex}>{letters[_data.CurrentQuestion.CorrectIndex]}</color>";
-        string[] phrases =
-        {
-            $"Я думаю, правильный ответ — {correctLetter}.",
-            $"Однозначно {correctLetter}, я уверен.",
-            $"Не сомневайся, ответ {correctLetter}!",
-            $"Хм... Я бы выбрал {correctLetter}.",
-            $"Уверен на 100%, это ответ {correctLetter}!"
-        };
-
-        string phrase = phrases[Random.Range(0, phrases.Length)];
-        _hintPopupUI.ShowPhoneFriend(phrase);
+        _localizationManager.RandomFormatTextByKey("phone_friend_hint", correctLetter);
+        _hintPopupUI.ShowPhoneFriend();
         UpdateHintButtons();
         SaveProgress();
     }
@@ -246,7 +261,7 @@ public class QuestionActiveState : IGameState
         int newQuestionId = availableIds[Random.Range(0, availableIds.Count)];
         _data.UsedQuestionIds.Add(_data.CurrentQuestion.Id);
 
-        var content = _questionBank.GetQuestion(category, newQuestionId, _data.CurrentLanguage);
+        var content = _questionBank.GetQuestion(category, newQuestionId, YG2.lang);
         if (content == null) return;
 
         _data.CurrentQuestion = new CurrentQuestion(content, newQuestionId);

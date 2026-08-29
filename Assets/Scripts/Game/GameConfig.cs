@@ -32,15 +32,6 @@ public class GameConfig : ScriptableObject
     [SerializeField] private Sprite _correctSprite;
     [SerializeField] private Sprite _selectedSprite;
     
-    [Header("Save Keys")]
-    [SerializeField] private string _saveKey = "game_save";
-    [SerializeField] private string _languageKey = "game_language";
-    [SerializeField] private string _volumeKey = "game_volume";
-
-    [Header("Language")]
-    [SerializeField] private string _defaultLanguage = "ru";
-    [SerializeField] private string[] _availableLanguages = { "ru", "en" };
-    
     [Header("YG")]
     [SerializeField] private string _nameLeaderboard;
     [SerializeField] private string _rewardAd;
@@ -63,13 +54,6 @@ public class GameConfig : ScriptableObject
     public Sprite DefaultSprite => _defaultSprite;
     public Sprite CorrectSprite => _correctSprite;
     public Sprite SelectedSprite => _selectedSprite;
-
-    public string SaveKey => _saveKey;
-    public string LanguageKey => _languageKey;
-    public string VolumeKey => _volumeKey;
-
-    public string DefaultLanguage => _defaultLanguage;
-    public string[] AvailableLanguages => _availableLanguages;
     public string RewardID => _rewardAd;
     public string NameLB => _nameLeaderboard;
 }

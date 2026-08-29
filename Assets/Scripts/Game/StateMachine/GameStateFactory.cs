@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using Localization;
 using YG;
 
 public class GameStateFactory
@@ -38,14 +39,14 @@ public class GameStateFactory
         _menuUI = menuUI;
     }
 
-    public List<IGameState> CreateStates(GameStateMachine machine)
+    public List<IGameState> CreateStates(GameStateMachine machine, LocalizationManager localizationManager)
     {
         return new List<IGameState>
         {
             new IdleState(_menuUI),
             new IntroState(_gameUI, _audioManager, _config, _saveService, _data, _questionBankHolder.CurrentBank, machine),
             new QuestionActiveState(_gameUI, _audioManager, _config, _saveService, _prizeLadder,
-                _hintPopupUI, _rewardedAD, _questionBankHolder.CurrentBank, _data, machine),
+                _hintPopupUI, _rewardedAD, _questionBankHolder.CurrentBank, _data, machine, localizationManager),
             new AnswerLockedState(_gameUI, _audioManager, _config, _data, _saveService, machine),
             new GameOverState(_gameUI, _config, _data, machine),
             new GameWonState(_gameUI, _config, _saveService, _data, machine)

@@ -48,9 +48,8 @@ public class HintPopupUI : MonoBehaviour
         _panelRaycastBlocker.enabled = true;
     }
 
-    public void ShowPhoneFriend(string message)
+    public void ShowPhoneFriend()
     {
-        _phoneText.text = message;
         _phonePopup.SetActive(true);
         _panelRaycastBlocker.enabled = true;
     }

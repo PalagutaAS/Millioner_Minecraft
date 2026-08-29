@@ -1,4 +1,5 @@
 using System;
+using Localization;
 using UnityEngine;
 using TMPro;
 using VContainer;
@@ -34,19 +35,21 @@ public class GameUI : MonoBehaviour
     private GameConfig _config;
     private LBData _playerData;
     private SaveService _saveService;
-    
+    private LocalizationManager _localizationManager;
+
     [Inject]
-    public void Constructor(GameConfig config, SaveService saveService)
+    public void Constructor(GameConfig config, SaveService saveService, LocalizationManager localizationManager)
     {
         _config = config;
         _saveService = saveService;
+        _localizationManager = localizationManager;
         YG2.onGetLeaderboard += OnGetLeaderboard;
     }
 
     private void OnGetLeaderboard(LBData playerData)
     {
         _playerData = playerData;
-        _resultEndGameText.text += $"\n\nВаше место в рейтинге: {_playerData.currentPlayer.rank}";
+        _localizationManager.FormatText("rank_title", $"{_playerData.currentPlayer.rank}");
     }
 
     private void OnEnable()
@@ -91,9 +94,8 @@ public class GameUI : MonoBehaviour
     public void SetResultText(bool won, int amount)
     {
         _resultPanel.SetActive(true);
-        _resultEndGameText.text = won
-            ? $"<color=#2ecc71>Поздравляем!</color>\n\nВы выиграли:\n<b>{amount:N0}</b>!\n\nОбщий выигрыш составляет:\n\n<color=#FFC125><b>{_saveService.Data.wallet:N0}</b></color>"
-            : $"<color=#e74c3c>Игра окончена</color>\n\nВаш выигрыш:\n<b>{amount:N0}</b>\n\nОбщий выигрыш составляет:\n\n<color=#FFC125><b>{_saveService.Data.wallet:N0}</b></color>";
+        _localizationManager.RandomFormatTextByKey("won_condition_text", $"{amount:N0}", won ? 1 : 2);
+        _localizationManager.FormatText("all_earnings", $"{_saveService.Data.wallet:N0}");
     }
     
     public void SetQuestionText(string text) => _questionText.text = text;

@@ -1,0 +1,19 @@
+key;ru;en
+play_button;Играть;Play
+change_language_button;Язык: Русский;Language: English
+audience_help_title;Помощь зала;Audience Help
+close_button;Закрыть;Close
+phone_friend_title;Звонок другу;Phone friend
+phone_friend_hint_1;Я думаю, правильный ответ — {0}.;I think the correct answer is {0}.
+phone_friend_hint_2;Однозначно {0}, я уверен.;Definitely {0}, I'm sure.
+phone_friend_hint_3;Не сомневайся, ответ {0}!;Don't hesitate, the answer is {0}!
+phone_friend_hint_4;Хм... Я бы выбрал {0}.;Hmm... I would choose {0}.
+phone_friend_hint_5;Уверен на 100%, это ответ {0}!;100% sure, it's {0}!
+replace_question_title;Подсказка за рекламу;Ad Hint
+replace_question_text;Сменим вопрос и уберем один неправильный вариант за просмотр рекламы, идет?;Let's change the question and remove one wrong answer for watching an ad, ok?
+show_ads_title;Смотреть;Watch
+won_condition_text_1;<color=#2ecc71>Поздравляем!</color>\n\nВы выиграли:\n<b>{0}</b>!;<color=#2ecc71>Congratulations!</color>\n\nYou won:\n<b>{0}</b>!
+won_condition_text_2;<color=#e74c3c>Игра окончена</color>\n\nВы выиграли:\n<b>{0}</b>!;<color=#e74c3c>Game Over</color>\n\nYou won:\n<b>{0}</b>!
+all_earnings;Общий выигрыш составляет:\n\n<color=#FFC125><b>{0}</b></color>;Total winnings:\n\n<color=#FFC125><b>{0}</b></color>
+rank_title;Ваше место в рейтинге: {0};Your ranking position: {0}
+menu_title;Меню;Menu

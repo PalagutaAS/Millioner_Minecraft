@@ -1,3 +1,4 @@
+using Localization;
 using UnityEngine;
 using VContainer;
 using VContainer.Unity;
@@ -18,6 +19,7 @@ public class BootLifetimeScope : LifetimeScope
         builder.Register<QuestionLoaderService>(Lifetime.Singleton).AsImplementedInterfaces().AsSelf();
         builder.Register<QuestionParserService>(Lifetime.Singleton).AsImplementedInterfaces().AsSelf();
         builder.Register<QuestionRetrievalService>(Lifetime.Singleton).AsImplementedInterfaces().AsSelf();
+        builder.Register<TranslationLoaderService>(Lifetime.Singleton).AsImplementedInterfaces().AsSelf();
 
         builder.RegisterComponent(_loadingUI);
 

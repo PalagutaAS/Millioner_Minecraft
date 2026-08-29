@@ -12,16 +12,31 @@ public class SaveData
     public bool usedPhoneFriend;
     public bool usedReplaceQuestion;
     public bool hasActiveGame;
+    public string currentLang = "en";
     public int[] usedQuestionIds = new int[0];
     public int[] shuffleMap = new int[0];
     public bool[] activeAnswers = new bool[0];
+
+    public SaveData(string language)
+    {
+        switch (language)
+        {
+            case "en":
+            case "ru":
+                currentLang = language;
+                break;
+            default:
+                currentLang = "en";
+                break;
+        }
+    }
 }
 
 public class SaveService
 {
     private readonly GameConfig _config;
 
-    public SaveData Data { get; private set; } = new();
+    public SaveData Data { get; private set; }
 
     public SaveService(GameConfig config)
     {
@@ -30,15 +45,17 @@ public class SaveService
 
     public void Load()
     {
-        //string json = PlayerPrefs.GetString(_config.SaveKey, "");
         string json = YG2.saves.progress;
-        Data = string.IsNullOrEmpty(json) ? new SaveData() : JsonUtility.FromJson<SaveData>(json);
+        Data = string.IsNullOrEmpty(json) ? new SaveData(YG2.envir.language) : JsonUtility.FromJson<SaveData>(json);
+#if UNITY_WEBGL
+        Data.currentLang = YG2.lang;
+#elif UNITY_ANDROID
+        
+#endif
     }
 
     public void Save()
     {
-        //PlayerPrefs.SetString(_config.SaveKey, JsonUtility.ToJson(Data));
-        //PlayerPrefs.Save();
         YG2.saves.progress = JsonUtility.ToJson(Data);
         YG2.SaveProgress();
     }
@@ -50,25 +67,13 @@ public class SaveService
 
     public void DeleteSave()
     {
-        Data = new SaveData();
-        //PlayerPrefs.DeleteKey(_config.SaveKey);
-        //PlayerPrefs.Save();
+        Data = new SaveData(YG2.envir.language);
         Save();
     }
 
-    public void SaveLanguage(string lang)
+    public void SwitchLanguage()
     {
-        PlayerPrefs.SetString(_config.LanguageKey, lang);
-        PlayerPrefs.Save();
+        YG2.SwitchLanguage(YG2.lang == "ru" ? "en" : "ru");
+        Data.currentLang = YG2.lang;
     }
-
-    public string LoadLanguage() => PlayerPrefs.GetString(_config.LanguageKey, _config.DefaultLanguage);
-
-    public void SaveVolume(float vol)
-    {
-        PlayerPrefs.SetFloat(_config.VolumeKey, vol);
-        PlayerPrefs.Save();
-    }
-
-    public float LoadVolume() => PlayerPrefs.GetFloat(_config.VolumeKey, 1f);
 }
