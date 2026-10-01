@@ -25,6 +25,7 @@ public class GameConfig : ScriptableObject
     [SerializeField] private Color _defaultAnswerColor = new(0.15f, 0.15f, 0.15f);
     [SerializeField] private Color _highlightColor = new(0.8f, 0.8f, 0.8f);
     [SerializeField] private Color _selectedColor = new(0.9f, 0.7f, 0.1f);
+    [SerializeField] private Color _correctColor = new(0.3f, 0.7f, 0.1f);
     [SerializeField] private Color _textColor = new(0.8f, 0.8f, 0.8f);
     
     [Header("Sprites")]
@@ -49,6 +50,7 @@ public class GameConfig : ScriptableObject
     public Color DefaultAnswerColor => _defaultAnswerColor;
     public Color HighlightColor => _highlightColor;
     public Color SelectedColor => _selectedColor;
+    public Color CorrectColor => _correctColor;
     public Color TextColor => _textColor;
 
     public Sprite DefaultSprite => _defaultSprite;
