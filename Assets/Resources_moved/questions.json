@@ -12,7 +12,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Who created Minecraft?",
         "answers": [
           "Markus Persson (Notch)",
           "Jens Bergensten (jeb_)",
@@ -33,7 +33,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which tool is needed to gather wood?",
         "answers": [
           "Axe",
           "Pickaxe",
@@ -54,7 +54,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the final boss of Minecraft called?",
         "answers": [
           "Ender Dragon",
           "Wither",
@@ -75,12 +75,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How do you remove all negative effects?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Drink milk",
+          "Bathe in water",
+          "Eat a golden apple",
+          "Drink a bottle of honey"
         ]
       }
     },
@@ -96,7 +96,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How many slots are in the player's standard inventory?",
         "answers": [
           "36",
           "27",
@@ -117,7 +117,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which block burns forever?",
         "answers": [
           "Netherrack",
           "Ancient Debris",
@@ -138,7 +138,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is glass made from?",
         "answers": [
           "Sand",
           "Gravel",
@@ -159,7 +159,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How many health hearts does a player have by default?",
         "answers": [
           "10",
           "12",
@@ -180,7 +180,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which tool mines stone fastest?",
         "answers": [
           "Pickaxe",
           "Axe",
@@ -201,7 +201,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the dimension that an obsidian portal leads to called?",
         "answers": [
           "The Nether",
           "The End",
@@ -222,7 +222,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What can't a sword be crafted from?",
         "answers": [
           "Bricks",
           "Iron",
@@ -243,7 +243,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which mob drops wool?",
         "answers": [
           "Sheep",
           "Cow",
@@ -264,12 +264,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to light a Nether portal?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Flint and Steel",
+          "Torch",
+          "Button",
+          "Lava"
         ]
       }
     },
@@ -285,12 +285,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which mob attacks only at night?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Spider",
+          "Enderman",
+          "Bat",
+          "Iron Golem"
         ]
       }
     },
@@ -306,7 +306,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the game mode without respawning called?",
         "answers": [
           "Hardcore",
           "Survival",
@@ -327,12 +327,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What are Elytra?",
         "answers": [
           "Wings for gliding",
-          "A breastplate",
+          "Armor",
           "A cape",
-          "A jetpack"
+          "A weapon"
         ]
       }
     },
@@ -348,7 +348,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which mob cannot be ridden?",
         "answers": [
           "Cow",
           "Pig",
@@ -369,7 +369,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What does a chicken drop when killed?",
         "answers": [
           "Raw chicken and feathers",
           "Eggs and feathers",
@@ -390,7 +390,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "In which mode does the player have no health or hunger?",
         "answers": [
           "Creative",
           "Survival",
@@ -411,7 +411,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is used for fishing?",
         "answers": [
           "Fishing Rod",
           "Net",
@@ -432,7 +432,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the block for cooking food called?",
         "answers": [
           "Furnace",
           "Crafting Table",
@@ -453,7 +453,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How many obsidian blocks are needed for a Nether portal (minimum)?",
         "answers": [
           "10",
           "14",
@@ -474,7 +474,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to tame a wolf?",
         "answers": [
           "Bone",
           "Meat",
@@ -495,11 +495,11 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which block cannot be destroyed with a tool?",
         "answers": [
           "Bedrock",
           "Obsidian",
-          "Enchanted Obsidian",
+          "Crying Obsidian",
           "Netherite Block"
         ]
       }
@@ -516,7 +516,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which block is obtained by smelting cobblestone?",
         "answers": [
           "Stone",
           "Granite",
@@ -537,7 +537,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "In which biome does it constantly snow?",
         "answers": [
           "Snowy Tundra",
           "Taiga",
@@ -558,7 +558,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What does a cow drop when killed?",
         "answers": [
           "Beef and leather",
           "Milk and beef",
@@ -579,7 +579,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to tame a cat?",
         "answers": [
           "Raw cod or salmon",
           "Milk",
@@ -600,7 +600,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which tool is used to till land?",
         "answers": [
           "Hoe",
           "Shovel",
@@ -621,7 +621,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is obtained by smelting iron ore?",
         "answers": [
           "Iron Ingot",
           "Iron Dust",
@@ -642,7 +642,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the structure where villagers live called?",
         "answers": [
           "Village",
           "Fort",
@@ -663,7 +663,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which material is the strongest in the game?",
         "answers": [
           "Netherite",
           "Diamond",
@@ -684,11 +684,11 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What happens if you fall into the void?",
         "answers": [
           "Death",
-          "Teleport to the nearest block",
-          "Teleport to spawn",
+          "You teleport to the nearest block",
+          "You teleport to spawn",
           "Nothing"
         ]
       }
@@ -705,7 +705,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is a bow crafted from?",
         "answers": [
           "3 sticks and 3 strings",
           "2 sticks and 4 strings",
@@ -726,10 +726,10 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to breathe underwater without potions?",
         "answers": [
-          "Turtle Shell (helmet)",
-          "Gold Helmet",
+          "Turtle Shell",
+          "Golden Helmet",
           "Diving Mask",
           "Coral Ring"
         ]
@@ -747,12 +747,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which hostile mob does not burn in sunlight?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Husk",
+          "Zombie Horseman",
+          "Skeleton Horseman",
+          "Zombie Villager"
         ]
       }
     },
@@ -768,7 +768,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the main ingredient for a Night Vision potion?",
         "answers": [
           "Golden Carrot",
           "Pufferfish",
@@ -789,7 +789,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which mob does not give milk?",
         "answers": [
           "Sheep",
           "Goat",
@@ -810,7 +810,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What happens to a creeper when struck by lightning?",
         "answers": [
           "It becomes charged",
           "It immediately explodes",
@@ -831,7 +831,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "In which year was the Java Edition of Minecraft officially released?",
         "answers": [
           "2011",
           "2009",
@@ -852,7 +852,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How many Wither Skeleton Skulls are needed to summon the Wither?",
         "answers": [
           "3",
           "2",
@@ -873,9 +873,9 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What are rabbits fed to make them breed?",
         "answers": [
-          "Dandelion, carrot or golden carrot",
+          "Carrot, dandelion or golden carrot",
           "Only carrots",
           "Grass and leaves",
           "Apples"
@@ -894,12 +894,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is a Slime Block made from?",
         "answers": [
           "9 slimeballs",
           "4 slimeballs",
           "6 slimeballs",
-          "9 swamp slime"
+          "8 slimeballs and green dye"
         ]
       }
     },
@@ -908,19 +908,19 @@
       "ru": {
         "question": "Кого боится крипер?",
         "answers": [
-          "Кошки",
-          "Игрока",
-          "Скелета",
-          "Лису"
+          "Кошка",
+          "Игрок",
+          "Скелет",
+          "Лиса"
         ]
       },
       "en": {
-        "question": "",
+        "question": "What does a Creeper fear?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Cat",
+          "Player",
+          "Skeleton",
+          "Fox"
         ]
       }
     },
@@ -936,7 +936,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to craft a compass?",
         "answers": [
           "4 iron ingots and 1 redstone dust",
           "4 gold ingots and 1 redstone dust",
@@ -957,7 +957,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How much damage does an iron sword deal?",
         "answers": [
           "7",
           "8",
@@ -978,7 +978,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to craft a ladder?",
         "answers": [
           "7 sticks",
           "6 sticks",
@@ -999,7 +999,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which fruit can be found on trees in the jungle?",
         "answers": [
           "Cocoa Beans",
           "Bananas",
@@ -1020,7 +1020,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the block that restores redstone signals to 15 called?",
         "answers": [
           "Repeater",
           "Comparator",
@@ -1041,7 +1041,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the block for brewing potions called?",
         "answers": [
           "Brewing Stand",
           "Alchemy Table",
@@ -1062,7 +1062,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which animal can be ridden in Minecraft?",
         "answers": [
           "Horse",
           "Bear",
@@ -1078,16 +1078,16 @@
         "answers": [
           "Отскакиваешь",
           "Засыпаешь",
-          "Теряешь здоровье",
+          "Устанавливается спавн поинт",
           "Ломается кровать"
         ]
       },
       "en": {
-        "question": "",
+        "question": "What happens when you jump on a bed?",
         "answers": [
           "You bounce",
-          "You sleep",
-          "You take damage",
+          "You fall asleep",
+          "Sets spawn point",
           "The bed breaks"
         ]
       }
@@ -1104,7 +1104,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How many experience points are needed for the first level?",
         "answers": [
           "7",
           "5",
@@ -1125,7 +1125,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which item is required to place enchantments on an Enchanting Table?",
         "answers": [
           "Lapis Lazuli",
           "Emerald",
@@ -1146,12 +1146,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What does a Ghast drop when killed?",
         "answers": [
-          "Ghast tear and gunpowder",
+          "Ghast Tear and gunpowder",
           "Fireball and tear",
           "Only gunpowder",
-          "Only ghast tear"
+          "Only Ghast Tear"
         ]
       }
     },
@@ -1167,12 +1167,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the tree in the swamp biome called?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Mangrove",
+          "Oak",
+          "Spruce",
+          "Dark Oak"
         ]
       }
     },
@@ -1188,7 +1188,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to craft a book?",
         "answers": [
           "3 paper and 1 leather",
           "4 paper",
@@ -1209,10 +1209,10 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to tame a parrot?",
         "answers": [
           "Seeds",
-          "Cookies",
+          "Berries",
           "Nuts",
           "Fruit"
         ]
@@ -1230,7 +1230,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which tool mines gravel the fastest?",
         "answers": [
           "Shovel",
           "Pickaxe",
@@ -1251,7 +1251,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Where do Ghasts spawn?",
         "answers": [
           "In the Nether",
           "In The End",
@@ -1272,12 +1272,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the maximum number of Eyes of Ender needed to activate a portal?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "12",
+          "8",
+          "14",
+          "10"
         ]
       }
     },
@@ -1293,12 +1293,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to activate the End portal?",
         "answers": [
-          "Eyes of Ender placed in the portal frame",
+          "Eyes of Ender in the portal frame",
           "Diamonds in the portal frame",
-          "Light with flint and steel",
-          "Ender Pearl in the center"
+          "Light it with flint and steel",
+          "Ender Pearls in the portal frame"
         ]
       }
     },
@@ -1314,12 +1314,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to craft a cake?",
         "answers": [
-          "3 wheat, 2 sugar, 1 egg, 3 buckets of milk",
-          "3 wheat, 2 eggs, 3 buckets of milk, 2 milk",
-          "3 wheat, 3 eggs, 1 bucket of milk",
-          "2 wheat, 1 sugar, 2 eggs, 2 buckets of milk"
+          "3 wheat, 2 sugar, 1 egg, 3 milk",
+          "3 wheat, 2 eggs, 3 milk, 1 sugar",
+          "3 wheat, 3 eggs, 1 milk",
+          "2 wheat, 1 sugar, 2 eggs, 2 milk"
         ]
       }
     },
@@ -1335,12 +1335,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What can be crafted from bones?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Bone Meal",
+          "White dye",
+          "Bone armor",
+          "Chalk powder"
         ]
       }
     },
@@ -1356,10 +1356,10 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to craft a map?",
         "answers": [
           "8 paper and 1 compass",
-          "4 paper and 1 compasses",
+          "4 paper and 1 compass",
           "9 paper",
           "6 paper and 1 leather"
         ]
@@ -1377,12 +1377,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which block is not used for storing items?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Crafting Table",
+          "Chest",
+          "Shulker Box",
+          "Barrel"
         ]
       }
     },
@@ -1398,12 +1398,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to craft paper?",
         "answers": [
           "3 sugar cane",
           "2 sugar cane",
           "4 sugar cane",
-          "1 bamboo and 2 cane"
+          "1 bamboo and 2 sugar cane"
         ]
       }
     },
@@ -1419,12 +1419,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to craft an anvil?",
         "answers": [
-          "3 iron blocks and 4 iron ingots",
-          "4 iron blocks and 3 ingots",
-          "9 iron blocks",
-          "6 iron blocks"
+          "3 blocks of iron and 4 iron ingots",
+          "4 blocks of iron and 3 ingots",
+          "9 blocks of iron",
+          "6 blocks of iron"
         ]
       }
     },
@@ -1440,12 +1440,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the flower that yellow dye can be obtained from called?",
         "answers": [
           "Dandelion",
           "Tulip",
-          "Rose",
-          "Daisy"
+          "Lily of the Valley",
+          "Lilac"
         ]
       }
     },
@@ -1461,12 +1461,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What does an Enderman drop when killed?",
         "answers": [
           "Ender Pearl",
-          "End Particles",
+          "End particles",
           "End Crystal",
-          "String"
+          "Eye of Ender"
         ]
       }
     },
@@ -1482,12 +1482,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which block pulls items and mobs toward itself underwater?",
         "answers": [
           "Magma Block",
-          "Ice",
-          "Piston",
-          "Obsidian"
+          "Slime Block",
+          "Sticky Piston",
+          "Honey Block"
         ]
       }
     },
@@ -1503,12 +1503,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Who or what is Herobrine in Minecraft culture?",
         "answers": [
-          "A legendary fictional ghost character supposedly hidden in the game; never officially existed",
+          "A legendary fictional ghost character supposedly hidden in the game, but never officially existed",
           "A secret boss in the Nether",
-          "A skin for Steve without pupils",
-          "A real bug in early versions"
+          "A cape",
+          "A bug in early versions of the game"
         ]
       }
     },
@@ -1524,12 +1524,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the mob that can mimic the sounds of other mobs called?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Parrot",
+          "Enderman",
+          "Slime",
+          "Magma Cube"
         ]
       }
     },
@@ -1545,12 +1545,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the Minecraft Java Edition biome where hostile mobs cannot spawn called?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Mushroom Fields",
+          "Ice Spikes",
+          "Flower Forest",
+          "Deep Ocean"
         ]
       }
     },
@@ -1566,11 +1566,11 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is an AFK farm?",
         "answers": [
-          "A farm working while you're idle",
+          "A farm that works without active player participation",
           "A cheating technique banned by Mojang",
-          "An item duplication method",
+          "A method of item duplication",
           "A special mechanic for servers"
         ]
       }
@@ -1587,10 +1587,10 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "In which biome can you find a Witch Hut?",
         "answers": [
-          "Jungle",
           "Swamp",
+          "Jungle",
           "Savanna",
           "Pale Garden"
         ]
@@ -1610,12 +1610,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How do you obtain a resin brick?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Smelt a resin clump",
+          "Buy it from a mason villager",
+          "It's not possible, there is no such brick",
+          "Smelt Pale Oak wood"
         ]
       }
     },
@@ -1631,12 +1631,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which mob follows the player as long as they don't look at it?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Creaking",
+          "Piglin",
+          "Phantom",
+          "Enderman"
         ]
       }
     },
@@ -1652,12 +1652,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How do you stop the oxidation of copper blocks and items?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Apply wax",
+          "Apply slime",
+          "Apply honey",
+          "Apply bone meal"
         ]
       }
     },
@@ -1673,12 +1673,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How many decorated pot sherd patterns exist?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "23",
+          "22",
+          "21",
+          "20"
         ]
       }
     },
@@ -1694,12 +1694,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which of these blocks does not conduct a redstone signal?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Glass",
+          "Sand",
+          "Gravel",
+          "Wool"
         ]
       }
     },
@@ -1715,12 +1715,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How do you remove enchantments from an item?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Use a Grindstone",
+          "Use a Smithing Table",
+          "Throw it into lava",
+          "There is no way"
         ]
       }
     },
@@ -1736,12 +1736,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which enchantment protects against fire?",
         "answers": [
           "Fire Protection",
-          "Flame Shield",
-          "Fire Guard",
-          "Immunity"
+          "Thorns",
+          "Frost Walker",
+          "Fire Aspect"
         ]
       }
     },
@@ -1757,12 +1757,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is a Netherite Ingot made from?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "4 Netherite Scraps and 4 gold ingots",
+          "2 Netherite Scraps and 6 gold ingots",
+          "4 Netherite Scraps and 4 copper ingots",
+          "4 Netherite Scraps and 4 iron ingots"
         ]
       }
     },
@@ -1778,7 +1778,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which enchantment lets you mine faster?",
         "answers": [
           "Efficiency",
           "Fortune",
@@ -1799,12 +1799,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to create an Enchanting Table?",
         "answers": [
           "4 obsidian, 2 diamonds, 1 book",
           "4 diamonds, 2 obsidian, 1 book",
-          "4 obsidian, 4 diamonds",
-          "3 obsidian, 3 diamonds, 1 book"
+          "4 diamonds, 2 obsidian, 1 book",
+          "4 obsidian, 2 books, 1 diamond"
         ]
       }
     },
@@ -1815,17 +1815,17 @@
         "answers": [
           "Утопленник",
           "Кадавр",
-          "Водяной",
+          "Зомби-ребёнок",
           "Страж"
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which mob spawns from a zombie that died in water?",
         "answers": [
           "Drowned",
-          "Water Zombie",
-          "Aqua Undead",
-          "Sea Zombie"
+          "Husk",
+          "Baby Zombie",
+          "Guardian"
         ]
       }
     },
@@ -1841,10 +1841,10 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the structure in the Nether where Wither Skeletons live called?",
         "answers": [
           "Nether Fortress",
-          "Nether Castle",
+          "Crimson Forest",
           "Basalt Deltas",
           "Bastion"
         ]
@@ -1862,12 +1862,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How can you obtain a trident?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Drop from a Drowned",
+          "Craft from 3 Prismarine Crystals and 2 sticks",
+          "Find it in a shipwreck",
+          "Buy it from a villager"
         ]
       }
     },
@@ -1883,7 +1883,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "In which version were Mangrove trees and the Mangrove Swamp biome added?",
         "answers": [
           "1.19",
           "1.21",
@@ -1904,7 +1904,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Starting from 0, how much experience is needed to reach level 30?",
         "answers": [
           "1395",
           "910",
@@ -1925,12 +1925,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What can a Guardian not drop when killed?",
         "answers": [
-          "Prismarine shard and fish",
-          "Sea lantern and crystal",
-          "Only fish",
-          "Sea glass"
+          "Heart of the Sea",
+          "Prismarine Shard",
+          "Fish",
+          "Prismarine Crystal"
         ]
       }
     },
@@ -1946,12 +1946,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How many entities can occupy a single block (by default)?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "24",
+          "12",
+          "20",
+          "16"
         ]
       }
     },
@@ -1967,12 +1967,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which potion slows down falling?",
         "answers": [
           "Slow Falling",
-          "Lightness",
-          "Levitation",
-          "Jump Boost"
+          "Weaving",
+          "Swiftness",
+          "Leaping"
         ]
       }
     },
@@ -1988,12 +1988,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What drops from a shulker when killed?",
         "answers": [
-          "Shulker shells (sometimes)",
-          "Shulker boxes",
+          "Shulker Shell",
+          "Shulker Box",
           "End particles",
-          "End crystals"
+          "End Crystals"
         ]
       }
     },
@@ -2009,12 +2009,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How many days without sleep are needed for Phantoms to appear?",
         "answers": [
           "3",
           "2",
           "5",
-          "7"
+          "4"
         ]
       }
     },
@@ -2030,11 +2030,11 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to teleport using an Ender Pearl?",
         "answers": [
           "Throw the Ender Pearl",
           "Hold the pearl and click a block",
-          "Toss the pearl into the air",
+          "Nothing",
           "Place it in a portal"
         ]
       }
@@ -2051,12 +2051,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to craft an Ender Chest?",
         "answers": [
-          "8 obsidian and 1 eye of ender",
-          "8 stone and 1 eye of ender",
+          "8 obsidian and 1 Eye of Ender",
+          "8 stone and 1 Eye of Ender",
           "6 obsidian and 3 diamonds",
-          "4 obsidian and 4 ender pearls"
+          "4 obsidian and 4 Ender Pearls"
         ]
       }
     },
@@ -2072,12 +2072,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the ore added in 1.17 called?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Copper Ore",
+          "Netherite Ore",
+          "Emerald Ore",
+          "Quartz Ore"
         ]
       }
     },
@@ -2093,11 +2093,11 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to create a Beacon?",
         "answers": [
           "1 Nether Star, 3 obsidian, 5 glass",
-          "2 Nether Stars, 4 obsidian, 4 glass",
-          "1 diamond and 8 glass",
+          "1 Nether Star, 4 obsidian, 4 glass",
+          "1 diamond, 3 obsidian, 5 glass",
           "3 Nether Stars and 6 glass"
         ]
       }
@@ -2114,7 +2114,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the durability of an unenchanted Diamond Pickaxe?",
         "answers": [
           "1561",
           "2031",
@@ -2135,7 +2135,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which mob lives in Nether Bastions?",
         "answers": [
           "Piglin",
           "Zombified Piglin",
@@ -2151,16 +2151,16 @@
         "answers": [
           "Золотой слиток",
           "Золотой самородок",
-          "Золотой блок",
+          "Алмазный блок",
           "Изумруд"
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to trade with a Piglin?",
         "answers": [
-          "Gold ingot",
-          "Gold nugget",
-          "Gold block",
+          "Gold Ingot",
+          "Gold Nugget",
+          "Diamond Block",
           "Emerald"
         ]
       }
@@ -2177,12 +2177,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What does the 'Fortune' enchantment do?",
         "answers": [
           "Increases block drops",
           "Speeds up mining",
           "Boosts experience",
-          "Adds silk touch"
+          "Adds Silk Touch"
         ]
       }
     },
@@ -2198,7 +2198,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "In which update were Netherite tools added?",
         "answers": [
           "1.16",
           "1.17",
@@ -2219,11 +2219,11 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to tame a horse?",
         "answers": [
-          "Mount it several times until tamed",
-          "Feed it an apple",
-          "Feed it a carrot",
+          "Mount it repeatedly",
+          "Give it an apple",
+          "Give it a carrot",
           "Tie it with a lead"
         ]
       }
@@ -2240,12 +2240,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What are the structures on the outer islands of The End called?",
         "answers": [
-          "End Cities",
-          "End Castles",
-          "End Towers",
-          "End Forts"
+          "End City",
+          "End Castle",
+          "End Tower",
+          "End Ruins"
         ]
       }
     },
@@ -2261,12 +2261,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to create a Shulker Box?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "2 shulker shells and 1 chest",
+          "1 shulker shell and 1 chest",
+          "4 shulker shells and 1 chest",
+          "8 shulker shells"
         ]
       }
     },
@@ -2282,12 +2282,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which biome was added in update 1.18?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Lush Caves",
+          "Dark Forest",
+          "Mangrove Swamp",
+          "Cherry Grove"
         ]
       }
     },
@@ -2303,12 +2303,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the mob that spawns in Rocky mountain peaks called?",
         "answers": [
-          "Mountain Goat",
-          "Mountain Deer",
-          "Ibex",
-          "Snow Ram"
+          "Goat",
+          "Fox",
+          "Sheep",
+          "Bear"
         ]
       }
     },
@@ -2324,12 +2324,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which effect can an Elder Guardian inflict on a player?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Mining Fatigue",
+          "None",
+          "Blindness",
+          "Bad Omen"
         ]
       }
     },
@@ -2345,12 +2345,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which mob cannot spawn in The End dimension?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Phantom",
+          "Endermite",
+          "Shulker",
+          "Enderman"
         ]
       }
     },
@@ -2366,7 +2366,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "In which update were bees added?",
         "answers": [
           "1.15",
           "1.14",
@@ -2387,12 +2387,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to craft a Honey Block?",
         "answers": [
           "4 honey bottles",
           "9 honey bottles",
           "4 honeycombs",
-          "2 honeycombs and 2 honey"
+          "2 honeycombs and 2 honey bottles"
         ]
       }
     },
@@ -2408,12 +2408,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which hostile mob does not appear during a Raid?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Stray",
+          "Witch",
+          "Ravager",
+          "Vindicator"
         ]
       }
     },
@@ -2429,12 +2429,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to trigger a raid on a village?",
         "answers": [
           "Enter a village with the Bad Omen effect",
           "Kill a villager",
-          "Blow up TNT",
-          "Kill 10 Pillagers"
+          "Destroy an Outpost",
+          "Kill a Pillager"
         ]
       }
     },
@@ -2450,10 +2450,10 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What does the 'Silk Touch' enchantment give?",
         "answers": [
-          "Blocks drop as themselves",
-          "Increases drop amount",
+          "Blocks drop as themselves when broken",
+          "Increases drops",
           "Speeds up mining",
           "Adds experience"
         ]
@@ -2471,12 +2471,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is a lantern made from?",
         "answers": [
-          "Torch and iron nuggets",
-          "Coal and iron",
-          "Candle and stone",
-          "Glowstone and glass"
+          "A torch and iron nuggets",
+          "Coal and iron nuggets",
+          "A candle and iron nuggets",
+          "Redstone dust and glowstone"
         ]
       }
     },
@@ -2492,12 +2492,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the structure in the dark forest called?",
         "answers": [
           "Woodland Mansion",
           "Vampire Castle",
           "Dark Fortress",
-          "Witch Manor"
+          "Witch Hut"
         ]
       }
     },
@@ -2513,11 +2513,11 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What happens to a Piglin in the Overworld?",
         "answers": [
           "It transforms into a Zombified Piglin",
           "It dies",
-          "It flees",
+          "Nothing",
           "It attacks everyone"
         ]
       }
@@ -2534,7 +2534,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the structure in the Nether where Piglins live called?",
         "answers": [
           "Bastion Remnant",
           "Nether Fortress",
@@ -2555,7 +2555,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How many obsidian pillars generate in The End?",
         "answers": [
           "10",
           "8",
@@ -2576,7 +2576,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How many bookshelves are needed to get the maximum enchantment level?",
         "answers": [
           "15",
           "14",
@@ -2597,12 +2597,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What happens when you use bone meal on mycelium?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Nothing",
+          "Nearby blocks turn into mycelium",
+          "It turns into grass",
+          "It is destroyed"
         ]
       }
     },
@@ -2618,10 +2618,10 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the special mob guarding an Ocean Monument called?",
         "answers": [
           "Elder Guardian",
-          "Guardian",
+          "Nautilus",
           "Sea Dragon",
           "Kraken"
         ]
@@ -2639,12 +2639,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to craft a golden apple?",
         "answers": [
-          "Apple and 8 gold ingots",
-          "Apple and 8 gold nuggets",
-          "Apple and 4 gold ingots",
-          "Apple and a gold block"
+          "An apple and 8 gold ingots",
+          "An apple and 8 gold nuggets",
+          "An apple and 4 gold ingots",
+          "An apple and a gold block"
         ]
       }
     },
@@ -2660,12 +2660,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "With which blocks will a Beacon not work?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Copper blocks",
+          "Netherite blocks",
+          "Iron blocks",
+          "Emerald blocks"
         ]
       }
     },
@@ -2681,12 +2681,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the block that moves other blocks using redstone called?",
         "answers": [
           "Piston",
           "Engine",
           "Puller",
-          "Pusher"
+          "Hopper"
         ]
       }
     },
@@ -2702,12 +2702,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which biome was added in update 1.17?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Dripstone Caves",
+          "Deep Ocean",
+          "Pale Garden",
+          "Snowy Taiga"
         ]
       }
     },
@@ -2723,12 +2723,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "In which biome can you encounter a Creaking?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Pale Garden",
+          "Dark Forest",
+          "Deep Dark",
+          "Warped Forest"
         ]
       }
     },
@@ -2744,12 +2744,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What happens the first time you defeat the Ender Dragon?",
         "answers": [
-          "A return portal and Dragon Egg appear",
+          "A return portal and a Dragon Egg appear",
           "The final level unlocks",
           "The game ends",
-          "A new world appears"
+          "A portal to a new dimension appears"
         ]
       }
     },
@@ -2765,12 +2765,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "In which biome can you encounter a fox?",
         "answers": [
           "Taiga",
           "Tundra",
-          "Desert",
-          "Jungle"
+          "Plains",
+          "Dark Forest"
         ]
       }
     },
@@ -2786,12 +2786,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is a phantom membrane and what is it used for?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "A drop from a Phantom; used for potions and repairing Elytra",
+          "A drop from a bat; used for potions",
+          "A drop from a Phantom; a rare armor material",
+          "A drop from a Phantom; an ingredient for invisibility"
         ]
       }
     },
@@ -2807,12 +2807,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "In which biome can you find an Ocean Monument?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Deep Ocean",
+          "Deep Dark",
+          "Cold Ocean",
+          "Warm Ocean"
         ]
       }
     },
@@ -2828,12 +2828,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to create a lead?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "5 strings",
+          "6 strings",
+          "2 leather and 2 strings",
+          "4 strings and 1 leather"
         ]
       }
     },
@@ -2849,7 +2849,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "In which version was the Phantom added?",
         "answers": [
           "1.13",
           "1.18",
@@ -2870,7 +2870,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the light level of a regular lantern?",
         "answers": [
           "15",
           "18",
@@ -2891,11 +2891,11 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the type of potion that can be thrown called?",
         "answers": [
           "Splash Potion",
-          "Bomb Potion",
-          "Throw Potion",
+          "Potion Bomb",
+          "Any potion",
           "Fragmentation Potion"
         ]
       }
@@ -2906,18 +2906,18 @@
         "question": "Какое снаряжение не уничтожится в лаве?",
         "answers": [
           "Незеритовое",
-          "Любые чары на огнестойкость",
+          "Любые c чарами на огнестойкость",
           "Алмазное",
           "Никакое"
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which gear will not burn up in lava?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Netherite",
+          "Any gear with Fire Protection",
+          "Diamond",
+          "None"
         ]
       }
     },
@@ -2933,7 +2933,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the light level of a regular torch?",
         "answers": [
           "14",
           "15",
@@ -2954,12 +2954,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which mob is afraid of cats?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Phantom",
+          "Skeleton",
+          "Guardian",
+          "Spider"
         ]
       }
     },
@@ -2975,12 +2975,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the light level of a redstone torch?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "7",
+          "9",
+          "It is not a light source",
+          "15"
         ]
       }
     },
@@ -2996,12 +2996,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which Nether biome consists entirely of basalt?",
         "answers": [
           "Basalt Deltas",
           "Nether Wastes",
-          "Nether Dark Forest",
-          "Basalt Mountains"
+          "Crimson Forest",
+          "Basalt Plains"
         ]
       }
     },
@@ -3017,12 +3017,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to play a music disc?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Put the disc in a jukebox",
+          "Put the disc on a note block",
+          "Put the disc in a dispenser",
+          "Just hold it in your hand"
         ]
       }
     },
@@ -3038,12 +3038,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the biome with trees in the Nether called?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Warped Forest",
+          "Basalt Forest",
+          "Crimson Forest",
+          "Trees do not grow in the Nether"
         ]
       }
     },
@@ -3059,12 +3059,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What signal strength does a redstone torch give off?",
         "answers": [
           "15",
-          "30",
+          "20",
           "10",
-          "5"
+          "12"
         ]
       }
     },
@@ -3080,12 +3080,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which mob was added in update 1.19?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Frog",
+          "Guardian",
+          "Magma Cube",
+          "Ravager"
         ]
       }
     },
@@ -3101,12 +3101,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How does a regular zombie turn into a Drowned?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "It must drown in water",
+          "It must fall into water from a height",
+          "It must be struck by lightning",
+          "It must pick up a trident"
         ]
       }
     },
@@ -3122,11 +3122,11 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How can you obtain a Totem of Undying?",
         "answers": [
-          "Drops from the Evoker",
+          "Drops from an Evoker",
           "Craft from 4 emeralds and gold",
-          "Drop from the Wither",
+          "Drops from the Wither",
           "Buy from a villager"
         ]
       }
@@ -3143,12 +3143,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is a distinctive feature of the Warden?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "It is blind and relies on sound and vibrations",
+          "It can see through walls",
+          "It can teleport behind the player",
+          "It is only aggressive in light"
         ]
       }
     },
@@ -3164,12 +3164,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How do you obtain a Nether Star?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Kill the Wither",
+          "Kill a Ghast",
+          "Find it in a Bastion Remnant",
+          "Craft it"
         ]
       }
     },
@@ -3185,12 +3185,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What happens if you pour a bucket of water in the Nether?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "The water evaporates",
+          "The water freezes",
+          "The water turns into lava",
+          "The water flows, but slowly"
         ]
       }
     },
@@ -3206,12 +3206,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is a Copper Golem able to do?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "It takes items out of copper chests and puts them into regular chests",
+          "Nothing, it's just decoration",
+          "It runs after the player and picks up drops",
+          "It grows into an Iron Golem over time"
         ]
       }
     },
@@ -3227,7 +3227,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the maximum world height in Java Edition after update 1.18?",
         "answers": [
           "320",
           "256",
@@ -3248,7 +3248,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the minimum world height in Java Edition after 1.18?",
         "answers": [
           "-64",
           "-128",
@@ -3269,12 +3269,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What must be done to respawn the Ender Dragon?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Place 4 End Crystals on the edges of the portal",
+          "Place 4 End Crystals on the pillars",
+          "Throw an Ender Pearl into the center of the portal",
+          "Place End Crystals on all the pillars"
         ]
       }
     },
@@ -3290,12 +3290,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How do you obtain a Mud block?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Use a water bottle on a Dirt block",
+          "Craft it from 2 dirt blocks and 2 gravel blocks",
+          "Only natural generation",
+          "Craft it from a Podzol block and bone meal"
         ]
       }
     },
@@ -3311,12 +3311,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to create a Command Block in survival mode?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "It cannot be obtained in survival",
+          "Craft it from 8 obsidian and 1 redstone",
+          "A reward for killing the Wither",
+          "Buy it from a villager"
         ]
       }
     },
@@ -3332,12 +3332,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is a 'superflat' world?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "A world with flat generation and no hills",
+          "A world of maximum size",
+          "A world with large biomes",
+          "A world with the maximum number of caves"
         ]
       }
     },
@@ -3353,12 +3353,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which command is used to teleport entities?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "/teleport",
+          "There is no such command",
+          "/goto",
+          "/move"
         ]
       }
     },
@@ -3367,16 +3367,16 @@
       "ru": {
         "question": "Что происходит при нажатии клавиш F3 + B в Java Edition?",
         "answers": [
-          "Показывает хитбоксы мобов и блоков",
+          "Показывает хитбоксы мобов и сущностей",
           "Перезагружает биомы",
           "Отображает границы чанков",
           "Показывает FPS"
         ]
       },
       "en": {
-        "question": "",
+        "question": "What happens when you press F3 + B in Java Edition?",
         "answers": [
-          "Shows hitboxes of entities and blocks",
+          "Shows the hitboxes of mobs and entities",
           "Reloads biomes",
           "Displays chunk borders",
           "Shows FPS"
@@ -3395,12 +3395,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which block lets you compare two redstone signals or subtract one from the other?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Comparator",
+          "Observer",
+          "Repeater",
+          "Redstone Torch"
         ]
       }
     },
@@ -3416,12 +3416,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to craft a spectral arrow?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "1 arrow and 4 glowstone dust",
+          "1 arrow, 2 gunpowder and 2 glowstone dust",
+          "1 arrow and 4 gunpowder",
+          "1 arrow and 4 fireworks"
         ]
       }
     },
@@ -3437,7 +3437,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "In which update did the Husk first appear?",
         "answers": [
           "1.10",
           "1.9",
@@ -3458,10 +3458,10 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "In which version did the Copper Golem first appear?",
         "answers": [
           "1.21",
-          "Never — it lost the 2021 Mob Vote and was never added",
+          "Never — it lost the mob vote and was never added",
           "1.22",
           "1.20"
         ]
@@ -3479,7 +3479,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which command kills all entities within a radius of 300 blocks (for Java Edition)?",
         "answers": [
           "/kill @e[distance=..300]",
           "/kill @e",
@@ -3500,12 +3500,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to craft an End Crystal?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "7 glass, 1 Eye of Ender, 1 Ghast Tear",
+          "7 obsidian, 1 Ender Pearl",
+          "9 small end crystals",
+          "4 quartz crystals and 3 glass"
         ]
       }
     },
@@ -3521,12 +3521,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Where can you find the Smithing Template: Netherite Upgrade?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Find it in a Bastion Remnant",
+          "Trade it from a Piglin",
+          "Find it near ruined portals",
+          "Find it in an Ancient City"
         ]
       }
     },
@@ -3542,11 +3542,11 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How many slots are in a shulker box?",
         "answers": [
           "27",
           "36",
-          "54",
+          "32",
           "18"
         ]
       }
@@ -3563,12 +3563,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Where can you find a Mace head?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "In Trial Chambers",
+          "In an Ancient City",
+          "In ruins of past times",
+          "In underwater ruins"
         ]
       }
     },
@@ -3584,7 +3584,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the maximum stack size for most blocks?",
         "answers": [
           "64",
           "99",
@@ -3605,7 +3605,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the maximum level of the 'Frost Walker' enchantment?",
         "answers": [
           "II (2)",
           "I (1)",
@@ -3628,7 +3628,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "In which version was the redstone comparator first added?",
         "answers": [
           "1.5",
           "1.4",
@@ -3649,7 +3649,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How many blocks can be moved by a single piston?",
         "answers": [
           "12",
           "8",
@@ -3670,12 +3670,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which enchantment is incompatible with 'Bane of Arthropods'?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Smite",
+          "Looting",
+          "Mending",
+          "Fire Aspect"
         ]
       }
     },
@@ -3691,10 +3691,10 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is a 'tick' in Minecraft?",
         "answers": [
-          "A unit of game time",
-          "A unit for block measurement",
+          "A unit of time",
+          "A unit for measuring blocks",
           "A unit of experience",
           "A game event"
         ]
@@ -3712,7 +3712,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How many cat variants exist?",
         "answers": [
           "11",
           "12",
@@ -3733,7 +3733,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How much health does a Nautilus have?",
         "answers": [
           "15",
           "18",
@@ -3754,12 +3754,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is a 'chunk' in Minecraft?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "A 16x16 block section of the world",
+          "A 32x32 block section of the world",
+          "A save file",
+          "An enchantment"
         ]
       }
     },
@@ -3775,7 +3775,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How many wolf variants exist?",
         "answers": [
           "9",
           "10",
@@ -3796,12 +3796,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is a world 'seed'?",
         "answers": [
           "A number that determines world generation",
-          "Planting material for farming",
-          "Seeds for breeding",
-          "A multiplayer access code"
+          "A preview icon for the world",
+          "The world's loading speed",
+          "A code for multiplayer"
         ]
       }
     },
@@ -3817,7 +3817,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "In which update was the Guardian added?",
         "answers": [
           "1.19",
           "1.18",
@@ -3838,7 +3838,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "In which update did the Allay appear?",
         "answers": [
           "1.19",
           "1.20",
@@ -3859,7 +3859,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How much health does a Warden have?",
         "answers": [
           "500",
           "200",
@@ -3880,12 +3880,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed for a level 4 beacon pyramid?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "A pyramid of 164 blocks",
+          "A pyramid of 100 blocks",
+          "A pyramid of 256 blocks",
+          "A pyramid of 81 blocks"
         ]
       }
     },
@@ -3901,7 +3901,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the maximum level of the 'Protection' enchantment?",
         "answers": [
           "IV (4)",
           "V (5)",
@@ -3922,7 +3922,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How many blocks traveled in the Overworld correspond to one block traveled in the Nether?",
         "answers": [
           "8",
           "2",
@@ -3943,12 +3943,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to create a Netherite Upgrade smithing template?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Cannot be crafted, only found in Bastions",
+          "7 diamonds and 1 netherite",
+          "Cannot be crafted, only bought from a villager blacksmith",
+          "Cannot be crafted, only bought from a wandering trader"
         ]
       }
     },
@@ -3964,7 +3964,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the maximum level of the 'Sharpness' enchantment?",
         "answers": [
           "V (5)",
           "III (3)",
@@ -3985,7 +3985,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What happens when you press F3 + G in Java Edition?",
         "answers": [
           "Shows chunk borders",
           "Shows hitboxes",
@@ -4006,12 +4006,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is a 'Data Pack' in Java Edition?",
         "answers": [
-          "A user-made pack that modifies game behavior without mods",
+          "A custom data pack that changes game behavior without mods",
           "An official DLC from Mojang",
           "Additional textures",
-          "A mod for new mobs"
+          "A mod adding new mobs"
         ]
       }
     },
@@ -4027,7 +4027,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "In which update did horses appear?",
         "answers": [
           "1.6",
           "1.5",
@@ -4048,12 +4048,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What happens to a villager who reaches the maximum trading level?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "They receive a badge marking mastery of their profession",
+          "They offer a unique item",
+          "They become a wandering trader",
+          "They teach other villagers"
         ]
       }
     },
@@ -4069,7 +4069,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the file that stores world data in Java Edition called?",
         "answers": [
           "level.dat",
           "world.nbt",
@@ -4090,7 +4090,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the light level of a Soul Lantern?",
         "answers": [
           "10",
           "15",
@@ -4111,12 +4111,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "At what distance from the central island are the outer End islands located?",
         "answers": [
-          "1 000 blocks",
-          "5 000 blocks",
-          "10 000 blocks",
-          "3 000 blocks"
+          "1,000 blocks",
+          "5,000 blocks",
+          "10,000 blocks",
+          "3,000 blocks"
         ]
       }
     },
@@ -4132,12 +4132,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is a Allay able to do?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "It can carry and hand items to the player or throw them toward a note block",
+          "It flies above the player and plays music",
+          "It can interact with note blocks and play music",
+          "It can scare phantoms away from the player"
         ]
       }
     },
@@ -4153,12 +4153,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How do you obtain underwater TNT in vanilla Java Edition?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "It's not possible, there is no such item",
+          "Buy it from a wandering trader",
+          "Find it in a shipwreck",
+          "Drop from an Elder Guardian in an Ocean Monument"
         ]
       }
     },
@@ -4174,7 +4174,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the maximum level of the 'Blast Protection' enchantment?",
         "answers": [
           "IV (4)",
           "V (5)",
@@ -4195,12 +4195,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to lock in a villager's profession?",
         "answers": [
           "Complete at least one trade with them",
           "Place a job site block next to them",
           "Name them with a name tag",
-          "Trap them in a building"
+          "Trap them inside a building"
         ]
       }
     },
@@ -4216,10 +4216,10 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What happens to enchantments on items when repaired on an anvil?",
         "answers": [
-          "Enchantments are preserved and can be combined",
-          "Enchantments are erased",
+          "Enchantments are kept and can be combined",
+          "Enchantments are removed",
           "The item breaks",
           "The enchantment level decreases by 1"
         ]
@@ -4237,12 +4237,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the maximum redstone signal a Chiseled Bookshelf can give off?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "6",
+          "2",
+          "12",
+          "It gives off no signal"
         ]
       }
     },
@@ -4258,12 +4258,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which block emits a short pulse when it detects a change in an adjacent block?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Observer",
+          "Comparator",
+          "Repeater",
+          "Piston"
         ]
       }
     },
@@ -4279,12 +4279,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to charge a Respawn Anchor?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "A Glowstone block",
+          "A Redstone block",
+          "A Netherite ingot",
+          "Crying Obsidian"
         ]
       }
     },
@@ -4300,12 +4300,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is needed to create a Respawn Anchor?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "6 Crying Obsidian and 3 Glowstone blocks",
+          "3 Crying Obsidian and 6 Glowstone blocks",
+          "8 Crying Obsidian and 1 Glowstone block",
+          "8 obsidian and 1 netherite brick"
         ]
       }
     },
@@ -4321,7 +4321,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "In which update did axolotls appear?",
         "answers": [
           "1.17",
           "1.16",
@@ -4342,12 +4342,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is a Stray and where does it appear?",
         "answers": [
-          "A skeleton variant from snowy biomes; a regular skeleton standing in snow converts to Stray",
+          "A skeleton from snowy biomes",
           "A rare Nether skeleton",
           "An underwater skeleton",
-          "A tundra skeleton with trident"
+          "A tundra skeleton with a trident"
         ]
       }
     },
@@ -4363,12 +4363,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is an Evoker and where does it appear?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "A hostile illager mob in a mansion",
+          "A villager profession that sells potions",
+          "A boss of the End dimension",
+          "A hostile guardian mob of the Ancient City"
         ]
       }
     },
@@ -4384,7 +4384,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "In which year did Microsoft acquire Mojang?",
         "answers": [
           "2014",
           "2016",
@@ -4398,19 +4398,19 @@
       "ru": {
         "question": "Как попасть на крышу Незера?",
         "answers": [
-          "Через баги с поршнями или TNT-прыжком",
+          "Через баги с поршнями и TNT или с помощью лестницы с эндер жемчуга",
           "Залететь на элитрах",
           "Сломать киркой верхний слой незерских блоков",
           "Если туда попасть игрок сразу умирает"
         ]
       },
       "en": {
-        "question": "",
+        "question": "How do you reach the roof of the Nether?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Through piston and TNT or using a ladder with an Ender Pearl",
+          "Fly there with Elytra",
+          "Break through the top layer of Nether blocks with a pickaxe",
+          "The player dies immediately upon getting there"
         ]
       }
     },
@@ -4426,12 +4426,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "In which biomes can Trail Ruins not generate?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Dark Forest",
+          "Snowy Taiga",
+          "Jungle",
+          "Old Growth Birch Forest"
         ]
       }
     },
@@ -4447,12 +4447,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "At which Y level do diamonds generate most frequently after update 1.18?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "16 to -64",
+          "0 to -16",
+          "-16 to -64",
+          "0 to -32"
         ]
       }
     },
@@ -4468,7 +4468,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the maximum level of the 'Efficiency' enchantment?",
         "answers": [
           "V (5)",
           "IV (4)",
@@ -4489,7 +4489,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the maximum level of the 'Fire Aspect' enchantment?",
         "answers": [
           "II (2)",
           "IV (4)",
@@ -4510,7 +4510,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How many painting variants exist?",
         "answers": [
           "47",
           "41",
@@ -4531,7 +4531,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How many music discs exist in the game?",
         "answers": [
           "22",
           "21",
@@ -4552,7 +4552,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How much experience drops when defeating the Ender Dragon for the first time?",
         "answers": [
           "12000",
           "5000",
@@ -4573,7 +4573,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How many axolotl color variants exist?",
         "answers": [
           "5",
           "4",
@@ -4594,12 +4594,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How do you obtain a rare blue axolotl?",
         "answers": [
-          "A 1 in 1200 chance when breeding axolotls; not found in the wild",
-          "Found in a special biome",
-          "Dropped by a sea mob",
-          "Bought from a fisherman villager"
+          "Only through breeding",
+          "Find it in a lush caves biome",
+          "Find it near coral reefs",
+          "Buy it from a fisherman villager"
         ]
       }
     },
@@ -4615,12 +4615,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which armor trim does not exist?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Rift",
+          "Silence",
+          "Coast",
+          "Eye"
         ]
       }
     },
@@ -4636,12 +4636,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the size of the Minecraft world?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "About 60 by 60 million blocks",
+          "About 30 by 30 million blocks",
+          "About 600 by 600 million blocks",
+          "About 6 by 6 million blocks"
         ]
       }
     },
@@ -4657,12 +4657,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How do you get armor for a wolf?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Craft it from Armadillo Scutes",
+          "There is no such armor",
+          "Craft it from leather and iron",
+          "Find it in a Trial Chamber"
         ]
       }
     },
@@ -4678,12 +4678,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What material is needed to duplicate the 'Vex' armor trim?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Cobblestone",
+          "Terracotta",
+          "Sandstone",
+          "Copper Block"
         ]
       }
     },
@@ -4699,12 +4699,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which mob will you not encounter in a Woodland Mansion?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Pillager",
+          "Evoker",
+          "Vindicator",
+          "Allay"
         ]
       }
     },
@@ -4720,7 +4720,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is the version of Minecraft developed specifically for educational institutions called?",
         "answers": [
           "Minecraft Education Edition",
           "Minecraft School Edition",
@@ -4743,7 +4743,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "At what distance can a Calibrated Sculk Sensor pick up sound?",
         "answers": [
           "16 blocks",
           "24 blocks",
@@ -4764,12 +4764,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What gift can a player-tamed cat bring?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "String",
+          "Raw Cod",
+          "Pufferfish",
+          "Carrot"
         ]
       }
     },
@@ -4785,7 +4785,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which music disc gives off a redstone signal strength of 5 when playing in a jukebox?",
         "answers": [
           "far",
           "blocks",
@@ -4806,12 +4806,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What gift can a player-tamed cat not bring?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Spider Eye",
+          "Rotten Flesh",
+          "Raw Chicken",
+          "Phantom Membrane"
         ]
       }
     },
@@ -4827,11 +4827,11 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Approximately what percentage of the world's area does the Mushroom Fields biome cover?",
         "answers": [
-          "0,15%",
-          "0,5%",
-          "1,5%",
+          "0.15%",
+          "0.5%",
+          "1.5%",
           "3%"
         ]
       }
@@ -4848,12 +4848,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What extra ingredient is needed for a suspicious stew that inflicts the Poison effect?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Lily of the Valley",
+          "Cornflower",
+          "Poppy",
+          "Dandelion"
         ]
       }
     },
@@ -4869,7 +4869,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which music disc can be found in an Ancient City?",
         "answers": [
           "otherside",
           "Bounce",
@@ -4890,12 +4890,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What happens if a player wearing boots enchanted with Frost Walker falls from a great height into water?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "The player sinks into the water, no ice appears",
+          "A block of ice appears and the player takes fall damage",
+          "A block of ice appears, but the player takes no fall damage",
+          "The player sinks into the water, ice appears on the surface above the player"
         ]
       }
     },
@@ -4911,12 +4911,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "In Java Edition there is a quirk that prevents islands from generating in The End dimension at certain coordinates. What are these coordinates?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Approximately 370,000 to 525,000",
+          "Approximately 35,000 to 55,000",
+          "Approximately 135,000 to 155,000",
+          "Approximately 240,000 to 550,000"
         ]
       }
     },
@@ -4932,7 +4932,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What input redstone signal strength must be given to a Calibrated Sculk Sensor for it to detect eating and drinking?",
         "answers": [
           "8",
           "5",
@@ -4953,12 +4953,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How do you summon the Warden that lives in an Ancient City?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "A Sculk Shrieker summons the Warden after 4 activations",
+          "A Sculk Shrieker summons the Warden after 3 activations",
+          "A Sculk Shrieker summons the Warden after 5 activations",
+          "A Sculk Shrieker summons the Warden after 1 activation"
         ]
       }
     },
@@ -4967,19 +4967,19 @@
       "ru": {
         "question": "Какой отделки для брони не существует?",
         "answers": [
-          "Молния",
+          "Крюк",
           "Вождь",
           "Рыло",
           "Ось"
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which armor trim does not exist?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Hook",
+          "Host",
+          "Snout",
+          "Bolt"
         ]
       }
     },
@@ -4995,7 +4995,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "In which update did the villager profession system appear?",
         "answers": [
           "1.14",
           "1.13",
@@ -5016,7 +5016,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "At which Y level is the most Ancient Debris generated on average?",
         "answers": [
           "16",
           "8",
@@ -5037,11 +5037,11 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What is a Sculk Catalyst?",
         "answers": [
-          "A block that generates sculk when nearby mobs die, using their XP",
+          "A block that creates Sculk Sensors and Sculk Shriekers when nearby creatures die",
           "A block that summons mobs",
-          "The Warden's sound source",
+          "A block that summons the Warden",
           "A decorative block in the Ancient City"
         ]
       }
@@ -5058,12 +5058,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What extra ingredient is needed for a suspicious stew that inflicts the Leaping effect?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Cornflower",
+          "Dandelion",
+          "Blue Orchid",
+          "Tulip"
         ]
       }
     },
@@ -5079,7 +5079,7 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "At what distance can a Sculk Sensor pick up sound?",
         "answers": [
           "8 blocks",
           "10 blocks",
@@ -5100,12 +5100,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "On what basis does a Chiseled Bookshelf give off a redstone signal?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "The signal level indicates the last slot that was interacted with",
+          "The signal level indicates the number of any books",
+          "The signal level indicates the number of enchanted books",
+          "If there is at least one book, it gives off a signal of 15"
         ]
       }
     },
@@ -5121,12 +5121,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What can a Calibrated Sculk Sensor detect when given an input signal strength of 5?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Dismounting from entities or equipping gear",
+          "Any sounds",
+          "Eating and drinking",
+          "Movement"
         ]
       }
     },
@@ -5142,12 +5142,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "How can the 'Relic' music disc be obtained?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Only by excavating disc fragments and then crafting it",
+          "Drop from a charged creeper killed by a skeleton",
+          "In treasure chests",
+          "In Bastion Remnants"
         ]
       }
     },
@@ -5163,12 +5163,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "What can a Piglin not throw in exchange for gold?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Magma Block",
+          "Leather",
+          "Gravel",
+          "Soul Sand"
         ]
       }
     },
@@ -5184,12 +5184,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which armor trim can be found in a Trial Chamber?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Bolt",
+          "Eye",
+          "Dune",
+          "Rib"
         ]
       }
     },
@@ -5205,12 +5205,12 @@
         ]
       },
       "en": {
-        "question": "",
+        "question": "Which armor trim can be found in an End City?",
         "answers": [
-          "",
-          "",
-          "",
-          ""
+          "Spire",
+          "Silence",
+          "Wing",
+          "Wayfinder"
         ]
       }
     }
