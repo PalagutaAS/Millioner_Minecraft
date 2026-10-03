@@ -21,16 +21,11 @@ MonoBehaviour:
   _defaultAnswerColor: {r: 0, g: 0.14063296, b: 0.8301887, a: 1}
   _highlightColor: {r: 0.6320754, g: 0.6320754, b: 0.6320754, a: 1}
   _selectedColor: {r: 0.9, g: 0.7, b: 0.1, a: 1}
-  _textColor: {r: 0.9150943, g: 0.9150943, b: 0.9150943, a: 1}
+  _correctColor: {r: 0.3, g: 0.7, b: 0.1, a: 1}
+  _textColor: {r: 1, g: 1, b: 1, a: 1}
+  _textButtonColor: {r: 0.084905684, g: 0.084905684, b: 0.084905684, a: 1}
   _defaultSprite: {fileID: -1754970863, guid: b4ffc87969ebab74e972fc58b8470224, type: 3}
   _correctSprite: {fileID: 1497726840, guid: b4ffc87969ebab74e972fc58b8470224, type: 3}
   _selectedSprite: {fileID: 701664585, guid: b4ffc87969ebab74e972fc58b8470224, type: 3}
-  _saveKey: game_save
-  _languageKey: game_language
-  _volumeKey: game_volume
-  _defaultLanguage: ru
-  _availableLanguages:
-  - ru
-  - en
   _nameLeaderboard: amountWon
   _rewardAd: 
