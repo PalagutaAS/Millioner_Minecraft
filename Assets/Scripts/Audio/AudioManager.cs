@@ -1,4 +1,6 @@
 using UnityEngine;
+using UnityEngine.UI;
+using VContainer;
 
 public class AudioManager : MonoBehaviour
 {
@@ -8,14 +10,19 @@ public class AudioManager : MonoBehaviour
 
     [Header("Music")]
     [SerializeField] private AudioClip _backgroundClip;
+    
+    [Header("Objects")]
+    [SerializeField] private Slider _slider;
 
-    [Header("SFX")]    
+    [Header("SFX")]
     [SerializeField] private AudioClip _suspenseClip;
     [SerializeField] private AudioClip _correctClip;
     [SerializeField] private AudioClip _wrongClip;
     [SerializeField] private AudioClip _nextQuestionClip;
     [SerializeField] private AudioClip _pressButtonHintClip;
-
+    
+    [Inject] private SaveService _saveService;
+    
     public void PlayBackgroundMusic(bool enable = true)
     {
         if (enable)
@@ -42,5 +49,32 @@ public class AudioManager : MonoBehaviour
     {
         if (clip == null) return;
         _sfxSource.PlayOneShot(clip);
+    }
+    
+    private void OnEnable()
+    {
+        if (_slider != null)
+            _slider.onValueChanged.AddListener(SetVolume);
+    }
+    
+    private void OnDisable()
+    {
+        if (_slider != null)
+            _slider.onValueChanged.RemoveListener(SetVolume);
+    }
+
+    private void SetVolume(float volume)
+    {
+        _musicSource.volume = volume;
+        _sfxSource.volume = volume;
+
+        _saveService.Data.volume = volume;
+    }
+
+    public void UpdateSlider(float dataVolume)
+    {
+        _musicSource.volume = dataVolume;
+        _sfxSource.volume = dataVolume;
+        _slider.value = dataVolume;
     }
 }

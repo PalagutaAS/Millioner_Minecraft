@@ -7,6 +7,7 @@ public class DefaultColorApplier : MonoBehaviour
 {
     [SerializeField] private Button _button;
     [SerializeField] private TMP_Text[] _defaultText;
+    [SerializeField] private TMP_Text[] _buttonText;
     [SerializeField] private TMP_Text[] _charText;
     private GameConfig _config;
     
@@ -28,6 +29,14 @@ public class DefaultColorApplier : MonoBehaviour
             var colors = _button.colors;
             colors.highlightedColor = _config.HighlightColor;
             _button.colors = colors;
+        }
+        
+        if (_buttonText.Length > 0)
+        {
+            foreach (var tmpText in _buttonText)
+            {
+                tmpText.color = _config.TextButtonColor;
+            }
         }
         
         if (_charText.Length > 0)

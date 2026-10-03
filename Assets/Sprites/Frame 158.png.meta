@@ -429,6 +429,111 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Frame_1
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 318
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32190cab6e1c28b43a104c8bd6785d0e
+      internalID: 619038939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background header
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 187
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eefd0e41ed85c7419516fc7c153d96e
+      internalID: -975988307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green border slider
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 808
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 3, z: 3, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174550676a202b449ba4b0639a79105c
+      internalID: 1446905863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green splider
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 812
+        width: 36
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7aaadd739961a84a982c833a9dbf6fa
+      internalID: 412804469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frame 158_1
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 697
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 6, y: 7, z: 5, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b688eb98b0851141b638707a7584f88
+      internalID: 1581475028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -443,9 +548,14 @@ TextureImporter:
       CROSS: -1477543721
       Frame: -715092315
       Frame 158_0: 1730069338
+      Frame 158_1: 1581475028
+      Frame_1: 619038939
+      background header: -975988307
       button BLUE: -1754970863
       button green: 1497726840
       button orange: 701664585
+      green border slider: 1446905863
+      green splider: 412804469
       group: 1228545924
       highlighted button: -709112206
       line: 1390936501

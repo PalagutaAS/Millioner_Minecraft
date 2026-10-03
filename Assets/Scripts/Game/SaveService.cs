@@ -12,16 +12,18 @@ public class SaveData
     public bool usedPhoneFriend;
     public bool usedReplaceQuestion;
     public bool hasActiveGame;
+    public float volume = 0.5f;
     public string currentLang = "en";
     public int[] usedQuestionIds = new int[0];
     public int[] shuffleMap = new int[0];
     public bool[] activeAnswers = new bool[0];
 
-    public SaveData(string language)
+    public SaveData(string language, float volume = 0.5f)
     {
         switch (language)
         {
             case "en":
+            case "tr":    
             case "ru":
                 currentLang = language;
                 break;
@@ -29,6 +31,8 @@ public class SaveData
                 currentLang = "en";
                 break;
         }
+
+        this.volume = volume;
     }
 }
 
@@ -71,9 +75,12 @@ public class SaveService
         Save();
     }
 
-    public void SwitchLanguage()
+    public void SetLanguage(string code)
     {
-        YG2.SwitchLanguage(YG2.lang == "ru" ? "en" : "ru");
+        if (YG2.lang == code)
+            return;
+        
+        YG2.SwitchLanguage(code);
         Data.currentLang = YG2.lang;
     }
 }

@@ -163,7 +163,6 @@ public class QuestionActiveState : IGameState
         _gameUI.SetQuestionText(_data.CurrentQuestion.QuestionText);
         _gameUI.SetAnswers(_data.CurrentQuestion.ShuffledAnswers);
         _gameUI.ResetAnswerHighlights();
-        _prizeLadder.SetHighlightedRow(_data.CurrentQuestionNumber);
     }
 
     private string GetCategoryForQuestion(int questionNumber)
@@ -203,8 +202,7 @@ public class QuestionActiveState : IGameState
     private void UseAudienceHelp()
     {
         _data.AudienceHelpUsed = true;
-
-        //NOTE: readability over memory — генерация случайных значений для слайдеров
+        
         var vals = new int[4];
         int sum = 0;
 

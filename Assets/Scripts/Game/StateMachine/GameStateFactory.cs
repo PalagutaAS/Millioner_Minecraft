@@ -44,7 +44,7 @@ public class GameStateFactory
         return new List<IGameState>
         {
             new IdleState(_menuUI),
-            new IntroState(_gameUI, _audioManager, _config, _saveService, _data, _questionBankHolder.CurrentBank, machine),
+            new IntroState(_gameUI, _audioManager, _config, _saveService, _data, machine, _prizeLadder),
             new QuestionActiveState(_gameUI, _audioManager, _config, _saveService, _prizeLadder,
                 _hintPopupUI, _rewardedAD, _questionBankHolder.CurrentBank, _data, machine, localizationManager),
             new AnswerLockedState(_gameUI, _audioManager, _config, _data, _saveService, machine),

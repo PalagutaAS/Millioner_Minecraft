@@ -10,8 +10,8 @@ public class IntroState : IGameState
     private readonly GameConfig _config;
     private readonly SaveService _saveService;
     private readonly GameStateData _data;
-    private readonly QuestionBank _questionBank;
     private readonly GameStateMachine _machine;
+    private readonly PrizeLadderService _prizeLadder;
 
     public IntroState(
         GameUI gameUI,
@@ -19,16 +19,16 @@ public class IntroState : IGameState
         GameConfig config,
         SaveService saveService,
         GameStateData data,
-        QuestionBank questionBank,
-        GameStateMachine machine)
+        GameStateMachine machine,
+        PrizeLadderService prizeLadder)
     {
         _gameUI = gameUI;
         _audioManager = audioManager;
         _config = config;
         _saveService = saveService;
         _data = data;
-        _questionBank = questionBank;
         _machine = machine;
+        _prizeLadder = prizeLadder;
     }
 
     public async UniTask Enter()
@@ -38,7 +38,7 @@ public class IntroState : IGameState
         _gameUI.HideResultText();
         _audioManager.PlayBackgroundMusic();
         _audioManager.PlayFirstQuestion();
-        
+        _prizeLadder.ResetAll();
         LoadOrRestoreGameData();
 
         await UniTask.Delay(TimeSpan.FromSeconds(_config.IntroDuration));

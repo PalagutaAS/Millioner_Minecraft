@@ -13,7 +13,6 @@ public class PrizeLadderService : MonoBehaviour
 
     private void Start()
     {
-        //NOTE: readability over memory — заполняем текст из конфига
         var d = _rows;
         for (int i = 0; i < d.Length; i++)
         {
@@ -31,12 +30,11 @@ public class PrizeLadderService : MonoBehaviour
             if (_rows[i].Image == null) continue;
             _rows[i].Image.color = _inactiveColor;
             _rows[i].PointImage.gameObject.SetActive(i < index);
-            foreach (int amountIndex in _gmConfig.SafeAmountIndices)
+            HighlightSafeAmountText(index, i);
+            if (i < index)
             {
-                if (amountIndex == i && index != i)
-                {
-                    _rows[i].Text.color = _gmConfig.SelectedColor;
-                }
+                _rows[i].Text.color = _gmConfig.CorrectColor;
+                _rows[i].NumberText.color = _gmConfig.CorrectColor;
             }
         }
         
@@ -51,12 +49,28 @@ public class PrizeLadderService : MonoBehaviour
         _rows[index].Image.color = _gmConfig.SelectedColor;
     }
 
+    private void HighlightSafeAmountText(int index, int i)
+    {
+        foreach (int amountIndex in _gmConfig.SafeAmountIndices)
+        {
+            if (amountIndex == i && index != i)
+            {
+                _rows[i].Text.color = _gmConfig.SelectedColor;
+                _rows[i].PointImage.color = _gmConfig.SelectedColor;
+            }
+        }
+    }
+
     public void ResetAll()
     {
         foreach (var row in _rows)
         {
             if (row.Image != null)
+            {
+                row.Text.color = _gmConfig.TextColor;
+                row.NumberText.color = _gmConfig.TextColor;
                 row.Image.color = _inactiveColor;
+            }
         }
     }
 }

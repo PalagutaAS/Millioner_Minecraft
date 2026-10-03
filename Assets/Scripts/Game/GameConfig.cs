@@ -27,6 +27,7 @@ public class GameConfig : ScriptableObject
     [SerializeField] private Color _selectedColor = new(0.9f, 0.7f, 0.1f);
     [SerializeField] private Color _correctColor = new(0.3f, 0.7f, 0.1f);
     [SerializeField] private Color _textColor = new(0.8f, 0.8f, 0.8f);
+    [SerializeField] private Color _textButtonColor = new(0.05f, 0.05f, 0.05f);
     
     [Header("Sprites")]
     [SerializeField] private Sprite _defaultSprite;
@@ -48,6 +49,8 @@ public class GameConfig : ScriptableObject
     public float EndGameDelay => _endGameDelay;
 
     public Color DefaultAnswerColor => _defaultAnswerColor;
+    
+    public Color TextButtonColor => _textButtonColor;
     public Color HighlightColor => _highlightColor;
     public Color SelectedColor => _selectedColor;
     public Color CorrectColor => _correctColor;

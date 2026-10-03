@@ -7,4 +7,5 @@ public class PrizeRow : MonoBehaviour
     public TMP_Text Text;
     public Image Image;
     public Image PointImage;
+    public TMP_Text NumberText;
 }

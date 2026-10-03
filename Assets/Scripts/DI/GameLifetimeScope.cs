@@ -1,4 +1,5 @@
 using Localization;
+using UI;
 using UnityEngine;
 using VContainer;
 using VContainer.Unity;
@@ -12,6 +13,7 @@ public class GameLifetimeScope : LifetimeScope
     [SerializeField] private AudioManager _audioManager;
     [SerializeField] private PrizeLadderService _prizeLadder;
     [SerializeField] private GameConfig _gameConfig;
+    [SerializeField] private LocalizationUiService _localizationUiService;
 
     protected override void Configure(IContainerBuilder builder)
     {
@@ -23,6 +25,7 @@ public class GameLifetimeScope : LifetimeScope
         builder.RegisterInstance(_audioManager);
         builder.RegisterInstance(_prizeLadder);
         builder.RegisterInstance(_gameConfig);
+        builder.RegisterInstance(_localizationUiService);
 
         builder.Register<RewardedAD>(Lifetime.Singleton).AsSelf();
         builder.Register<SaveService>(Lifetime.Singleton);
