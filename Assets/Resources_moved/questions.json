@@ -19,6 +19,15 @@
           "Todd Howard",
           "Agnes Larsson (LadyAgnes)"
         ]
+      },
+      "tr": {
+        "question": "Minecraft'ı kim yarattı?",
+        "answers": [
+          "Markus Persson (Notch)",
+          "Jens Bergensten (jeb_)",
+          "Todd Howard",
+          "Agnes Larsson (LadyAgnes)"
+        ]
       }
     },
     {
@@ -40,6 +49,15 @@
           "Shovel",
           "Hoe"
         ]
+      },
+      "tr": {
+        "question": "Odun toplamak için hangi alet gerekir?",
+        "answers": [
+          "Balta",
+          "Kazma",
+          "Kürek",
+          "Çapa"
+        ]
       }
     },
     {
@@ -59,6 +77,15 @@
           "Ender Dragon",
           "Wither",
           "Guardian",
+          "Creeper"
+        ]
+      },
+      "tr": {
+        "question": "Minecraft'ın son bossu ne adla anılır?",
+        "answers": [
+          "Ender Ejderhası",
+          "Wither",
+          "Muhafız",
           "Creeper"
         ]
       }
@@ -82,6 +109,15 @@
           "Eat a golden apple",
           "Drink a bottle of honey"
         ]
+      },
+      "tr": {
+        "question": "Tüm olumsuz etkiler nasıl kaldırılır?",
+        "answers": [
+          "Süt içmek",
+          "Suda yıkanmak",
+          "Bir altın elma yemek",
+          "Bir şişe bal içmek"
+        ]
       }
     },
     {
@@ -97,6 +133,15 @@
       },
       "en": {
         "question": "How many slots are in the player's standard inventory?",
+        "answers": [
+          "36",
+          "27",
+          "45",
+          "54"
+        ]
+      },
+      "tr": {
+        "question": "Oyuncunun standart envanterinde kaç yuva vardır?",
         "answers": [
           "36",
           "27",
@@ -124,6 +169,15 @@
           "Coal Block",
           "Quartz"
         ]
+      },
+      "tr": {
+        "question": "Hangi blok sonsuza kadar yanar?",
+        "answers": [
+          "Netherrack",
+          "Ancient Debris",
+          "Kömür Bloğu",
+          "Kuvars"
+        ]
       }
     },
     {
@@ -145,6 +199,15 @@
           "Stone",
           "Quartz"
         ]
+      },
+      "tr": {
+        "question": "Cam neyden yapılır?",
+        "answers": [
+          "Kum",
+          "Çakıl",
+          "Taş",
+          "Kuvars"
+        ]
       }
     },
     {
@@ -160,6 +223,15 @@
       },
       "en": {
         "question": "How many health hearts does a player have by default?",
+        "answers": [
+          "10",
+          "12",
+          "8",
+          "15"
+        ]
+      },
+      "tr": {
+        "question": "Oyuncunun varsayılan olarak kaç can kalbi vardır?",
         "answers": [
           "10",
           "12",
@@ -187,6 +259,15 @@
           "Shovel",
           "Sword"
         ]
+      },
+      "tr": {
+        "question": "Taşı hangi alet en hızlı kazar?",
+        "answers": [
+          "Kazma",
+          "Balta",
+          "Kürek",
+          "Kılıç"
+        ]
       }
     },
     {
@@ -207,6 +288,15 @@
           "The End",
           "Heaven",
           "Limbo"
+        ]
+      },
+      "tr": {
+        "question": "Obsidyen portalının götürdüğü boyut ne adla anılır?",
+        "answers": [
+          "Nether",
+          "Son",
+          "Cennet",
+          "Araf"
         ]
       }
     },
@@ -229,6 +319,15 @@
           "Diamonds",
           "Wood"
         ]
+      },
+      "tr": {
+        "question": "Kılıç neyden yapılamaz?",
+        "answers": [
+          "Tuğlalar",
+          "Demir",
+          "Elmaslar",
+          "Odun"
+        ]
       }
     },
     {
@@ -249,6 +348,15 @@
           "Cow",
           "Pig",
           "Chicken"
+        ]
+      },
+      "tr": {
+        "question": "Hangi yaratık yün düşürür?",
+        "answers": [
+          "Koyun",
+          "İnek",
+          "Domuz",
+          "Tavuk"
         ]
       }
     },
@@ -271,6 +379,15 @@
           "Button",
           "Lava"
         ]
+      },
+      "tr": {
+        "question": "Nether portalını yakmak için ne gerekir?",
+        "answers": [
+          "Çakmaktaşı ve Çelik",
+          "Meşale",
+          "Düğme",
+          "Lav"
+        ]
       }
     },
     {
@@ -291,6 +408,15 @@
           "Enderman",
           "Bat",
           "Iron Golem"
+        ]
+      },
+      "tr": {
+        "question": "Hangi yaratık sadece gece saldırır?",
+        "answers": [
+          "Örümcek",
+          "Enderman",
+          "Yarasa",
+          "Demir Golem"
         ]
       }
     },
@@ -313,6 +439,15 @@
           "Adventure",
           "Creative"
         ]
+      },
+      "tr": {
+        "question": "Yeniden doğma olmayan oyun modu ne adla anılır?",
+        "answers": [
+          "Hardcore",
+          "Hayatta Kalma",
+          "Macera",
+          "Yaratıcı"
+        ]
       }
     },
     {
@@ -334,6 +469,15 @@
           "A cape",
           "A weapon"
         ]
+      },
+      "tr": {
+        "question": "Elytra nedir?",
+        "answers": [
+          "Süzülme için kanatlar",
+          "Zırh",
+          "Bir pelerin",
+          "Bir silah"
+        ]
       }
     },
     {
@@ -353,6 +497,15 @@
           "Cow",
           "Pig",
           "Horse",
+          "Nautilus"
+        ]
+      },
+      "tr": {
+        "question": "Hangi yaratığa binilemez?",
+        "answers": [
+          "İnek",
+          "Domuz",
+          "At",
           "Nautilus"
         ]
       }
@@ -376,6 +529,15 @@
           "Leather and meat",
           "Only meat"
         ]
+      },
+      "tr": {
+        "question": "Tavuk öldürülünce ne düşürür?",
+        "answers": [
+          "Çiğ tavuk ve tüyler",
+          "Yumurtalar ve tüyler",
+          "Deri ve et",
+          "Sadece et"
+        ]
       }
     },
     {
@@ -396,6 +558,15 @@
           "Survival",
           "Hardcore",
           "Adventure"
+        ]
+      },
+      "tr": {
+        "question": "Hangi modda oyuncunun canı ve açlığı yoktur?",
+        "answers": [
+          "Yaratıcı",
+          "Hayatta Kalma",
+          "Hardcore",
+          "Macera"
         ]
       }
     },
@@ -418,6 +589,15 @@
           "Bow",
           "Spear"
         ]
+      },
+      "tr": {
+        "question": "Balık tutmak için ne kullanılır?",
+        "answers": [
+          "Olta",
+          "Ağ",
+          "Yay",
+          "Mızrak"
+        ]
       }
     },
     {
@@ -439,6 +619,15 @@
           "Anvil",
           "Cauldron"
         ]
+      },
+      "tr": {
+        "question": "Yemek pişirmek için kullanılan blok ne adla anılır?",
+        "answers": [
+          "Fırın",
+          "Crafting Masası",
+          "Örs",
+          "Kazan"
+        ]
       }
     },
     {
@@ -454,6 +643,15 @@
       },
       "en": {
         "question": "How many obsidian blocks are needed for a Nether portal (minimum)?",
+        "answers": [
+          "10",
+          "14",
+          "6",
+          "8"
+        ]
+      },
+      "tr": {
+        "question": "Nether portalı için minimum kaç obsidyen blok gerekir?",
         "answers": [
           "10",
           "14",
@@ -481,6 +679,15 @@
           "Fish",
           "Apple"
         ]
+      },
+      "tr": {
+        "question": "Kurt evcilleştirmek için ne gerekir?",
+        "answers": [
+          "Kemik",
+          "Et",
+          "Balık",
+          "Elma"
+        ]
       }
     },
     {
@@ -501,6 +708,15 @@
           "Obsidian",
           "Crying Obsidian",
           "Netherite Block"
+        ]
+      },
+      "tr": {
+        "question": "Hangi blok aletle yok edilemez?",
+        "answers": [
+          "Ana Kaya",
+          "Obsidyen",
+          "Ağlayan Obsidyen",
+          "Netherit Bloğu"
         ]
       }
     },
@@ -523,6 +739,15 @@
           "Diorite",
           "Andesite"
         ]
+      },
+      "tr": {
+        "question": "Yontulmuş taş eritilince hangi blok elde edilir?",
+        "answers": [
+          "Taş",
+          "Granit",
+          "Diyorit",
+          "Andezit"
+        ]
       }
     },
     {
@@ -543,6 +768,15 @@
           "Taiga",
           "Mountains",
           "Plains"
+        ]
+      },
+      "tr": {
+        "question": "Hangi biyomda sürekli kar yağar?",
+        "answers": [
+          "Karlı Tundra",
+          "İğne Yaprağlı Orman",
+          "Dağlar",
+          "Ovalar"
         ]
       }
     },
@@ -565,6 +799,15 @@
           "Only leather",
           "Only milk"
         ]
+      },
+      "tr": {
+        "question": "İnek öldürülünce ne düşürür?",
+        "answers": [
+          "Dana eti ve deri",
+          "Süt ve dana eti",
+          "Sadece deri",
+          "Sadece süt"
+        ]
       }
     },
     {
@@ -585,6 +828,15 @@
           "Milk",
           "Bone",
           "Meat"
+        ]
+      },
+      "tr": {
+        "question": "Kedi evcilleştirmek için ne gerekir?",
+        "answers": [
+          "Çiğ morina veya somon",
+          "Süt",
+          "Kemik",
+          "Et"
         ]
       }
     },
@@ -607,6 +859,15 @@
           "Axe",
           "Pickaxe"
         ]
+      },
+      "tr": {
+        "question": "Toprağı sürmek için hangi alet kullanılır?",
+        "answers": [
+          "Çapa",
+          "Kürek",
+          "Balta",
+          "Kazma"
+        ]
       }
     },
     {
@@ -627,6 +888,15 @@
           "Iron Dust",
           "Iron Nugget",
           "Steel"
+        ]
+      },
+      "tr": {
+        "question": "Demir cevheri eritilince ne elde edilir?",
+        "answers": [
+          "Demir Külçe",
+          "Demir Tozu",
+          "Demir Parçası",
+          "Çelik"
         ]
       }
     },
@@ -649,6 +919,15 @@
           "Temple",
           "Outpost"
         ]
+      },
+      "tr": {
+        "question": "Köylülerin yaşadığı yapı ne adla anılır?",
+        "answers": [
+          "Köy",
+          "Hisar",
+          "Tapınak",
+          "Üs"
+        ]
       }
     },
     {
@@ -669,6 +948,15 @@
           "Diamond",
           "Gold",
           "Iron"
+        ]
+      },
+      "tr": {
+        "question": "Oyundaki en dayanıklı malzeme hangisidir?",
+        "answers": [
+          "Netherit",
+          "Elmas",
+          "Altın",
+          "Demir"
         ]
       }
     },
@@ -691,6 +979,15 @@
           "You teleport to spawn",
           "Nothing"
         ]
+      },
+      "tr": {
+        "question": "Boşluğa düşülürse ne olur?",
+        "answers": [
+          "Ölüm",
+          "En yakın bloğa ışınlanırsın",
+          "Doğma noktasına ışınlanırsın",
+          "Hiçbir şey"
+        ]
       }
     },
     {
@@ -711,6 +1008,15 @@
           "2 sticks and 4 strings",
           "4 sticks and 2 strings",
           "3 sticks and 3 leather"
+        ]
+      },
+      "tr": {
+        "question": "Yay neyden üretilir?",
+        "answers": [
+          "3 çubuk ve 3 iplik",
+          "2 çubuk ve 4 iplik",
+          "4 çubuk ve 2 iplik",
+          "3 çubuk ve 3 deri"
         ]
       }
     },
@@ -733,6 +1039,15 @@
           "Diving Mask",
           "Coral Ring"
         ]
+      },
+      "tr": {
+        "question": "İksirsiz su altında nefes almak için ne gerekir?",
+        "answers": [
+          "Kaplumbağa Kabuğu",
+          "Altın Miğfer",
+          "Dalış Maskesi",
+          "Mercan Yüzüğü"
+        ]
       }
     },
     {
@@ -748,6 +1063,15 @@
       },
       "en": {
         "question": "Which hostile mob does not burn in sunlight?",
+        "answers": [
+          "Husk",
+          "Zombie Horseman",
+          "Skeleton Horseman",
+          "Zombie Villager"
+        ]
+      },
+      "tr": {
+        "question": "Hangi düşman yaratık güneşte yanmaz?",
         "answers": [
           "Husk",
           "Zombie Horseman",
@@ -775,6 +1099,15 @@
           "Ghast Tear",
           "Sugar"
         ]
+      },
+      "tr": {
+        "question": "Gece görüşü iksirinin ana malzemesi hangisidir?",
+        "answers": [
+          "Altın Havuç",
+          "Balon Balığı",
+          "Ghast Gözyaşı",
+          "Şeker"
+        ]
       }
     },
     {
@@ -794,6 +1127,15 @@
           "Sheep",
           "Goat",
           "Cow",
+          "Mooshroom"
+        ]
+      },
+      "tr": {
+        "question": "Hangi yaratık süt vermez?",
+        "answers": [
+          "Koyun",
+          "Keçi",
+          "İnek",
           "Mooshroom"
         ]
       }
@@ -817,6 +1159,15 @@
           "It dies",
           "Nothing"
         ]
+      },
+      "tr": {
+        "question": "Creeper'a yıldırım çarptığında ne olur?",
+        "answers": [
+          "Şarj olur",
+          "Anında patlar",
+          "Ölür",
+          "Hiçbir şey"
+        ]
       }
     },
     {
@@ -832,6 +1183,15 @@
       },
       "en": {
         "question": "In which year was the Java Edition of Minecraft officially released?",
+        "answers": [
+          "2011",
+          "2009",
+          "2013",
+          "2015"
+        ]
+      },
+      "tr": {
+        "question": "Minecraft Java Edition hangi yılda resmi olarak yayınlandı?",
         "answers": [
           "2011",
           "2009",
@@ -859,6 +1219,15 @@
           "4",
           "1"
         ]
+      },
+      "tr": {
+        "question": "Wither çağırmak için kaç tane Wither Skeleton Skull gerekir?",
+        "answers": [
+          "3",
+          "2",
+          "4",
+          "1"
+        ]
       }
     },
     {
@@ -879,6 +1248,15 @@
           "Only carrots",
           "Grass and leaves",
           "Apples"
+        ]
+      },
+      "tr": {
+        "question": "Tavşanların üremesi için ne ile beslenir?",
+        "answers": [
+          "Havuç, karahindiba veya altın havuç",
+          "Sadece havuçlar",
+          "Çimen ve yapraklar",
+          "Elmalar"
         ]
       }
     },
@@ -901,6 +1279,15 @@
           "6 slimeballs",
           "8 slimeballs and green dye"
         ]
+      },
+      "tr": {
+        "question": "Balçık Bloğu neyden yapılır?",
+        "answers": [
+          "9 balçık topu",
+          "4 balçık topu",
+          "6 balçık topu",
+          "8 balçık topu ve yeşil boya"
+        ]
       }
     },
     {
@@ -921,6 +1308,15 @@
           "Player",
           "Skeleton",
           "Fox"
+        ]
+      },
+      "tr": {
+        "question": "Creeper'den kim korkar?",
+        "answers": [
+          "Kedi",
+          "Oyuncu",
+          "İskelet",
+          "Tilki"
         ]
       }
     },
@@ -943,6 +1339,15 @@
           "4 iron ingots and 1 coal",
           "2 iron ingots and 2 redstone dust"
         ]
+      },
+      "tr": {
+        "question": "Pusula üretmek için ne gerekir?",
+        "answers": [
+          "4 demir külçe ve 1 redstone tozu",
+          "4 altın külçe ve 1 redstone tozu",
+          "4 demir külçe ve 1 kömür",
+          "2 demir külçe ve 2 redstone tozu"
+        ]
       }
     },
     {
@@ -958,6 +1363,15 @@
       },
       "en": {
         "question": "How much damage does an iron sword deal?",
+        "answers": [
+          "7",
+          "8",
+          "5",
+          "4"
+        ]
+      },
+      "tr": {
+        "question": "Demir kılıcın hasarı kaçtır?",
         "answers": [
           "7",
           "8",
@@ -985,6 +1399,15 @@
           "2 planks",
           "4 planks"
         ]
+      },
+      "tr": {
+        "question": "Merdiven üretmek için ne gerekir?",
+        "answers": [
+          "7 çubuk",
+          "6 çubuk",
+          "2 kalas",
+          "4 kalas"
+        ]
       }
     },
     {
@@ -1005,6 +1428,15 @@
           "Bananas",
           "Coconuts",
           "Mangoes"
+        ]
+      },
+      "tr": {
+        "question": "Ormanlarda ağaçlarda hangi meyve bulunabilir?",
+        "answers": [
+          "Kakao Fasulyeleri",
+          "Muzlar",
+          "Hindistan Cevizleri",
+          "Mangolar"
         ]
       }
     },
@@ -1027,6 +1459,15 @@
           "Dispenser",
           "Hopper"
         ]
+      },
+      "tr": {
+        "question": "Redstone sinyallerini 15'e yükselten blok ne adla anılır?",
+        "answers": [
+          "Yineleyici",
+          "Karşılaştırıcı",
+          "Dağıtıcı",
+          "Huni"
+        ]
       }
     },
     {
@@ -1047,6 +1488,15 @@
           "Alchemy Table",
           "Cauldron",
           "Furnace"
+        ]
+      },
+      "tr": {
+        "question": "İksir pişirmek için kullanılan blok ne adla anılır?",
+        "answers": [
+          "İksir Tezgahı",
+          "Simya Masası",
+          "Kazan",
+          "Fırın"
         ]
       }
     },
@@ -1069,6 +1519,15 @@
           "Wolf",
           "Fox"
         ]
+      },
+      "tr": {
+        "question": "Minecraft'ta hangi hayvana binilebilir?",
+        "answers": [
+          "At",
+          "Ayı",
+          "Kurt",
+          "Tilki"
+        ]
       }
     },
     {
@@ -1090,6 +1549,15 @@
           "Sets spawn point",
           "The bed breaks"
         ]
+      },
+      "tr": {
+        "question": "Yatağa zıplandığında ne olur?",
+        "answers": [
+          "Sıçrarsın",
+          "Uykuya dalarsın",
+          "Doğma noktasını belirler",
+          "Yatak kırılır"
+        ]
       }
     },
     {
@@ -1105,6 +1573,15 @@
       },
       "en": {
         "question": "How many experience points are needed for the first level?",
+        "answers": [
+          "7",
+          "5",
+          "10",
+          "3"
+        ]
+      },
+      "tr": {
+        "question": "İlk seviye için kaç deneyim puanı gerekir?",
         "answers": [
           "7",
           "5",
@@ -1132,6 +1609,15 @@
           "Ruby",
           "Diamond"
         ]
+      },
+      "tr": {
+        "question": "Büyücülük Masasında büyü uygulamak için hangi eşya gerekir?",
+        "answers": [
+          "Lapis Lazuli",
+          "Zümrüt",
+          "Yakut",
+          "Elmas"
+        ]
       }
     },
     {
@@ -1152,6 +1638,15 @@
           "Fireball and tear",
           "Only gunpowder",
           "Only Ghast Tear"
+        ]
+      },
+      "tr": {
+        "question": "Ghast öldürülünce ne düşürür?",
+        "answers": [
+          "Ghast Gözyaşı ve barut",
+          "Ateş topu ve gözyaşı",
+          "Sadece barut",
+          "Sadece Ghast Gözyaşı"
         ]
       }
     },
@@ -1174,6 +1669,15 @@
           "Spruce",
           "Dark Oak"
         ]
+      },
+      "tr": {
+        "question": "Bataklık biyomundaki ağaç ne adla anılır?",
+        "answers": [
+          "Mangrov",
+          "Meşe",
+          "Ladin",
+          "Koyu Meşe"
+        ]
       }
     },
     {
@@ -1194,6 +1698,15 @@
           "4 paper",
           "2 paper and 2 leather",
           "3 leather and 1 paper"
+        ]
+      },
+      "tr": {
+        "question": "Kitap üretmek için ne gerekir?",
+        "answers": [
+          "3 kâğıt ve 1 deri",
+          "4 kâğıt",
+          "2 kâğıt ve 2 deri",
+          "3 deri ve 1 kâğıt"
         ]
       }
     },
@@ -1216,6 +1729,15 @@
           "Nuts",
           "Fruit"
         ]
+      },
+      "tr": {
+        "question": "Papağan evcilleştirmek için ne gerekir?",
+        "answers": [
+          "Tohumlar",
+          "Yaban mersinleri",
+          "Kuruyemişler",
+          "Meyve"
+        ]
       }
     },
     {
@@ -1236,6 +1758,15 @@
           "Pickaxe",
           "Axe",
           "Hoe"
+        ]
+      },
+      "tr": {
+        "question": "Çakılı hangi alet en iyi kazar?",
+        "answers": [
+          "Kürek",
+          "Kazma",
+          "Balta",
+          "Çapa"
         ]
       }
     },
@@ -1258,6 +1789,15 @@
           "In caves",
           "In the desert"
         ]
+      },
+      "tr": {
+        "question": "Ghastlar nerede ortaya çıkar?",
+        "answers": [
+          "Nether'de",
+          "Son'da",
+          "Mağaralarda",
+          "Çölde"
+        ]
       }
     },
     {
@@ -1273,6 +1813,15 @@
       },
       "en": {
         "question": "What is the maximum number of Eyes of Ender needed to activate a portal?",
+        "answers": [
+          "12",
+          "8",
+          "14",
+          "10"
+        ]
+      },
+      "tr": {
+        "question": "Portalı etkinleştirmek için gereken maksimum Eyes of Ender sayısı kaçtır?",
         "answers": [
           "12",
           "8",
@@ -1300,6 +1849,15 @@
           "Light it with flint and steel",
           "Ender Pearls in the portal frame"
         ]
+      },
+      "tr": {
+        "question": "Son portalını etkinleştirmek için ne gerekir?",
+        "answers": [
+          "Portal çerçevesine Eyes of Ender",
+          "Portal çerçevesine elmaslar",
+          "Çakmaktaşı ve çelikle yak",
+          "Portal çerçevesine Ender Pearls"
+        ]
       }
     },
     {
@@ -1320,6 +1878,15 @@
           "3 wheat, 2 eggs, 3 milk, 1 sugar",
           "3 wheat, 3 eggs, 1 milk",
           "2 wheat, 1 sugar, 2 eggs, 2 milk"
+        ]
+      },
+      "tr": {
+        "question": "Pasta üretmek için ne gerekir?",
+        "answers": [
+          "3 buğday, 2 şeker, 1 yumurta, 3 süt",
+          "3 buğday, 2 yumurta, 3 süt, 1 şeker",
+          "3 buğday, 3 yumurta, 1 süt",
+          "2 buğday, 1 şeker, 2 yumurta, 2 süt"
         ]
       }
     },
@@ -1342,6 +1909,15 @@
           "Bone armor",
           "Chalk powder"
         ]
+      },
+      "tr": {
+        "question": "Kemiklerden ne üretilebilir?",
+        "answers": [
+          "Kemik Unu",
+          "Beyaz boya",
+          "Kemik zırhı",
+          "Tebeşir tozu"
+        ]
       }
     },
     {
@@ -1362,6 +1938,15 @@
           "4 paper and 1 compass",
           "9 paper",
           "6 paper and 1 leather"
+        ]
+      },
+      "tr": {
+        "question": "Harita üretmek için ne gerekir?",
+        "answers": [
+          "8 kâğıt ve 1 pusula",
+          "4 kâğıt ve 1 pusula",
+          "9 kâğıt",
+          "6 kâğıt ve 1 deri"
         ]
       }
     },
@@ -1384,6 +1969,15 @@
           "Shulker Box",
           "Barrel"
         ]
+      },
+      "tr": {
+        "question": "Eşya depolamak için hangi blok kullanılmaz?",
+        "answers": [
+          "Crafting Masası",
+          "Sandık",
+          "Shulker Kutusu",
+          "Fıçı"
+        ]
       }
     },
     {
@@ -1404,6 +1998,15 @@
           "2 sugar cane",
           "4 sugar cane",
           "1 bamboo and 2 sugar cane"
+        ]
+      },
+      "tr": {
+        "question": "Kâğıt üretmek için ne gerekir?",
+        "answers": [
+          "3 kamış",
+          "2 kamış",
+          "4 kamış",
+          "1 bambu ve 2 kamış"
         ]
       }
     },
@@ -1426,6 +2029,15 @@
           "9 blocks of iron",
           "6 blocks of iron"
         ]
+      },
+      "tr": {
+        "question": "Örs üretmek için ne gerekir?",
+        "answers": [
+          "3 demir bloğu ve 4 demir külçe",
+          "4 demir bloğu ve 3 külçe",
+          "9 demir bloğu",
+          "6 demir bloğu"
+        ]
       }
     },
     {
@@ -1447,6 +2059,15 @@
           "Lily of the Valley",
           "Lilac"
         ]
+      },
+      "tr": {
+        "question": "Sarı boya elde edilebilen çiçek ne adla anılır?",
+        "answers": [
+          "Karahindiba",
+          "Lale",
+          "Çan Çiçeği",
+          "Morkavak"
+        ]
       }
     },
     {
@@ -1465,6 +2086,15 @@
         "answers": [
           "Ender Pearl",
           "End particles",
+          "End Crystal",
+          "Eye of Ender"
+        ]
+      },
+      "tr": {
+        "question": "Enderman öldürülünce ne düşürür?",
+        "answers": [
+          "Ender Pearl",
+          "Son parçacıkları",
           "End Crystal",
           "Eye of Ender"
         ]
@@ -1489,6 +2119,15 @@
           "Sticky Piston",
           "Honey Block"
         ]
+      },
+      "tr": {
+        "question": "Suda eşyaları ve yaratıkları kendine çeken blok hangisidir?",
+        "answers": [
+          "Magma Bloğu",
+          "Balçık Bloğu",
+          "Yapışkan Piston",
+          "Bal Bloğu"
+        ]
       }
     },
     {
@@ -1509,6 +2148,15 @@
           "A secret boss in the Nether",
           "A cape",
           "A bug in early versions of the game"
+        ]
+      },
+      "tr": {
+        "question": "Minecraft kültüründe Herobrine kimdir veya nedir?",
+        "answers": [
+          "Oyunda saklı olduğu varsayılan, efsanevi kurgusal hayalet karakter; ancak resmen hiç var olmadı",
+          "Nether'de gizli bir boss",
+          "Bir pelerin",
+          "Oyunun ilk sürümlerinde bir hata"
         ]
       }
     },
@@ -1531,6 +2179,15 @@
           "Slime",
           "Magma Cube"
         ]
+      },
+      "tr": {
+        "question": "Diğer yaratıkların seslerini taklit edebilen yaratık ne adla anılır?",
+        "answers": [
+          "Papağan",
+          "Enderman",
+          "Balçık",
+          "Magma Küpü"
+        ]
       }
     },
     {
@@ -1551,6 +2208,15 @@
           "Ice Spikes",
           "Flower Forest",
           "Deep Ocean"
+        ]
+      },
+      "tr": {
+        "question": "Minecraft Java Edition'de düşman yaratıkların doğmadığı biyom ne adla anılır?",
+        "answers": [
+          "Mantar Tarlaları",
+          "Buz Dikenleri",
+          "Çiçek Ormanı",
+          "Derin Okyanus"
         ]
       }
     },
@@ -1573,6 +2239,15 @@
           "A method of item duplication",
           "A special mechanic for servers"
         ]
+      },
+      "tr": {
+        "question": "AFK çiftliği nedir?",
+        "answers": [
+          "Oyuncunun aktif katılımı olmadan çalışan bir çiftlik",
+          "Mojang tarafından yasaklanmış bir hile yöntemi",
+          "Eşya çoğaltma yöntemi",
+          "Sunucular için özel bir mekanik"
+        ]
       }
     },
     {
@@ -1591,6 +2266,15 @@
         "answers": [
           "Swamp",
           "Jungle",
+          "Savanna",
+          "Pale Garden"
+        ]
+      },
+      "tr": {
+        "question": "Cadı Kulübesi hangi biyomda bulunabilir?",
+        "answers": [
+          "Bataklık",
+          "Yağmur Ormanı",
           "Savanna",
           "Pale Garden"
         ]
@@ -1617,6 +2301,15 @@
           "It's not possible, there is no such brick",
           "Smelt Pale Oak wood"
         ]
+      },
+      "tr": {
+        "question": "Reçine tuğlası nasıl elde edilir?",
+        "answers": [
+          "Reçine parçasını erit",
+          "Duvarcı köylüden satın al",
+          "Mümkün değil, böyle bir tuğla yok",
+          "Soluk Meşe odununu erit"
+        ]
       }
     },
     {
@@ -1632,6 +2325,15 @@
       },
       "en": {
         "question": "Which mob follows the player as long as they don't look at it?",
+        "answers": [
+          "Creaking",
+          "Piglin",
+          "Phantom",
+          "Enderman"
+        ]
+      },
+      "tr": {
+        "question": "Oyuncu ona bakana kadar hangi yaratık oyuncuyu takip eder?",
         "answers": [
           "Creaking",
           "Piglin",
@@ -1659,6 +2361,15 @@
           "Apply honey",
           "Apply bone meal"
         ]
+      },
+      "tr": {
+        "question": "Bakır blokların ve eşyaların oksitlenmesi nasıl durdurulur?",
+        "answers": [
+          "Mum uygula",
+          "Balçık uygula",
+          "Bal uygula",
+          "Kemik unu uygula"
+        ]
       }
     },
     {
@@ -1674,6 +2385,15 @@
       },
       "en": {
         "question": "How many decorated pot sherd patterns exist?",
+        "answers": [
+          "23",
+          "22",
+          "21",
+          "20"
+        ]
+      },
+      "tr": {
+        "question": "Süslenmiş çömlek kırıkları kaç çeşittir?",
         "answers": [
           "23",
           "22",
@@ -1701,6 +2421,15 @@
           "Gravel",
           "Wool"
         ]
+      },
+      "tr": {
+        "question": "Bu bloklardan hangisi redstone sinyali iletmez?",
+        "answers": [
+          "Cam",
+          "Kum",
+          "Çakıl",
+          "Yün"
+        ]
       }
     },
     {
@@ -1721,6 +2450,15 @@
           "Use a Smithing Table",
           "Throw it into lava",
           "There is no way"
+        ]
+      },
+      "tr": {
+        "question": "Bir eşyadan büyü nasıl kaldırılır?",
+        "answers": [
+          "Değirmen taşı kullan",
+          "Demirci Masası kullan",
+          "Lava'ya at",
+          "Yolu yok"
         ]
       }
     },
@@ -1743,6 +2481,15 @@
           "Frost Walker",
           "Fire Aspect"
         ]
+      },
+      "tr": {
+        "question": "Alevden koruyan büyüler hangileridir?",
+        "answers": [
+          "Fire Protection",
+          "Dikenli",
+          "Frost Walker",
+          "Alevden Çehre"
+        ]
       }
     },
     {
@@ -1763,6 +2510,15 @@
           "2 Netherite Scraps and 6 gold ingots",
           "4 Netherite Scraps and 4 copper ingots",
           "4 Netherite Scraps and 4 iron ingots"
+        ]
+      },
+      "tr": {
+        "question": "Netherit Külçe neyden yapılır?",
+        "answers": [
+          "4 Netherit Parçası ve 4 altın külçe",
+          "2 Netherit Parçası ve 6 altın külçe",
+          "4 Netherit Parçası ve 4 bakır külçe",
+          "4 Netherit Parçası ve 4 demir külçe"
         ]
       }
     },
@@ -1785,6 +2541,15 @@
           "Silk Touch",
           "Unbreaking"
         ]
+      },
+      "tr": {
+        "question": "Daha hızlı kazmayı sağlayan büyüler hangileridir?",
+        "answers": [
+          "Verimlilik",
+          "Şans",
+          "İpek Dokunuşu",
+          "Dayanıklılık"
+        ]
       }
     },
     {
@@ -1805,6 +2570,15 @@
           "4 diamonds, 2 obsidian, 1 book",
           "4 diamonds, 2 obsidian, 1 book",
           "4 obsidian, 2 books, 1 diamond"
+        ]
+      },
+      "tr": {
+        "question": "Büyücülük Masası oluşturmak için ne gerekir?",
+        "answers": [
+          "4 obsidyen, 2 elmas, 1 kitap",
+          "4 elmas, 2 obsidyen, 1 kitap",
+          "4 elmas, 2 obsidyen, 1 kitap",
+          "4 obsidyen, 2 kitap, 1 elmas"
         ]
       }
     },
@@ -1827,6 +2601,15 @@
           "Baby Zombie",
           "Guardian"
         ]
+      },
+      "tr": {
+        "question": "Suda ölen zombiden hangi yaratık doğar?",
+        "answers": [
+          "Boğulmuş",
+          "Husk",
+          "Bebek Zombi",
+          "Muhafız"
+        ]
       }
     },
     {
@@ -1846,6 +2629,15 @@
           "Nether Fortress",
           "Crimson Forest",
           "Basalt Deltas",
+          "Bastion"
+        ]
+      },
+      "tr": {
+        "question": "Wither Skeleton'ların yaşadığı Nether yapısı ne adla anılır?",
+        "answers": [
+          "Nether Kalesi",
+          "Kızıl Orman",
+          "Bazalt Deltaları",
           "Bastion"
         ]
       }
@@ -1869,6 +2661,15 @@
           "Find it in a shipwreck",
           "Buy it from a villager"
         ]
+      },
+      "tr": {
+        "question": "Trident nasıl elde edilir?",
+        "answers": [
+          "Boğulmuş'tan düşer",
+          "3 Prismarine Crystal ve 2 çubuktan üretilir",
+          "Batık gemide bulunur",
+          "Köylüden satın alınır"
+        ]
       }
     },
     {
@@ -1884,6 +2685,15 @@
       },
       "en": {
         "question": "In which version were Mangrove trees and the Mangrove Swamp biome added?",
+        "answers": [
+          "1.19",
+          "1.21",
+          "1.18",
+          "1.20"
+        ]
+      },
+      "tr": {
+        "question": "Mangrov ağaçları ve Mangrov Bataklığı biyomu hangi sürümde eklendi?",
         "answers": [
           "1.19",
           "1.21",
@@ -1911,6 +2721,15 @@
           "1288",
           "1500"
         ]
+      },
+      "tr": {
+        "question": "0'dan başlayarak 30 seviyeye ulaşmak için kaç deneyim gerekir?",
+        "answers": [
+          "1395",
+          "910",
+          "1288",
+          "1500"
+        ]
       }
     },
     {
@@ -1932,6 +2751,15 @@
           "Fish",
           "Prismarine Crystal"
         ]
+      },
+      "tr": {
+        "question": "Muhafız öldürülünce ne düşüremez?",
+        "answers": [
+          "Denizin Kalbi",
+          "Prismarine Parçası",
+          "Balık",
+          "Prismarine Crystal"
+        ]
       }
     },
     {
@@ -1947,6 +2775,15 @@
       },
       "en": {
         "question": "How many entities can occupy a single block (by default)?",
+        "answers": [
+          "24",
+          "12",
+          "20",
+          "16"
+        ]
+      },
+      "tr": {
+        "question": "Varsayılan olarak tek bir blokta kaç varlık bulunabilir?",
         "answers": [
           "24",
           "12",
@@ -1974,6 +2811,15 @@
           "Swiftness",
           "Leaping"
         ]
+      },
+      "tr": {
+        "question": "Düşmeyi yavaşlatan iksir hangisidir?",
+        "answers": [
+          "Slow Falling",
+          "Weaving",
+          "Swiftness",
+          "Leaping"
+        ]
       }
     },
     {
@@ -1995,6 +2841,15 @@
           "End particles",
           "End Crystals"
         ]
+      },
+      "tr": {
+        "question": "Shulker öldürülünce ne düşer?",
+        "answers": [
+          "Shulker Kabuğu",
+          "Shulker Kutusu",
+          "Son parçacıkları",
+          "End Crystals"
+        ]
       }
     },
     {
@@ -2010,6 +2865,15 @@
       },
       "en": {
         "question": "How many days without sleep are needed for Phantoms to appear?",
+        "answers": [
+          "3",
+          "2",
+          "5",
+          "4"
+        ]
+      },
+      "tr": {
+        "question": "Phantom'ların ortaya çıkması için kaç gün uykusuz kalmak gerekir?",
         "answers": [
           "3",
           "2",
@@ -2037,6 +2901,15 @@
           "Nothing",
           "Place it in a portal"
         ]
+      },
+      "tr": {
+        "question": "Ender Pearl ile ışınlanmak için ne gerekir?",
+        "answers": [
+          "Ender Pearl'ü fırlat",
+          "İnciyi tut ve bir bloğa tıkla",
+          "Hiçbir şey",
+          "Portala yerleştir"
+        ]
       }
     },
     {
@@ -2057,6 +2930,15 @@
           "8 stone and 1 Eye of Ender",
           "6 obsidian and 3 diamonds",
           "4 obsidian and 4 Ender Pearls"
+        ]
+      },
+      "tr": {
+        "question": "Ender Sandığı üretmek için ne gerekir?",
+        "answers": [
+          "8 obsidyen ve 1 Eye of Ender",
+          "8 taş ve 1 Eye of Ender",
+          "6 obsidyen ve 3 elmas",
+          "4 obsidyen ve 4 Ender Pearl"
         ]
       }
     },
@@ -2079,6 +2961,15 @@
           "Emerald Ore",
           "Quartz Ore"
         ]
+      },
+      "tr": {
+        "question": "1.17'de eklenen cevher ne adla anılır?",
+        "answers": [
+          "Bakır Cevheri",
+          "Netherit Cevheri",
+          "Zümrüt Cevheri",
+          "Kuvars Cevheri"
+        ]
       }
     },
     {
@@ -2100,6 +2991,15 @@
           "1 diamond, 3 obsidian, 5 glass",
           "3 Nether Stars and 6 glass"
         ]
+      },
+      "tr": {
+        "question": "Beacon oluşturmak için ne gerekir?",
+        "answers": [
+          "1 Nether Star, 3 obsidyen, 5 cam",
+          "1 Nether Star, 4 obsidyen, 4 cam",
+          "1 elmas, 3 obsidyen, 5 cam",
+          "3 Nether Star ve 6 cam"
+        ]
       }
     },
     {
@@ -2115,6 +3015,15 @@
       },
       "en": {
         "question": "What is the durability of an unenchanted Diamond Pickaxe?",
+        "answers": [
+          "1561",
+          "2031",
+          "1370",
+          "1841"
+        ]
+      },
+      "tr": {
+        "question": "Büyüsüz Elmas Kazma'nın dayanıklılığı kaçtır?",
         "answers": [
           "1561",
           "2031",
@@ -2142,6 +3051,15 @@
           "Ghast",
           "Blaze"
         ]
+      },
+      "tr": {
+        "question": "Nether'deki bastionlarda hangi yaratık yaşar?",
+        "answers": [
+          "Piglin",
+          "Zombileşmiş Piglin",
+          "Ghast",
+          "Blaze"
+        ]
       }
     },
     {
@@ -2162,6 +3080,15 @@
           "Gold Nugget",
           "Diamond Block",
           "Emerald"
+        ]
+      },
+      "tr": {
+        "question": "Piglin ile takas yapmak için ne gerekir?",
+        "answers": [
+          "Altın Külçe",
+          "Altın Parçası",
+          "Elmas Bloğu",
+          "Zümrüt"
         ]
       }
     },
@@ -2184,6 +3111,15 @@
           "Boosts experience",
           "Adds Silk Touch"
         ]
+      },
+      "tr": {
+        "question": "'Şans' büyüsü ne işe yarar?",
+        "answers": [
+          "Blok düşüşlerini artırır",
+          "Kazmayı hızlandırır",
+          "Deneyimi artırır",
+          "İpek Dokunuşu ekler"
+        ]
       }
     },
     {
@@ -2199,6 +3135,15 @@
       },
       "en": {
         "question": "In which update were Netherite tools added?",
+        "answers": [
+          "1.16",
+          "1.17",
+          "1.15",
+          "1.18"
+        ]
+      },
+      "tr": {
+        "question": "Netherit aletler hangi güncellemede eklendi?",
         "answers": [
           "1.16",
           "1.17",
@@ -2226,6 +3171,15 @@
           "Give it a carrot",
           "Tie it with a lead"
         ]
+      },
+      "tr": {
+        "question": "At evcilleştirmek için ne gerekir?",
+        "answers": [
+          "Üstüne tekrar tekrar bin",
+          "Ona bir elma ver",
+          "Ona bir havuç ver",
+          "Kayışla bağla"
+        ]
       }
     },
     {
@@ -2246,6 +3200,15 @@
           "End Castle",
           "End Tower",
           "End Ruins"
+        ]
+      },
+      "tr": {
+        "question": "Son'un dış adalarındaki yapılar ne adla anılır?",
+        "answers": [
+          "Son Şehri",
+          "Son Kalesi",
+          "Son Kulesi",
+          "Son Harabeleri"
         ]
       }
     },
@@ -2268,6 +3231,15 @@
           "4 shulker shells and 1 chest",
           "8 shulker shells"
         ]
+      },
+      "tr": {
+        "question": "Shulker Kutusu oluşturmak için ne gerekir?",
+        "answers": [
+          "2 Shulker Kabuğu ve 1 sandık",
+          "1 Shulker Kabuğu ve 1 sandık",
+          "4 Shulker Kabuğu ve 1 sandık",
+          "8 Shulker Kabuğu"
+        ]
       }
     },
     {
@@ -2288,6 +3260,15 @@
           "Dark Forest",
           "Mangrove Swamp",
           "Cherry Grove"
+        ]
+      },
+      "tr": {
+        "question": "1.18 güncellemesinde hangi biyom eklendi?",
+        "answers": [
+          "Lush Caves",
+          "Karanlık Orman",
+          "Mangrov Bataklığı",
+          "Kiraz Korusu"
         ]
       }
     },
@@ -2310,6 +3291,15 @@
           "Sheep",
           "Bear"
         ]
+      },
+      "tr": {
+        "question": "Kayalık dağ zirvelerinde ortaya çıkan yaratık ne adla anılır?",
+        "answers": [
+          "Keçi",
+          "Tilki",
+          "Koyun",
+          "Ayı"
+        ]
       }
     },
     {
@@ -2331,6 +3321,15 @@
           "Blindness",
           "Bad Omen"
         ]
+      },
+      "tr": {
+        "question": "Elder Guardian oyuncuya hangi etkiyi yapabilir?",
+        "answers": [
+          "Mining Fatigue",
+          "Hiçbiri",
+          "Körlük",
+          "Bad Omen"
+        ]
       }
     },
     {
@@ -2346,6 +3345,15 @@
       },
       "en": {
         "question": "Which mob cannot spawn in The End dimension?",
+        "answers": [
+          "Phantom",
+          "Endermite",
+          "Shulker",
+          "Enderman"
+        ]
+      },
+      "tr": {
+        "question": "Son boyutunda hangi yaratık spawn olamaz?",
         "answers": [
           "Phantom",
           "Endermite",
@@ -2373,6 +3381,15 @@
           "1.16",
           "1.13"
         ]
+      },
+      "tr": {
+        "question": "Arılar hangi güncellemede eklendi?",
+        "answers": [
+          "1.15",
+          "1.14",
+          "1.16",
+          "1.13"
+        ]
       }
     },
     {
@@ -2393,6 +3410,15 @@
           "9 honey bottles",
           "4 honeycombs",
           "2 honeycombs and 2 honey bottles"
+        ]
+      },
+      "tr": {
+        "question": "Bal Bloğu üretmek için ne gerekir?",
+        "answers": [
+          "4 bal şişesi",
+          "9 bal şişesi",
+          "4 petek bal",
+          "2 petek bal ve 2 bal şişesi"
         ]
       }
     },
@@ -2415,6 +3441,15 @@
           "Ravager",
           "Vindicator"
         ]
+      },
+      "tr": {
+        "question": "Baskın sırasında hangi düşman yaratık ortaya çıkmaz?",
+        "answers": [
+          "Stray",
+          "Cadı",
+          "Ravager",
+          "Kellekesen"
+        ]
       }
     },
     {
@@ -2435,6 +3470,15 @@
           "Kill a villager",
           "Destroy an Outpost",
           "Kill a Pillager"
+        ]
+      },
+      "tr": {
+        "question": "Köye baskın başlatmak için ne gerekir?",
+        "answers": [
+          "Bad Omen etkisiyle köye gir",
+          "Bir köylüyü öldür",
+          "Bir Üssü yok et",
+          "Bir Yağmacıyı öldür"
         ]
       }
     },
@@ -2457,6 +3501,15 @@
           "Speeds up mining",
           "Adds experience"
         ]
+      },
+      "tr": {
+        "question": "'İpek Dokunuşu' büyüsü ne yapar?",
+        "answers": [
+          "Bloklar kırıldığında kendi hâlinde düşer",
+          "Düşüşleri artırır",
+          "Kazmayı hızlandırır",
+          "Deneyim ekler"
+        ]
       }
     },
     {
@@ -2477,6 +3530,15 @@
           "Coal and iron nuggets",
           "A candle and iron nuggets",
           "Redstone dust and glowstone"
+        ]
+      },
+      "tr": {
+        "question": "Fener neyden yapılır?",
+        "answers": [
+          "Bir meşale ve demir parçaları",
+          "Kömür ve demir parçaları",
+          "Bir mum ve demir parçaları",
+          "Redstone tozu ve Işık Taşı"
         ]
       }
     },
@@ -2499,6 +3561,15 @@
           "Dark Fortress",
           "Witch Hut"
         ]
+      },
+      "tr": {
+        "question": "Karanlık ormandaki yapı ne adla anılır?",
+        "answers": [
+          "Orman Köşkü",
+          "Vampir Kalesi",
+          "Karanlık Kale",
+          "Cadı Kulübesi"
+        ]
       }
     },
     {
@@ -2519,6 +3590,15 @@
           "It dies",
           "Nothing",
           "It attacks everyone"
+        ]
+      },
+      "tr": {
+        "question": "Üst Dünya'da Piglin'e ne olur?",
+        "answers": [
+          "Zombileşmiş Piglin'e dönüşür",
+          "Ölür",
+          "Hiçbir şey",
+          "Herkese saldırır"
         ]
       }
     },
@@ -2541,6 +3621,15 @@
           "Piglin Castle",
           "Piglin Den"
         ]
+      },
+      "tr": {
+        "question": "Piglinlerin yaşadığı Nether yapısı ne adla anılır?",
+        "answers": [
+          "Bastion Kalıntısı",
+          "Nether Kalesi",
+          "Piglin Kalesi",
+          "Piglin İni"
+        ]
       }
     },
     {
@@ -2556,6 +3645,15 @@
       },
       "en": {
         "question": "How many obsidian pillars generate in The End?",
+        "answers": [
+          "10",
+          "8",
+          "16",
+          "12"
+        ]
+      },
+      "tr": {
+        "question": "Son'da kaç obsidyen sütun üretilir?",
         "answers": [
           "10",
           "8",
@@ -2583,6 +3681,15 @@
           "13",
           "12"
         ]
+      },
+      "tr": {
+        "question": "Maksimum büyü seviyesine ulaşmak için kaç kitaplık rafı gerekir?",
+        "answers": [
+          "15",
+          "14",
+          "13",
+          "12"
+        ]
       }
     },
     {
@@ -2604,6 +3711,15 @@
           "It turns into grass",
           "It is destroyed"
         ]
+      },
+      "tr": {
+        "question": "Miselium üzerinde kemik unu kullanıldığında ne olur?",
+        "answers": [
+          "Hiçbir şey",
+          "Yakındaki bloklar miseliuma dönüşür",
+          "Çimene dönüşür",
+          "Yok edilir"
+        ]
       }
     },
     {
@@ -2623,6 +3739,15 @@
           "Elder Guardian",
           "Nautilus",
           "Sea Dragon",
+          "Kraken"
+        ]
+      },
+      "tr": {
+        "question": "Okyanus Anıtı'nı koruyan özel yaratık ne adla anılır?",
+        "answers": [
+          "Elder Guardian",
+          "Nautilus",
+          "Deniz Ejderhası",
           "Kraken"
         ]
       }
@@ -2646,6 +3771,15 @@
           "An apple and 4 gold ingots",
           "An apple and a gold block"
         ]
+      },
+      "tr": {
+        "question": "Altın elma yapmak için ne gerekir?",
+        "answers": [
+          "Bir elma ve 8 altın külçe",
+          "Bir elma ve 8 altın parçası",
+          "Bir elma ve 4 altın külçe",
+          "Bir elma ve bir altın bloğu"
+        ]
       }
     },
     {
@@ -2666,6 +3800,15 @@
           "Netherite blocks",
           "Iron blocks",
           "Emerald blocks"
+        ]
+      },
+      "tr": {
+        "question": "Beacon hangi bloklarla çalışmaz?",
+        "answers": [
+          "Bakır bloklar",
+          "Netherit bloklar",
+          "Demir bloklar",
+          "Zümrüt bloklar"
         ]
       }
     },
@@ -2688,6 +3831,15 @@
           "Puller",
           "Hopper"
         ]
+      },
+      "tr": {
+        "question": "Redstone yardımıyla diğer blokları hareket ettiren blok ne adla anılır?",
+        "answers": [
+          "Piston",
+          "Motor",
+          "Puller",
+          "Huni"
+        ]
       }
     },
     {
@@ -2708,6 +3860,15 @@
           "Deep Ocean",
           "Pale Garden",
           "Snowy Taiga"
+        ]
+      },
+      "tr": {
+        "question": "1.17 güncellemesinde hangi biyom eklendi?",
+        "answers": [
+          "Dripstone Caves",
+          "Derin Okyanus",
+          "Soluk Bahçe",
+          "Karlı Taiga"
         ]
       }
     },
@@ -2730,6 +3891,15 @@
           "Deep Dark",
           "Warped Forest"
         ]
+      },
+      "tr": {
+        "question": "Creaking hangi biyomda karşılaşılır?",
+        "answers": [
+          "Pale Garden",
+          "Karanlık Orman",
+          "Derin Karanlık",
+          "Bozulmuş Orman"
+        ]
       }
     },
     {
@@ -2750,6 +3920,15 @@
           "The final level unlocks",
           "The game ends",
           "A portal to a new dimension appears"
+        ]
+      },
+      "tr": {
+        "question": "Ender Ejderhası ilk kez yenildiğinde ne olur?",
+        "answers": [
+          "Dönüş portalı ve Ejderha Yumurtası belirir",
+          "Son seviye açılır",
+          "Oyun biter",
+          "Yeni bir boyuta portal belirir"
         ]
       }
     },
@@ -2772,6 +3951,15 @@
           "Plains",
           "Dark Forest"
         ]
+      },
+      "tr": {
+        "question": "Tilki hangi biyomda karşılaşılır?",
+        "answers": [
+          "Taiga",
+          "Tundra",
+          "Ovalar",
+          "Karanlık Orman"
+        ]
       }
     },
     {
@@ -2792,6 +3980,15 @@
           "A drop from a bat; used for potions",
           "A drop from a Phantom; a rare armor material",
           "A drop from a Phantom; an ingredient for invisibility"
+        ]
+      },
+      "tr": {
+        "question": "Phantom membranı nedir ve ne için kullanılır?",
+        "answers": [
+          "Phantom'dan düşer; iksirler ve Elytra onarımı için kullanılır",
+          "Yarasadan düşer; iksirler için kullanılır",
+          "Phantom'dan düşer; nadir bir zırh malzemesi",
+          "Phantom'dan düşer; görünürlük için bir malzeme"
         ]
       }
     },
@@ -2814,6 +4011,15 @@
           "Cold Ocean",
           "Warm Ocean"
         ]
+      },
+      "tr": {
+        "question": "Okyanus Anıtı hangi biyomda bulunabilir?",
+        "answers": [
+          "Derin Okyanus",
+          "Derin Karanlık",
+          "Soğuk Okyanus",
+          "Sıcak Okyanus"
+        ]
       }
     },
     {
@@ -2835,6 +4041,15 @@
           "2 leather and 2 strings",
           "4 strings and 1 leather"
         ]
+      },
+      "tr": {
+        "question": "Kayış yapmak için ne gerekir?",
+        "answers": [
+          "5 iplik",
+          "6 iplik",
+          "2 deri ve 2 iplik",
+          "4 iplik ve 1 deri"
+        ]
       }
     },
     {
@@ -2850,6 +4065,15 @@
       },
       "en": {
         "question": "In which version was the Phantom added?",
+        "answers": [
+          "1.13",
+          "1.18",
+          "1.10",
+          "1.15"
+        ]
+      },
+      "tr": {
+        "question": "Phantom hangi sürümde eklendi?",
         "answers": [
           "1.13",
           "1.18",
@@ -2877,6 +4101,15 @@
           "14",
           "10"
         ]
+      },
+      "tr": {
+        "question": "Normal fenerin ışık seviyesi kaçtır?",
+        "answers": [
+          "15",
+          "18",
+          "14",
+          "10"
+        ]
       }
     },
     {
@@ -2897,6 +4130,15 @@
           "Potion Bomb",
           "Any potion",
           "Fragmentation Potion"
+        ]
+      },
+      "tr": {
+        "question": "Fırlatılabilen iksir türü ne adla anılır?",
+        "answers": [
+          "Splash Potion",
+          "İksir Bombası",
+          "Herhangi bir iksir",
+          "Parçalanma İksiri"
         ]
       }
     },
@@ -2919,6 +4161,15 @@
           "Diamond",
           "None"
         ]
+      },
+      "tr": {
+        "question": "Lav'da hangi ekipman yok olmaz?",
+        "answers": [
+          "Netherit",
+          "Fire Protection olan herhangi bir ekipman",
+          "Elmas",
+          "Hiçbiri"
+        ]
       }
     },
     {
@@ -2934,6 +4185,15 @@
       },
       "en": {
         "question": "What is the light level of a regular torch?",
+        "answers": [
+          "14",
+          "15",
+          "12",
+          "9"
+        ]
+      },
+      "tr": {
+        "question": "Normal meşalenin ışık seviyesi kaçtır?",
         "answers": [
           "14",
           "15",
@@ -2961,6 +4221,15 @@
           "Guardian",
           "Spider"
         ]
+      },
+      "tr": {
+        "question": "Hangi yaratık kedilerden korkar?",
+        "answers": [
+          "Phantom",
+          "İskelet",
+          "Muhafız",
+          "Örümcek"
+        ]
       }
     },
     {
@@ -2980,6 +4249,15 @@
           "7",
           "9",
           "It is not a light source",
+          "15"
+        ]
+      },
+      "tr": {
+        "question": "Redstone meşalesinin ışık seviyesi kaçtır?",
+        "answers": [
+          "7",
+          "9",
+          "Bir ışık kaynağı değildir",
           "15"
         ]
       }
@@ -3003,6 +4281,15 @@
           "Crimson Forest",
           "Basalt Plains"
         ]
+      },
+      "tr": {
+        "question": "Nether'de tamamen bazalttan oluşan biyom hangisidir?",
+        "answers": [
+          "Bazalt Deltaları",
+          "Nether Wastes",
+          "Kızıl Orman",
+          "Bazalt Ovaları"
+        ]
       }
     },
     {
@@ -3023,6 +4310,15 @@
           "Put the disc on a note block",
           "Put the disc in a dispenser",
           "Just hold it in your hand"
+        ]
+      },
+      "tr": {
+        "question": "Müzik plağını çalmak için ne gerekir?",
+        "answers": [
+          "Plağı jukebox'a koy",
+          "Plağı nota bloğuna koy",
+          "Plağı dağıtıcıya koy",
+          "Sadece elinde tut"
         ]
       }
     },
@@ -3045,6 +4341,15 @@
           "Crimson Forest",
           "Trees do not grow in the Nether"
         ]
+      },
+      "tr": {
+        "question": "Ağaçlı Nether biyomu ne adla anılır?",
+        "answers": [
+          "Bozulmuş Orman",
+          "Bazalt Ormanı",
+          "Kızıl Orman",
+          "Nether'de ağaç yetişmez"
+        ]
       }
     },
     {
@@ -3060,6 +4365,15 @@
       },
       "en": {
         "question": "What signal strength does a redstone torch give off?",
+        "answers": [
+          "15",
+          "20",
+          "10",
+          "12"
+        ]
+      },
+      "tr": {
+        "question": "Redstone meşalesi hangi güçte sinyal verir?",
         "answers": [
           "15",
           "20",
@@ -3087,6 +4401,15 @@
           "Magma Cube",
           "Ravager"
         ]
+      },
+      "tr": {
+        "question": "1.19 güncellemesinde hangi yaratık eklendi?",
+        "answers": [
+          "Kurbağa",
+          "Muhafız",
+          "Magma Küpü",
+          "Ravager"
+        ]
       }
     },
     {
@@ -3107,6 +4430,15 @@
           "It must fall into water from a height",
           "It must be struck by lightning",
           "It must pick up a trident"
+        ]
+      },
+      "tr": {
+        "question": "Normal zombinin Boğulmuş'a dönüşmesi için ne gerekir?",
+        "answers": [
+          "Suda boğulması gerekir",
+          "Yükseklikten suya düşmesi gerekir",
+          "Yıldırım çarpması gerekir",
+          "Bir Trident alması gerekir"
         ]
       }
     },
@@ -3129,6 +4461,15 @@
           "Drops from the Wither",
           "Buy from a villager"
         ]
+      },
+      "tr": {
+        "question": "Ölümsüzlük Totemi nasıl elde edilir?",
+        "answers": [
+          "Evoker'dan düşer",
+          "4 zümrüt ve altından üretilir",
+          "Wither'dan düşer",
+          "Köylüden satın alınır"
+        ]
       }
     },
     {
@@ -3149,6 +4490,15 @@
           "It can see through walls",
           "It can teleport behind the player",
           "It is only aggressive in light"
+        ]
+      },
+      "tr": {
+        "question": "Warden'ın ayırt edici özelliği nedir?",
+        "answers": [
+          "Kördür ve sese ve titreşimlere dayanır",
+          "Duvarların içinden görebilir",
+          "Oyuncunun arkasına ışınlanabilir",
+          "Yalnızca ışıkta saldırgandır"
         ]
       }
     },
@@ -3171,6 +4521,15 @@
           "Find it in a Bastion Remnant",
           "Craft it"
         ]
+      },
+      "tr": {
+        "question": "Nether Yıldızı nasıl elde edilir?",
+        "answers": [
+          "Wither'ı öldür",
+          "Bir Ghast'ı öldür",
+          "Bastion Kalıntısı'nda bul",
+          "Üret"
+        ]
       }
     },
     {
@@ -3191,6 +4550,15 @@
           "The water freezes",
           "The water turns into lava",
           "The water flows, but slowly"
+        ]
+      },
+      "tr": {
+        "question": "Nether'e bir kova su dökülürse ne olur?",
+        "answers": [
+          "Su buharlaşır",
+          "Su donar",
+          "Su lave dönüşür",
+          "Su akar ama yavaşça"
         ]
       }
     },
@@ -3213,6 +4581,15 @@
           "It runs after the player and picks up drops",
           "It grows into an Iron Golem over time"
         ]
+      },
+      "tr": {
+        "question": "Bakır Golem ne yapabilir?",
+        "answers": [
+          "Eşyaları bakır sandıklardan alıp normal sandıklara koyar",
+          "Hiçbir şey, sadece dekorasyondur",
+          "Oyuncunun peşinden koşar ve düşen eşyaları toplar",
+          "Zamanla Demir Golem'e dönüşür"
+        ]
       }
     },
     {
@@ -3228,6 +4605,15 @@
       },
       "en": {
         "question": "What is the maximum world height in Java Edition after update 1.18?",
+        "answers": [
+          "320",
+          "256",
+          "384",
+          "512"
+        ]
+      },
+      "tr": {
+        "question": "1.18 güncellemesinden sonra Java Edition'da dünyanın maksimum yüksekliği kaçtır?",
         "answers": [
           "320",
           "256",
@@ -3255,6 +4641,15 @@
           "0",
           "-32"
         ]
+      },
+      "tr": {
+        "question": "1.18 güncellemesinden sonra Java Edition'da dünyanın minimum yüksekliği kaçtır?",
+        "answers": [
+          "-64",
+          "-128",
+          "0",
+          "-32"
+        ]
       }
     },
     {
@@ -3275,6 +4670,15 @@
           "Place 4 End Crystals on the pillars",
           "Throw an Ender Pearl into the center of the portal",
           "Place End Crystals on all the pillars"
+        ]
+      },
+      "tr": {
+        "question": "Ender Ejderhası'nı yeniden doğurmak için ne yapılmalıdır?",
+        "answers": [
+          "Portalın kenarlarına 4 End Crystal yerleştir",
+          "Sütunlara 4 End Crystal yerleştir",
+          "Portalın merkezine bir Ender Pearl fırlat",
+          "Tüm sütunlara End Crystal yerleştir"
         ]
       }
     },
@@ -3297,6 +4701,15 @@
           "Only natural generation",
           "Craft it from a Podzol block and bone meal"
         ]
+      },
+      "tr": {
+        "question": "Çamur Bloğu nasıl elde edilir?",
+        "answers": [
+          "Toprak Bloğu üzerinde su şişesi kullan",
+          "2 toprak bloğu ve 2 çakıl bloğundan üret",
+          "Yalnızca doğal oluşum",
+          "Podzol bloğu ve kemik unundan üret"
+        ]
       }
     },
     {
@@ -3317,6 +4730,15 @@
           "Craft it from 8 obsidian and 1 redstone",
           "A reward for killing the Wither",
           "Buy it from a villager"
+        ]
+      },
+      "tr": {
+        "question": "Hayatta Kalma modunda Komut Bloğu oluşturmak için ne gerekir?",
+        "answers": [
+          "Hayatta kalınca elde edilemez",
+          "8 obsidyen ve 1 redstone'dan üret",
+          "Wither'ı öldürmenin ödülü",
+          "Köylüden satın al"
         ]
       }
     },
@@ -3339,6 +4761,15 @@
           "A world with large biomes",
           "A world with the maximum number of caves"
         ]
+      },
+      "tr": {
+        "question": "'Superflat' dünya nedir?",
+        "answers": [
+          "Düz oluşumlu ve tepesiz bir dünya",
+          "Maksimum boyutta bir dünya",
+          "Büyük biyomlu bir dünya",
+          "Maksimum sayıda mağaralı bir dünya"
+        ]
       }
     },
     {
@@ -3357,6 +4788,15 @@
         "answers": [
           "/teleport",
           "There is no such command",
+          "/goto",
+          "/move"
+        ]
+      },
+      "tr": {
+        "question": "Varlıkları ışınlamak için hangi komut kullanılır?",
+        "answers": [
+          "/teleport",
+          "Böyle bir komut yok",
           "/goto",
           "/move"
         ]
@@ -3381,6 +4821,15 @@
           "Displays chunk borders",
           "Shows FPS"
         ]
+      },
+      "tr": {
+        "question": "Java Edition'da F3 + B tuşlarına basıldığında ne olur?",
+        "answers": [
+          "Yaratıkların ve varlıkların hitbox'larını gösterir",
+          "Biyomları yeniden yükler",
+          "Chunk sınırlarını gösterir",
+          "FPS gösterir"
+        ]
       }
     },
     {
@@ -3401,6 +4850,15 @@
           "Observer",
           "Repeater",
           "Redstone Torch"
+        ]
+      },
+      "tr": {
+        "question": "İki redstone sinyalini karşılaştırmaya veya birini diğerinden çıkarmaya izin veren blok hangisidir?",
+        "answers": [
+          "Karşılaştırıcı",
+          "Gözlemci",
+          "Yineleyici",
+          "Redstone Meşalesi"
         ]
       }
     },
@@ -3423,6 +4881,15 @@
           "1 arrow and 4 gunpowder",
           "1 arrow and 4 fireworks"
         ]
+      },
+      "tr": {
+        "question": "Spektral ok üretmek için ne gerekir?",
+        "answers": [
+          "1 ok ve 4 Işık Taşı tozu",
+          "1 ok, 2 barut ve 2 Işık Taşı tozu",
+          "1 ok ve 4 barut",
+          "1 ok ve 4 havai fişek"
+        ]
       }
     },
     {
@@ -3438,6 +4905,15 @@
       },
       "en": {
         "question": "In which update did the Husk first appear?",
+        "answers": [
+          "1.10",
+          "1.9",
+          "1.11",
+          "1.12"
+        ]
+      },
+      "tr": {
+        "question": "Husk ilk kez hangi güncellemede ortaya çıktı?",
         "answers": [
           "1.10",
           "1.9",
@@ -3465,6 +4941,15 @@
           "1.22",
           "1.20"
         ]
+      },
+      "tr": {
+        "question": "Bakır Golem ilk kez hangi sürümde ortaya çıktı?",
+        "answers": [
+          "1.21",
+          "Asla — yaratık oylamasını kaybetti ve eklenmedi",
+          "1.22",
+          "1.20"
+        ]
       }
     },
     {
@@ -3480,6 +4965,15 @@
       },
       "en": {
         "question": "Which command kills all entities within a radius of 300 blocks (for Java Edition)?",
+        "answers": [
+          "/kill @e[distance=..300]",
+          "/kill @e",
+          "/kill @e[distance=..300, type=!player]",
+          "/remove @e[distance=..300]"
+        ]
+      },
+      "tr": {
+        "question": "300 blok yarıçapındaki tüm varlıkları öldüren komut hangisidir (Java Edition için)?",
         "answers": [
           "/kill @e[distance=..300]",
           "/kill @e",
@@ -3507,6 +5001,15 @@
           "9 small end crystals",
           "4 quartz crystals and 3 glass"
         ]
+      },
+      "tr": {
+        "question": "End Crystal üretmek için ne gerekir?",
+        "answers": [
+          "7 cam, 1 Eye of Ender, 1 Ghast Tear",
+          "7 obsidyen, 1 Ender Pearl",
+          "9 küçük End Crystal",
+          "4 kuvars kristali ve 3 cam"
+        ]
       }
     },
     {
@@ -3528,6 +5031,15 @@
           "Find it near ruined portals",
           "Find it in an Ancient City"
         ]
+      },
+      "tr": {
+        "question": "Demirci Şablonu: Netherit Yükseltme nerede bulunabilir?",
+        "answers": [
+          "Bastion Kalıntısı'nda bul",
+          "Piglin ile takas et",
+          "Harap portalların yakınında bul",
+          "Antik Şehir'de bul"
+        ]
       }
     },
     {
@@ -3543,6 +5055,15 @@
       },
       "en": {
         "question": "How many slots are in a shulker box?",
+        "answers": [
+          "27",
+          "36",
+          "32",
+          "18"
+        ]
+      },
+      "tr": {
+        "question": "Shulker Kutusu'nda kaç yuva vardır?",
         "answers": [
           "27",
           "36",
@@ -3570,6 +5091,15 @@
           "In ruins of past times",
           "In underwater ruins"
         ]
+      },
+      "tr": {
+        "question": "Mace'in başı nerede bulunabilir?",
+        "answers": [
+          "Trial Chamber'larda",
+          "Antik Şehir'de",
+          "Geçmiş zamanların harabelerinde",
+          "Su altı harabelerinde"
+        ]
       }
     },
     {
@@ -3591,6 +5121,15 @@
           "32",
           "128"
         ]
+      },
+      "tr": {
+        "question": "Çoğu blok için maksimum yığın boyutu kaçtır?",
+        "answers": [
+          "64",
+          "99",
+          "32",
+          "128"
+        ]
       }
     },
     {
@@ -3606,6 +5145,15 @@
       },
       "en": {
         "question": "What is the maximum level of the 'Frost Walker' enchantment?",
+        "answers": [
+          "II (2)",
+          "I (1)",
+          "III (3)",
+          "IV (4)"
+        ]
+      },
+      "tr": {
+        "question": "'Frost Walker' büyüsünün maksimum seviyesi nedir?",
         "answers": [
           "II (2)",
           "I (1)",
@@ -3635,6 +5183,15 @@
           "1.6",
           "1.7"
         ]
+      },
+      "tr": {
+        "question": "Redstone karşılaştırıcısı ilk kez hangi sürümde eklendi?",
+        "answers": [
+          "1.5",
+          "1.4",
+          "1.6",
+          "1.7"
+        ]
       }
     },
     {
@@ -3655,6 +5212,15 @@
           "8",
           "16",
           "Unlimited"
+        ]
+      },
+      "tr": {
+        "question": "Tek bir pistonla kaç blok hareket ettirilebilir?",
+        "answers": [
+          "12",
+          "8",
+          "16",
+          "Sınırsız"
         ]
       }
     },
@@ -3677,6 +5243,15 @@
           "Mending",
           "Fire Aspect"
         ]
+      },
+      "tr": {
+        "question": "'Bane of Arthropods' büyüsü hangi büyüyle uyumsuzdur?",
+        "answers": [
+          "Çarpma",
+          "Looting",
+          "Mending",
+          "Alevden Çehre"
+        ]
       }
     },
     {
@@ -3698,6 +5273,15 @@
           "A unit of experience",
           "A game event"
         ]
+      },
+      "tr": {
+        "question": "Minecraft'ta 'tick' nedir?",
+        "answers": [
+          "Bir zaman birimi",
+          "Blokları ölçmek için bir birim",
+          "Bir deneyim birimi",
+          "Bir oyun olayı"
+        ]
       }
     },
     {
@@ -3713,6 +5297,15 @@
       },
       "en": {
         "question": "How many cat variants exist?",
+        "answers": [
+          "11",
+          "12",
+          "10",
+          "13"
+        ]
+      },
+      "tr": {
+        "question": "Kaç kedi çeşidi vardır?",
         "answers": [
           "11",
           "12",
@@ -3740,6 +5333,15 @@
           "7",
           "10"
         ]
+      },
+      "tr": {
+        "question": "Nautilus'un canı kaçtır?",
+        "answers": [
+          "15",
+          "18",
+          "7",
+          "10"
+        ]
       }
     },
     {
@@ -3761,6 +5363,15 @@
           "A save file",
           "An enchantment"
         ]
+      },
+      "tr": {
+        "question": "Minecraft'ta 'chunk' nedir?",
+        "answers": [
+          "Dünyanın 16x16 blokluk bölümü",
+          "Dünyanın 32x32 blokluk bölümü",
+          "Bir kayıt dosyası",
+          "Bir büyü"
+        ]
       }
     },
     {
@@ -3776,6 +5387,15 @@
       },
       "en": {
         "question": "How many wolf variants exist?",
+        "answers": [
+          "9",
+          "10",
+          "11",
+          "8"
+        ]
+      },
+      "tr": {
+        "question": "Kaç kurt çeşidi vardır?",
         "answers": [
           "9",
           "10",
@@ -3803,6 +5423,15 @@
           "The world's loading speed",
           "A code for multiplayer"
         ]
+      },
+      "tr": {
+        "question": "Dünyanın 'seed'i nedir?",
+        "answers": [
+          "Dünya oluşumunu belirleyen bir sayı",
+          "Dünya için önizleme simgesi",
+          "Dünyanın yükleme hızı",
+          "Çok oyunculu için bir kod"
+        ]
       }
     },
     {
@@ -3818,6 +5447,15 @@
       },
       "en": {
         "question": "In which update was the Guardian added?",
+        "answers": [
+          "1.19",
+          "1.18",
+          "1.20",
+          "1.17"
+        ]
+      },
+      "tr": {
+        "question": "Warden hangi güncellemede eklendi?",
         "answers": [
           "1.19",
           "1.18",
@@ -3845,6 +5483,15 @@
           "1.18",
           "1.17"
         ]
+      },
+      "tr": {
+        "question": "Allay hangi güncellemede ortaya çıktı?",
+        "answers": [
+          "1.19",
+          "1.20",
+          "1.18",
+          "1.17"
+        ]
       }
     },
     {
@@ -3860,6 +5507,15 @@
       },
       "en": {
         "question": "How much health does a Warden have?",
+        "answers": [
+          "500",
+          "200",
+          "300",
+          "400"
+        ]
+      },
+      "tr": {
+        "question": "Warden'ın canı kaçtır?",
         "answers": [
           "500",
           "200",
@@ -3887,6 +5543,15 @@
           "A pyramid of 256 blocks",
           "A pyramid of 81 blocks"
         ]
+      },
+      "tr": {
+        "question": "Derece 4 beacon piramidi için ne gerekir?",
+        "answers": [
+          "164 blokluk bir piramit",
+          "100 blokluk bir piramit",
+          "256 blokluk bir piramit",
+          "81 blokluk bir piramit"
+        ]
       }
     },
     {
@@ -3902,6 +5567,15 @@
       },
       "en": {
         "question": "What is the maximum level of the 'Protection' enchantment?",
+        "answers": [
+          "IV (4)",
+          "V (5)",
+          "III (3)",
+          "II (2)"
+        ]
+      },
+      "tr": {
+        "question": "'Koruma' büyüsünün maksimum seviyesi nedir?",
         "answers": [
           "IV (4)",
           "V (5)",
@@ -3929,6 +5603,15 @@
           "4",
           "12"
         ]
+      },
+      "tr": {
+        "question": "Üst Dünya'da kaç blok yol, Nether'de bir blok yoluna karşılık gelir?",
+        "answers": [
+          "8",
+          "2",
+          "4",
+          "12"
+        ]
       }
     },
     {
@@ -3950,6 +5633,15 @@
           "Cannot be crafted, only bought from a villager blacksmith",
           "Cannot be crafted, only bought from a wandering trader"
         ]
+      },
+      "tr": {
+        "question": "Netherit şablonunu oluşturmak için ne gerekir?",
+        "answers": [
+          "Üretilemez, yalnızca bastionlarda bulunur",
+          "7 elmas ve 1 netherit",
+          "Üretilemez, yalnızca köylü demirciden satın alınır",
+          "Üretilemez, yalnızca gezgin tüccardan satın alınır"
+        ]
       }
     },
     {
@@ -3965,6 +5657,15 @@
       },
       "en": {
         "question": "What is the maximum level of the 'Sharpness' enchantment?",
+        "answers": [
+          "V (5)",
+          "III (3)",
+          "IV (4)",
+          "II (2)"
+        ]
+      },
+      "tr": {
+        "question": "'Keskinlik' büyüsünün maksimum seviyesi nedir?",
         "answers": [
           "V (5)",
           "III (3)",
@@ -3992,6 +5693,15 @@
           "Reloads shaders",
           "Opens the debugger"
         ]
+      },
+      "tr": {
+        "question": "Java Edition'da F3 + G tuşlarına basıldığında ne olur?",
+        "answers": [
+          "Chunk sınırlarını gösterir",
+          "Hitbox'ları gösterir",
+          "Shader'ları yeniden yükler",
+          "Hata ayıklayıcıyı açar"
+        ]
       }
     },
     {
@@ -4013,6 +5723,15 @@
           "Additional textures",
           "A mod adding new mobs"
         ]
+      },
+      "tr": {
+        "question": "Java Edition'da 'Data Pack' nedir?",
+        "answers": [
+          "Modlar olmadan oyun davranışını değiştiren özel bir veri paketi",
+          "Mojang'dan resmi bir DLC",
+          "Ek dokular",
+          "Yeni yaratıklar ekleyen bir mod"
+        ]
       }
     },
     {
@@ -4028,6 +5747,15 @@
       },
       "en": {
         "question": "In which update did horses appear?",
+        "answers": [
+          "1.6",
+          "1.5",
+          "1.7",
+          "1.4"
+        ]
+      },
+      "tr": {
+        "question": "Atlar hangi güncellemede ortaya çıktı?",
         "answers": [
           "1.6",
           "1.5",
@@ -4055,6 +5783,15 @@
           "They become a wandering trader",
           "They teach other villagers"
         ]
+      },
+      "tr": {
+        "question": "Maksimum takas seviyesine ulaşan köylüye ne olur?",
+        "answers": [
+          "Uzmanlıklarını işaretleyen bir rozet alırlar",
+          "Benzersiz bir eşya teklif ederler",
+          "Gezgin tüccara dönüşürler",
+          "Diğer köylüleri eğitirler"
+        ]
       }
     },
     {
@@ -4070,6 +5807,15 @@
       },
       "en": {
         "question": "What is the file that stores world data in Java Edition called?",
+        "answers": [
+          "level.dat",
+          "world.nbt",
+          "save.dat",
+          "minecraft.world"
+        ]
+      },
+      "tr": {
+        "question": "Java Edition'da dünya verilerini depolayan dosya ne adla anılır?",
         "answers": [
           "level.dat",
           "world.nbt",
@@ -4097,6 +5843,15 @@
           "12",
           "14"
         ]
+      },
+      "tr": {
+        "question": "Soul Lantern'in ışık seviyesi kaçtır?",
+        "answers": [
+          "10",
+          "15",
+          "12",
+          "14"
+        ]
       }
     },
     {
@@ -4117,6 +5872,15 @@
           "5,000 blocks",
           "10,000 blocks",
           "3,000 blocks"
+        ]
+      },
+      "tr": {
+        "question": "Son'un dış adaları merkezi adadan hangi mesafededir?",
+        "answers": [
+          "1.000 blok",
+          "5.000 blok",
+          "10.000 blok",
+          "3.000 blok"
         ]
       }
     },
@@ -4139,6 +5903,15 @@
           "It can interact with note blocks and play music",
           "It can scare phantoms away from the player"
         ]
+      },
+      "tr": {
+        "question": "Allay ne yapabilir?",
+        "answers": [
+          "Eşyaları taşıyabilir ve oyuncuya verebilir veya nota bloğu doğrultusunda fırlatabilir",
+          "Oyuncunun üzerinde uçar ve müzik çalar",
+          "Nota bloklarıyla etkileşime geçebilir ve müzik çalabilir",
+          "Phantom'ları oyuncudan uzaklaştırabilir"
+        ]
       }
     },
     {
@@ -4160,6 +5933,15 @@
           "Find it in a shipwreck",
           "Drop from an Elder Guardian in an Ocean Monument"
         ]
+      },
+      "tr": {
+        "question": "Vanilla Java Edition'da su altı TNT nasıl elde edilir?",
+        "answers": [
+          "Mümkün değil, böyle bir eşya yok",
+          "Gezgin tüccardan satın al",
+          "Batık gemide bul",
+          "Okyanus Anıtı'ndaki Elder Guardian'dan düşer"
+        ]
       }
     },
     {
@@ -4175,6 +5957,15 @@
       },
       "en": {
         "question": "What is the maximum level of the 'Blast Protection' enchantment?",
+        "answers": [
+          "IV (4)",
+          "V (5)",
+          "III (3)",
+          "II (2)"
+        ]
+      },
+      "tr": {
+        "question": "'Blast Protection' büyüsünün maksimum seviyesi nedir?",
         "answers": [
           "IV (4)",
           "V (5)",
@@ -4202,6 +5993,15 @@
           "Name them with a name tag",
           "Trap them inside a building"
         ]
+      },
+      "tr": {
+        "question": "Bir köylünün mesleğini sabitlemek için ne gerekir?",
+        "answers": [
+          "En az bir takas tamamla",
+          "Yanına bir çalışma yeri bloğu yerleştir",
+          "İsim etiketiyle adlandır",
+          "Bir binanın içine kapat"
+        ]
       }
     },
     {
@@ -4222,6 +6022,15 @@
           "Enchantments are removed",
           "The item breaks",
           "The enchantment level decreases by 1"
+        ]
+      },
+      "tr": {
+        "question": "Örs'te onarım yapıldığında eşyalardaki büyülere ne olur?",
+        "answers": [
+          "Büyüler korunur ve birleştirilebilir",
+          "Büyüler kaldırılır",
+          "Eşya kırılır",
+          "Büyü seviyesi 1 düşer"
         ]
       }
     },
@@ -4244,6 +6053,15 @@
           "12",
           "It gives off no signal"
         ]
+      },
+      "tr": {
+        "question": "Oymalı Kitaplık maksimum hangi redstone sinyalini verebilir?",
+        "answers": [
+          "6",
+          "2",
+          "12",
+          "Sinyal vermez"
+        ]
       }
     },
     {
@@ -4263,6 +6081,15 @@
           "Observer",
           "Comparator",
           "Repeater",
+          "Piston"
+        ]
+      },
+      "tr": {
+        "question": "Komşu bir bloktaki değişikliği algıladığında kısa bir darbe veren blok hangisidir?",
+        "answers": [
+          "Gözlemci",
+          "Karşılaştırıcı",
+          "Yineleyici",
           "Piston"
         ]
       }
@@ -4286,6 +6113,15 @@
           "A Netherite ingot",
           "Crying Obsidian"
         ]
+      },
+      "tr": {
+        "question": "Diriltici'yi şarj etmek için ne gerekir?",
+        "answers": [
+          "Bir Işık Taşı bloğu",
+          "Bir Redstone bloğu",
+          "Bir Netherit külçe",
+          "Ağlayan Obsidyen"
+        ]
       }
     },
     {
@@ -4307,6 +6143,15 @@
           "8 Crying Obsidian and 1 Glowstone block",
           "8 obsidian and 1 netherite brick"
         ]
+      },
+      "tr": {
+        "question": "Diriltici oluşturmak için ne gerekir?",
+        "answers": [
+          "6 Ağlayan Obsidyen ve 3 Işık Taşı bloğu",
+          "3 Ağlayan Obsidyen ve 6 Işık Taşı bloğu",
+          "8 Ağlayan Obsidyen ve 1 Işık Taşı bloğu",
+          "8 obsidyen ve 1 netherit tuğla"
+        ]
       }
     },
     {
@@ -4322,6 +6167,15 @@
       },
       "en": {
         "question": "In which update did axolotls appear?",
+        "answers": [
+          "1.17",
+          "1.16",
+          "1.18",
+          "1.19"
+        ]
+      },
+      "tr": {
+        "question": "Aksolotllar hangi güncellemede ortaya çıktı?",
         "answers": [
           "1.17",
           "1.16",
@@ -4349,6 +6203,15 @@
           "An underwater skeleton",
           "A tundra skeleton with a trident"
         ]
+      },
+      "tr": {
+        "question": "Stray nedir ve nerede ortaya çıkar?",
+        "answers": [
+          "Karlı biyomlardan bir iskelet",
+          "Nadir bir Nether iskeleti",
+          "Su altı bir iskelet",
+          "Trident taşıyan tundra iskeleti"
+        ]
       }
     },
     {
@@ -4370,6 +6233,15 @@
           "A boss of the End dimension",
           "A hostile guardian mob of the Ancient City"
         ]
+      },
+      "tr": {
+        "question": "Evoker nedir ve nerede ortaya çıkar?",
+        "answers": [
+          "Köşkte düşman bir illager yaratığı",
+          "İksir satan bir köylü mesleği",
+          "Son boyutunun bir bossu",
+          "Antik Şehir'in düşman bekçi yaratığı"
+        ]
       }
     },
     {
@@ -4385,6 +6257,15 @@
       },
       "en": {
         "question": "In which year did Microsoft acquire Mojang?",
+        "answers": [
+          "2014",
+          "2016",
+          "2015",
+          "2013"
+        ]
+      },
+      "tr": {
+        "question": "Microsoft Mojang'ı hangi yıl satın aldı?",
         "answers": [
           "2014",
           "2016",
@@ -4412,6 +6293,15 @@
           "Break through the top layer of Nether blocks with a pickaxe",
           "The player dies immediately upon getting there"
         ]
+      },
+      "tr": {
+        "question": "Nether'in çatısına nasıl çıkılır?",
+        "answers": [
+          "Piston ve TNT ile veya Ender Pearl kullanarak merdivenle",
+          "Elytra ile oraya uç",
+          "Kazma ile Nether bloklarının üst katmanını kır",
+          "Oyuncu oraya ulaşır ulaşmaz ölür"
+        ]
       }
     },
     {
@@ -4432,6 +6322,15 @@
           "Snowy Taiga",
           "Jungle",
           "Old Growth Birch Forest"
+        ]
+      },
+      "tr": {
+        "question": "Trail Ruins hangi biyomlarda oluşamaz?",
+        "answers": [
+          "Karanlık Orman",
+          "Karlı Taiga",
+          "Yağmur Ormanı",
+          "Yaşlı Huş Ormanı"
         ]
       }
     },
@@ -4454,6 +6353,15 @@
           "-16 to -64",
           "0 to -32"
         ]
+      },
+      "tr": {
+        "question": "1.18 güncellemesinden sonra elmaslar hangi Y seviyesinde en sık üretilir?",
+        "answers": [
+          "16'dan -64'e",
+          "0'dan -16'ya",
+          "-16'dan -64'e",
+          "0'dan -32'ye"
+        ]
       }
     },
     {
@@ -4469,6 +6377,15 @@
       },
       "en": {
         "question": "What is the maximum level of the 'Efficiency' enchantment?",
+        "answers": [
+          "V (5)",
+          "IV (4)",
+          "X (10)",
+          "III (3)"
+        ]
+      },
+      "tr": {
+        "question": "'Verimlilik' büyüsünün maksimum seviyesi nedir?",
         "answers": [
           "V (5)",
           "IV (4)",
@@ -4496,6 +6413,15 @@
           "III (3)",
           "V (5)"
         ]
+      },
+      "tr": {
+        "question": "'Alevden Çehre' büyüsünün maksimum seviyesi nedir?",
+        "answers": [
+          "II (2)",
+          "IV (4)",
+          "III (3)",
+          "V (5)"
+        ]
       }
     },
     {
@@ -4511,6 +6437,15 @@
       },
       "en": {
         "question": "How many painting variants exist?",
+        "answers": [
+          "47",
+          "41",
+          "28",
+          "32"
+        ]
+      },
+      "tr": {
+        "question": "Kaç tablo çeşidi vardır?",
         "answers": [
           "47",
           "41",
@@ -4538,6 +6473,15 @@
           "20",
           "23"
         ]
+      },
+      "tr": {
+        "question": "Oyunda kaç müzik plağı vardır?",
+        "answers": [
+          "22",
+          "21",
+          "20",
+          "23"
+        ]
       }
     },
     {
@@ -4553,6 +6497,15 @@
       },
       "en": {
         "question": "How much experience drops when defeating the Ender Dragon for the first time?",
+        "answers": [
+          "12000",
+          "5000",
+          "7000",
+          "18000"
+        ]
+      },
+      "tr": {
+        "question": "Ender Ejderhası ilk kez yenildiğinde kaç deneyim düşer?",
         "answers": [
           "12000",
           "5000",
@@ -4580,6 +6533,15 @@
           "6",
           "3"
         ]
+      },
+      "tr": {
+        "question": "Kaç aksolotl renk çeşidi vardır?",
+        "answers": [
+          "5",
+          "4",
+          "6",
+          "3"
+        ]
       }
     },
     {
@@ -4601,6 +6563,15 @@
           "Find it near coral reefs",
           "Buy it from a fisherman villager"
         ]
+      },
+      "tr": {
+        "question": "Nadir mavi aksolotl nasıl elde edilir?",
+        "answers": [
+          "Yalnızca üretme yoluyla",
+          "Lush Caves biyomunda bul",
+          "Mercan resiflerinin yakınında bul",
+          "Balıkçı köylüden satın al"
+        ]
       }
     },
     {
@@ -4616,6 +6587,15 @@
       },
       "en": {
         "question": "Which armor trim does not exist?",
+        "answers": [
+          "Rift",
+          "Silence",
+          "Coast",
+          "Eye"
+        ]
+      },
+      "tr": {
+        "question": "Hangi zırh süslemesi yoktur?",
         "answers": [
           "Rift",
           "Silence",
@@ -4643,6 +6623,15 @@
           "About 600 by 600 million blocks",
           "About 6 by 6 million blocks"
         ]
+      },
+      "tr": {
+        "question": "Minecraft'ta dünyanın boyutu nedir?",
+        "answers": [
+          "Yaklaşık 60x60 milyon blok",
+          "Yaklaşık 30x30 milyon blok",
+          "Yaklaşık 600x600 milyon blok",
+          "Yaklaşık 6x6 milyon blok"
+        ]
       }
     },
     {
@@ -4663,6 +6652,15 @@
           "There is no such armor",
           "Craft it from leather and iron",
           "Find it in a Trial Chamber"
+        ]
+      },
+      "tr": {
+        "question": "Kurt zırhı nasıl elde edilir?",
+        "answers": [
+          "Armadillo Scutes'tan üret",
+          "Böyle bir zırh yok",
+          "Deri ve demirden üret",
+          "Trial Chamber'da bul"
         ]
       }
     },
@@ -4685,6 +6683,15 @@
           "Sandstone",
           "Copper Block"
         ]
+      },
+      "tr": {
+        "question": "'Vex' zırh süslemesini çoğaltmak için hangi malzeme gerekir?",
+        "answers": [
+          "Yontulmuş taş",
+          "Terrakota",
+          "Kumtaşı",
+          "Bakır Bloğu"
+        ]
       }
     },
     {
@@ -4706,6 +6713,15 @@
           "Vindicator",
           "Allay"
         ]
+      },
+      "tr": {
+        "question": "Orman Köşkü'nde hangi yaratıkla karşılaşılmaz?",
+        "answers": [
+          "Yağmacı",
+          "Evoker",
+          "Kellekesen",
+          "Allay"
+        ]
       }
     },
     {
@@ -4721,6 +6737,15 @@
       },
       "en": {
         "question": "What is the version of Minecraft developed specifically for educational institutions called?",
+        "answers": [
+          "Minecraft Education Edition",
+          "Minecraft School Edition",
+          "Minecraft Learning Edition",
+          "Minecraft Academic Edition"
+        ]
+      },
+      "tr": {
+        "question": "Özel olarak eğitim kurumları için geliştirilmiş Minecraft sürümü ne adla anılır?",
         "answers": [
           "Minecraft Education Edition",
           "Minecraft School Edition",
@@ -4750,6 +6775,15 @@
           "12 blocks",
           "8 blocks"
         ]
+      },
+      "tr": {
+        "question": "Kalibre Edilmiş Sculk Sensörü sesi hangi mesafede algılayabilir?",
+        "answers": [
+          "16 blok",
+          "24 blok",
+          "12 blok",
+          "8 blok"
+        ]
       }
     },
     {
@@ -4771,6 +6805,15 @@
           "Pufferfish",
           "Carrot"
         ]
+      },
+      "tr": {
+        "question": "Oyuncunun evcilleştirdiği kedi ne hediye getirebilir?",
+        "answers": [
+          "İplik",
+          "Çiğ Morina",
+          "Balon Balığı",
+          "Havuç"
+        ]
       }
     },
     {
@@ -4786,6 +6829,15 @@
       },
       "en": {
         "question": "Which music disc gives off a redstone signal strength of 5 when playing in a jukebox?",
+        "answers": [
+          "far",
+          "blocks",
+          "cat",
+          "wait"
+        ]
+      },
+      "tr": {
+        "question": "Jukebox'ta çalarken 5 güçte redstone sinyali veren plağa hangisidir?",
         "answers": [
           "far",
           "blocks",
@@ -4813,6 +6865,15 @@
           "Raw Chicken",
           "Phantom Membrane"
         ]
+      },
+      "tr": {
+        "question": "Oyuncunun evcilleştirdiği kedi ne hediye getiremez?",
+        "answers": [
+          "Örümcek Gözü",
+          "Çürük Et",
+          "Çiğ Tavuk",
+          "Phantom Membranı"
+        ]
       }
     },
     {
@@ -4828,6 +6889,15 @@
       },
       "en": {
         "question": "Approximately what percentage of the world's area does the Mushroom Fields biome cover?",
+        "answers": [
+          "0.15%",
+          "0.5%",
+          "1.5%",
+          "3%"
+        ]
+      },
+      "tr": {
+        "question": "Mantar Tarlaları biyomu dünyanın yaklaşık ne kadarını kaplar?",
         "answers": [
           "0.15%",
           "0.5%",
@@ -4855,6 +6925,15 @@
           "Poppy",
           "Dandelion"
         ]
+      },
+      "tr": {
+        "question": "Zehirlenme etkisi yapan şüpheli çorba için hangi ek malzeme gerekir?",
+        "answers": [
+          "Çan Çiçeği",
+          "Cornflower",
+          "Gelincik",
+          "Karahindiba"
+        ]
       }
     },
     {
@@ -4870,6 +6949,15 @@
       },
       "en": {
         "question": "Which music disc can be found in an Ancient City?",
+        "answers": [
+          "otherside",
+          "Bounce",
+          "Pigstep",
+          "wait"
+        ]
+      },
+      "tr": {
+        "question": "Antik Şehir'de hangi müzik plağı bulunabilir?",
         "answers": [
           "otherside",
           "Bounce",
@@ -4897,6 +6985,15 @@
           "A block of ice appears, but the player takes no fall damage",
           "The player sinks into the water, ice appears on the surface above the player"
         ]
+      },
+      "tr": {
+        "question": "Frost Walker büyüsüyle güçlendirilmiş botlar giyen oyuncu büyük bir yükseklikten suya düşerse ne olur?",
+        "answers": [
+          "Oyuncu suya batar, buz oluşmaz",
+          "Bir buz bloğu belirir ve oyuncu düşme hasarı alır",
+          "Bir buz bloğu belirir ama oyuncu düşme hasarı almaz",
+          "Oyuncu suya batar, oyuncunun üzerindeki yüzeyde buz oluşur"
+        ]
       }
     },
     {
@@ -4918,6 +7015,15 @@
           "Approximately 135,000 to 155,000",
           "Approximately 240,000 to 550,000"
         ]
+      },
+      "tr": {
+        "question": "Java Edition'da Son boyutunda belirli koordinatlarda ada oluşmasını engelleyen bir özellik vardır. Bu koordinatlar nelerdir?",
+        "answers": [
+          "Yaklaşık 370.000 ile 525.000 arası",
+          "Yaklaşık 35.000 ile 55.000 arası",
+          "Yaklaşık 135.000 ile 155.000 arası",
+          "Yaklaşık 240.000 ile 550.000 arası"
+        ]
       }
     },
     {
@@ -4933,6 +7039,15 @@
       },
       "en": {
         "question": "What input redstone signal strength must be given to a Calibrated Sculk Sensor for it to detect eating and drinking?",
+        "answers": [
+          "8",
+          "5",
+          "6",
+          "1"
+        ]
+      },
+      "tr": {
+        "question": "Yeme ve içme eylemlerini algılaması için Kalibre Edilmiş Sculk Sensörü'ne hangi giriş redstone sinyali verilmelidir?",
         "answers": [
           "8",
           "5",
@@ -4960,6 +7075,15 @@
           "A Sculk Shrieker summons the Warden after 5 activations",
           "A Sculk Shrieker summons the Warden after 1 activation"
         ]
+      },
+      "tr": {
+        "question": "Antik Şehir'de yaşayan Warden nasıl çağrılır?",
+        "answers": [
+          "Bir Sculk Shrieker, 4 aktivasyondan sonra Warden'ı çağırır",
+          "Bir Sculk Shrieker, 3 aktivasyondan sonra Warden'ı çağırır",
+          "Bir Sculk Shrieker, 5 aktivasyondan sonra Warden'ı çağırır",
+          "Bir Sculk Shrieker, 1 aktivasyondan sonra Warden'ı çağırır"
+        ]
       }
     },
     {
@@ -4975,6 +7099,15 @@
       },
       "en": {
         "question": "Which armor trim does not exist?",
+        "answers": [
+          "Hook",
+          "Host",
+          "Snout",
+          "Bolt"
+        ]
+      },
+      "tr": {
+        "question": "Hangi zırh süslemesi yoktur?",
         "answers": [
           "Hook",
           "Host",
@@ -5002,6 +7135,15 @@
           "1.12",
           "1.16"
         ]
+      },
+      "tr": {
+        "question": "Köylü meslek sistemi hangi güncellemede ortaya çıktı?",
+        "answers": [
+          "1.14",
+          "1.13",
+          "1.12",
+          "1.16"
+        ]
       }
     },
     {
@@ -5017,6 +7159,15 @@
       },
       "en": {
         "question": "At which Y level is the most Ancient Debris generated on average?",
+        "answers": [
+          "16",
+          "8",
+          "50",
+          "24"
+        ]
+      },
+      "tr": {
+        "question": "Ancient Debris ortalama olarak en çok hangi Y seviyesinde üretilir?",
         "answers": [
           "16",
           "8",
@@ -5044,6 +7195,15 @@
           "A block that summons the Warden",
           "A decorative block in the Ancient City"
         ]
+      },
+      "tr": {
+        "question": "Sculk Katalizörü nedir?",
+        "answers": [
+          "Yakındaki yaratıklar öldüğünde Sculk Sensörleri ve Sculk Shrieker'lar oluşturan blok",
+          "Yaratıklar çağıran blok",
+          "Warden çağıran blok",
+          "Antik Şehir'de dekoratif blok"
+        ]
       }
     },
     {
@@ -5064,6 +7224,15 @@
           "Dandelion",
           "Blue Orchid",
           "Tulip"
+        ]
+      },
+      "tr": {
+        "question": "Zıplama etkisi yapan şüpheli çorba için hangi ek malzeme gerekir?",
+        "answers": [
+          "Cornflower",
+          "Karahindiba",
+          "Mavi Orkide",
+          "Lale"
         ]
       }
     },
@@ -5086,6 +7255,15 @@
           "6 blocks",
           "12 blocks"
         ]
+      },
+      "tr": {
+        "question": "Sculk Sensörü sesi hangi mesafede algılayabilir?",
+        "answers": [
+          "8 blok",
+          "10 blok",
+          "6 blok",
+          "12 blok"
+        ]
       }
     },
     {
@@ -5106,6 +7284,15 @@
           "The signal level indicates the number of any books",
           "The signal level indicates the number of enchanted books",
           "If there is at least one book, it gives off a signal of 15"
+        ]
+      },
+      "tr": {
+        "question": "Oymalı Kitaplık hangi ilkeye göre redstone sinyali verir?",
+        "answers": [
+          "Sinyal seviyesi, en son etkileşime geçilen yuvayı gösterir",
+          "Sinyal seviyesi herhangi bir kitap sayısını gösterir",
+          "Sinyal seviyesi büyülü kitap sayısını gösterir",
+          "En az bir kitap varsa 15 seviyesinde sinyal verir"
         ]
       }
     },
@@ -5128,6 +7315,15 @@
           "Eating and drinking",
           "Movement"
         ]
+      },
+      "tr": {
+        "question": "Giriş sinyali gücü 5 verilen Kalibre Edilmiş Sculk Sensörü ne algılayabilir?",
+        "answers": [
+          "Varlıklardan inme veya ekipman giyme",
+          "Herhangi bir ses",
+          "Yeme ve içme",
+          "Hareket"
+        ]
       }
     },
     {
@@ -5148,6 +7344,15 @@
           "Drop from a charged creeper killed by a skeleton",
           "In treasure chests",
           "In Bastion Remnants"
+        ]
+      },
+      "tr": {
+        "question": "'Relic' müzik plağı nasıl elde edilebilir?",
+        "answers": [
+          "Yalnızca plak parçalarını kazarak ve sonra üreterek",
+          "Bir iskelet tarafından öldürülen şarjlı creeper'dan düşer",
+          "Hazine sandıklarında",
+          "Bastion Kalıntıları'nda"
         ]
       }
     },
@@ -5170,6 +7375,15 @@
           "Gravel",
           "Soul Sand"
         ]
+      },
+      "tr": {
+        "question": "Piglin altın karşılığında ne atamaz?",
+        "answers": [
+          "Magma Bloğu",
+          "Deri",
+          "Çakıl",
+          "Ruh Kumu"
+        ]
       }
     },
     {
@@ -5191,6 +7405,15 @@
           "Dune",
           "Rib"
         ]
+      },
+      "tr": {
+        "question": "Trial Chamber'da hangi zırh süslemesi bulunabilir?",
+        "answers": [
+          "Bolt",
+          "Eye",
+          "Dune",
+          "Rib"
+        ]
       }
     },
     {
@@ -5206,6 +7429,15 @@
       },
       "en": {
         "question": "Which armor trim can be found in an End City?",
+        "answers": [
+          "Spire",
+          "Silence",
+          "Wing",
+          "Wayfinder"
+        ]
+      },
+      "tr": {
+        "question": "Son Şehri'nde hangi zırh süslemesi bulunabilir?",
         "answers": [
           "Spire",
           "Silence",
