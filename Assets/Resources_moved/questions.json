@@ -31,6 +31,36 @@
       }
     },
     {
+      "id": 2,
+      "ru": {
+        "question": "Крафт какого предмета изображен?",
+        "answers": [
+          "Тыквенный пирог",
+          "Торт",
+          "Тыквенное печенье",
+          "Хлеб"
+        ]
+      },
+      "en": {
+        "question": "Which item's crafting recipe is shown?",
+        "answers": [
+          "Pumpkin Pie",
+          "Cake",
+          "Pumpkin Cookie",
+          "Bread"
+        ]
+      },
+      "tr": {
+        "question": "Hangi eşyanın üretim tarifi gösteriliyor?",
+        "answers": [
+          "Balkabağı Turtası",
+          "Kek",
+          "Balkabağı Kurabiyesi",
+          "Ekmek"
+        ]
+      }
+    },
+    {
       "id": 4,
       "ru": {
         "question": "Какой инструмент нужен для добычи дерева?",
@@ -391,6 +421,36 @@
       }
     },
     {
+      "id": 16,
+      "ru": {
+        "question": "В каком обновлении были добавлены ступеньки и полублоки из шерсти?",
+        "answers": [
+          "26.3",
+          "26.2",
+          "26.1",
+          "26.4"
+        ]
+      },
+      "en": {
+        "question": "In which update were wool stairs and slabs added?",
+        "answers": [
+          "26.3",
+          "26.2",
+          "26.1",
+          "26.4"
+        ]
+      },
+      "tr": {
+        "question": "Yün merdivenler ve yarım bloklar hangi güncellemede eklendi?",
+        "answers": [
+          "26.3",
+          "26.2",
+          "26.1",
+          "26.4"
+        ]
+      }
+    },
+    {
       "id": 17,
       "ru": {
         "question": "Какой моб атакует только ночью?",
@@ -507,6 +567,36 @@
           "Domuz",
           "At",
           "Nautilus"
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "ru": {
+        "question": "В каком обновлении был добавлен биом пёстрый лес?",
+        "answers": [
+          "26.3",
+          "26.2",
+          "26.1",
+          "26.4"
+        ]
+      },
+      "en": {
+        "question": "In which update was the Dappled forest added?",
+        "answers": [
+          "26.3",
+          "26.2",
+          "26.1",
+          "26.4"
+        ]
+      },
+      "tr": {
+        "question": "Benekli orman biyomu hangi güncellemede eklendi?",
+        "answers": [
+          "26.3",
+          "26.2",
+          "26.1",
+          "26.4"
         ]
       }
     },
@@ -1355,8 +1445,8 @@
       "ru": {
         "question": "Какой урон у железного меча?",
         "answers": [
+          "6",
           "7",
-          "8",
           "5",
           "4"
         ]
@@ -1364,8 +1454,8 @@
       "en": {
         "question": "How much damage does an iron sword deal?",
         "answers": [
+          "6",
           "7",
-          "8",
           "5",
           "4"
         ]
@@ -1373,8 +1463,8 @@
       "tr": {
         "question": "Demir kılıcın hasarı kaçtır?",
         "answers": [
+          "6",
           "7",
-          "8",
           "5",
           "4"
         ]
@@ -1623,7 +1713,7 @@
     {
       "id": 68,
       "ru": {
-        "question": "Что дропает гаст при убийстве?",
+        "question": "Что дропает Гаст при убийстве?",
         "answers": [
           "Слеза гаста и порох",
           "Огненный шар и слеза",
@@ -1677,6 +1767,36 @@
           "Meşe",
           "Ladin",
           "Koyu Meşe"
+        ]
+      }
+    },
+    {
+      "id": 71,
+      "ru": {
+        "question": "Крафт какого предмета изображен?",
+        "answers": [
+          "Раздатчик",
+          "Выбрасыватель",
+          "Сборщик",
+          "Наблюдатель"
+        ]
+      },
+      "en": {
+        "question": "Which item's crafting recipe is shown?",
+        "answers": [
+          "Dispenser",
+          "Dropper",
+          "Crafter",
+          "Observer"
+        ]
+      },
+      "tr": {
+        "question": "Hangi eşyanın üretim tarifi gösteriliyor?",
+        "answers": [
+          "Fırlatıcı",
+          "Bırakıcı",
+          "Üretici",
+          "Gözlemci"
         ]
       }
     },
@@ -1743,7 +1863,7 @@
     {
       "id": 76,
       "ru": {
-        "question": "Какой инструмент лучше всего добывает гравий?",
+        "question": "Каким инструментом эффективнее всего добывать гравий?",
         "answers": [
           "Лопата",
           "Кирка",
@@ -1863,30 +1983,60 @@
     {
       "id": 81,
       "ru": {
-        "question": "Что нужно для крафта торта?",
+        "question": "Крафт какого предмета изображен?",
         "answers": [
-          "3 пшеницы, 2 сахара, 1 яйцо, 3 молока",
-          "3 пшеницы, 2 яйца, 3 молока, 1 сахар",
-          "3 пшеницы, 3 яйца, 1 молоко",
-          "2 пшеницы, 1 сахар, 2 яйца, 2 молока"
+          "Торт",
+          "Пирог",
+          "Печенье",
+          "Тесто"
         ]
       },
       "en": {
-        "question": "What is needed to craft a cake?",
+        "question": "Which item's crafting recipe is shown?",
         "answers": [
-          "3 wheat, 2 sugar, 1 egg, 3 milk",
-          "3 wheat, 2 eggs, 3 milk, 1 sugar",
-          "3 wheat, 3 eggs, 1 milk",
-          "2 wheat, 1 sugar, 2 eggs, 2 milk"
+          "Cake",
+          "Pie",
+          "Cookie",
+          "Dough"
         ]
       },
       "tr": {
-        "question": "Pasta üretmek için ne gerekir?",
+        "question": "Hangi eşyanın üretim tarifi gösteriliyor?",
         "answers": [
-          "3 buğday, 2 şeker, 1 yumurta, 3 süt",
-          "3 buğday, 2 yumurta, 3 süt, 1 şeker",
-          "3 buğday, 3 yumurta, 1 süt",
-          "2 buğday, 1 şeker, 2 yumurta, 2 süt"
+          "Kek",
+          "Turta",
+          "Kurabiye",
+          "Hamur"
+        ]
+      }
+    },
+    {
+      "id": 82,
+      "ru": {
+        "question": "Крафт какого предмета изображен?",
+        "answers": [
+          "Поршень",
+          "Раздатчик",
+          "Сборщик",
+          "Наблюдатель"
+        ]
+      },
+      "en": {
+        "question": "Which item's crafting recipe is shown?",
+        "answers": [
+          "Piston",
+          "Dispenser",
+          "Crafter",
+          "Observer"
+        ]
+      },
+      "tr": {
+        "question": "Hangi eşyanın üretim tarifi gösteriliyor?",
+        "answers": [
+          "Piston",
+          "Fırlatıcı",
+          "Üretici",
+          "Gözlemci"
         ]
       }
     },
@@ -2073,12 +2223,12 @@
     {
       "id": 91,
       "ru": {
-        "question": "Что дропает эндермен при убийстве?",
+        "question": "Что дропает Эндермен при убийстве?",
         "answers": [
           "Эндер-жемчуг",
           "Частицы Края",
           "Кристалл Края",
-          "Око Края"
+          "Око Эндера"
         ]
       },
       "en": {
@@ -2093,10 +2243,10 @@
       "tr": {
         "question": "Enderman öldürülünce ne düşürür?",
         "answers": [
-          "Ender Pearl",
+          "Ender İncisi",
           "Son parçacıkları",
-          "End Crystal",
-          "Eye of Ender"
+          "End Kristali",
+          "Ender Güzü"
         ]
       }
     },
@@ -2193,7 +2343,7 @@
     {
       "id": 97,
       "ru": {
-        "question": "Как называется биом Minecraft в Java Edition, на котором не спавнятся враждебные мобы?",
+        "question": "Как называется биом Minecraft в Java Edition, в котором не спавнятся враждебные мобы?",
         "answers": [
           "Грибной остров",
           "Ледяные шипы",
@@ -2455,7 +2605,7 @@
       "tr": {
         "question": "Bir eşyadan büyü nasıl kaldırılır?",
         "answers": [
-          "Değirmen taşı kullan",
+          "Bileme Taşı kullan",
           "Demirci Masası kullan",
           "Lava'ya at",
           "Yolu yok"
@@ -2975,30 +3125,30 @@
     {
       "id": 120,
       "ru": {
-        "question": "Что нужно для создания маяка?",
+        "question": "Крафт какого предмета изображен?",
         "answers": [
-          "1 звезда Незера, 3 обсидиана, 5 стекла",
-          "1 звезды Незера, 4 обсидиана, 4 стекла",
-          "1 алмаз, 3 обсидиана, 5 стекла",
-          "3 звезды Незера и 6 стекла"
+          "Маяк",
+          "Кристалл Края",
+          "Стол зачаровывания",
+          "Якорь возрождения"
         ]
       },
       "en": {
-        "question": "What is needed to create a Beacon?",
+        "question": "Which item's crafting recipe is shown?",
         "answers": [
-          "1 Nether Star, 3 obsidian, 5 glass",
-          "1 Nether Star, 4 obsidian, 4 glass",
-          "1 diamond, 3 obsidian, 5 glass",
-          "3 Nether Stars and 6 glass"
+          "Beacon",
+          "End Crystal",
+          "Enchanting Table",
+          "Respawn Anchor"
         ]
       },
       "tr": {
-        "question": "Beacon oluşturmak için ne gerekir?",
+        "question": "Hangi eşyanın üretim tarifi gösteriliyor?",
         "answers": [
-          "1 Nether Star, 3 obsidyen, 5 cam",
-          "1 Nether Star, 4 obsidyen, 4 cam",
-          "1 elmas, 3 obsidyen, 5 cam",
-          "3 Nether Star ve 6 cam"
+          "Fener",
+          "End Kristali",
+          "Büyü Masası",
+          "Diriltici"
         ]
       }
     },
@@ -3665,7 +3815,7 @@
     {
       "id": 143,
       "ru": {
-        "question": "Сколько книжных полок нужно для получения чар максимального уровеня?",
+        "question": "Сколько книжных полок нужно для получения чар максимального уровня?",
         "answers": [
           "15",
           "14",
@@ -3907,7 +4057,7 @@
       "ru": {
         "question": "Что происходит при убийстве Дракона Края первый раз?",
         "answers": [
-          "Появляется портал домой и Драконово яйцо",
+          "Появляется портал домой и Яйцо дракона",
           "Открывается финальный уровень",
           "Игра заканчивается",
           "Появляется портал в новое изменение"
@@ -4625,7 +4775,7 @@
     {
       "id": 175,
       "ru": {
-        "question": "Какая минимальная высота мира в Java Edition после 1.18?",
+        "question": "Какая минимальная высота мира в Java Edition после обновления 1.18?",
         "answers": [
           "-64",
           "-128",
@@ -4985,30 +5135,30 @@
     {
       "id": 198,
       "ru": {
-        "question": "Что нужно для крафтв кристалла Края?",
+        "question": "Крафт какого предмета изображен?",
         "answers": [
-          "7 стёкол, 1 эндер-глаз, 1 слеза гаста",
-          "7 обсидиана, 1 эндер-жемчуг",
-          "9 малых кристаллов края",
-          "4 кристалла квартца и 3 стекла"
+          "Кристалл Края",
+          "Маяк",
+          "Стол зачаровывания",
+          "Фонарь Края"
         ]
       },
       "en": {
-        "question": "What is needed to craft an End Crystal?",
+        "question": "Which item's crafting recipe is shown?",
         "answers": [
-          "7 glass, 1 Eye of Ender, 1 Ghast Tear",
-          "7 obsidian, 1 Ender Pearl",
-          "9 small end crystals",
-          "4 quartz crystals and 3 glass"
+          "End Crystal",
+          "Beacon",
+          "Enchanting Table",
+          "End Lantern"
         ]
       },
       "tr": {
-        "question": "End Crystal üretmek için ne gerekir?",
+        "question": "Hangi eşyanın üretim tarifi gösteriliyor?",
         "answers": [
-          "7 cam, 1 Eye of Ender, 1 Ghast Tear",
-          "7 obsidyen, 1 Ender Pearl",
-          "9 küçük End Crystal",
-          "4 kuvars kristali ve 3 cam"
+          "End Kristali",
+          "Fener",
+          "Büyü Masası",
+          "Bitiş Feneri"
         ]
       }
     },
@@ -5045,7 +5195,7 @@
     {
       "id": 201,
       "ru": {
-        "question": "Сколько слотов в шалкерном ящике?",
+        "question": "Сколько слотов в шалкеровом ящике?",
         "answers": [
           "27",
           "36",
@@ -5075,7 +5225,7 @@
     {
       "id": 225,
       "ru": {
-        "question": "Где можно найти навершие булавы?",
+        "question": "Где можно найти Навершие булавы?",
         "answers": [
           "В камерах испытаний",
           "В древнем городе",
@@ -5084,7 +5234,7 @@
         ]
       },
       "en": {
-        "question": "Where can you find a Mace head?",
+        "question": "Where can you find a Heavy Core?",
         "answers": [
           "In Trial Chambers",
           "In an Ancient City",
@@ -5093,7 +5243,7 @@
         ]
       },
       "tr": {
-        "question": "Mace'in başı nerede bulunabilir?",
+        "question": "Ağır Çekirdekler nerede bulunabilir?",
         "answers": [
           "Trial Chamber'larda",
           "Antik Şehir'de",
@@ -5153,12 +5303,162 @@
         ]
       },
       "tr": {
-        "question": "'Frost Walker' büyüsünün maksimum seviyesi nedir?",
+        "question": "Dondurucu Yürüyüş ('Frost Walker') büyüsünün maksimum seviyesi nedir?",
         "answers": [
           "II (2)",
           "I (1)",
           "III (3)",
           "IV (4)"
+        ]
+      }
+    },
+    {
+      "id": 271,
+      "ru": {
+        "question": "Крафт какого предмета изображен?",
+        "answers": [
+          "Наблюдатель",
+          "Редстоуновый повторитель",
+          "Выбрасыватель",
+          "Поршень"
+        ]
+      },
+      "en": {
+        "question": "Which item's crafting recipe is shown?",
+        "answers": [
+          "Observer",
+          "Redstone Repeater",
+          "Dropper",
+          "Piston"
+        ]
+      },
+      "tr": {
+        "question": "Hangi eşyanın üretim tarifi gösteriliyor?",
+        "answers": [
+          "Gözlemci",
+          "Redstone Yineleyicisi",
+          "Bırakıcı",
+          "Piston"
+        ]
+      }
+    },
+    {
+      "id": 272,
+      "ru": {
+        "question": "Крафт какого предмета изображен?",
+        "answers": [
+          "Нотный блок",
+          "Проигрыватель",
+          "Сундук-ловушка",
+          "Сборщик"
+        ]
+      },
+      "en": {
+        "question": "Which item's crafting recipe is shown?",
+        "answers": [
+          "Note Block",
+          "Jukebox",
+          "Trapped Chest",
+          "Crafter"
+        ]
+      },
+      "tr": {
+        "question": "Hangi eşyanın üretim tarifi gösteriliyor?",
+        "answers": [
+          "Nota Bloğu",
+          "Müzik Kutusu",
+          "Tuzaklı Sandık",
+          "Üretici"
+        ]
+      }
+    },
+    {
+      "id": 273,
+      "ru": {
+        "question": "Крафт какого предмета изображен?",
+        "answers": [
+          "Точило",
+          "Каменные ворота",
+          "Камнерез",
+          "Стол лучника"
+        ]
+      },
+      "en": {
+        "question": "Which item's crafting recipe is shown?",
+        "answers": [
+          "Grindstone",
+          "Stone Fence Gate",
+          "Stonecutter",
+          "Fletching Table"
+        ]
+      },
+      "tr": {
+        "question": "Hangi eşyanın üretim tarifi gösteriliyor?",
+        "answers": [
+          "Bileme Taşı",
+          "Taş Kapısı",
+          "Taş Yontma Makinesi",
+          "Okçu Masası"
+        ]
+      }
+    },
+    {
+      "id": 274,
+      "ru": {
+        "question": "Крафт какого предмета изображен?",
+        "answers": [
+          "Железный люк",
+          "Железная дверь",
+          "Железные прутья",
+          "Большегрузная весовая пластина"
+        ]
+      },
+      "en": {
+        "question": "Which item's crafting recipe is shown?",
+        "answers": [
+          "Iron Trapdoor",
+          "Iron Door",
+          "Iron Bars",
+          "Heavy Weighted Pressure Plate"
+        ]
+      },
+      "tr": {
+        "question": "Hangi eşyanın üretim tarifi gösteriliyor?",
+        "answers": [
+          "Demir Tuzak Kapısı",
+          "Demir Kapı",
+          "Demir Parmaklık",
+          "Sert Ağırlıklı Basınç Plakası"
+        ]
+      }
+    },
+    {
+      "id": 275,
+      "ru": {
+        "question": "Крафт какого предмета изображен?",
+        "answers": [
+          "Магнетит",
+          "Якорь возрождения",
+          "Поршень",
+          "Каменный сундук"
+        ]
+      },
+      "en": {
+        "question": "Which item's crafting recipe is shown?",
+        "answers": [
+          "Lodestone",
+          "Respawn Anchor",
+          "Piston",
+          "Stone Chest"
+        ]
+      },
+      "tr": {
+        "question": "Hangi eşyanın üretim tarifi gösteriliyor?",
+        "answers": [
+          "Manyetit",
+          "Diriltici",
+          "Piston",
+          "Taş Sandık"
         ]
       }
     }
@@ -5227,7 +5527,7 @@
     {
       "id": 189,
       "ru": {
-        "question": "С каким чарами несовместима чара Бич Членистоногих?",
+        "question": "С какими чарами несовместима чара Бич Членистоногих?",
         "answers": [
           "Небесная кара",
           "Добыча",
@@ -5527,7 +5827,7 @@
     {
       "id": 202,
       "ru": {
-        "question": "Что нужно для полного уровня 4 маяка?",
+        "question": "Что нужно для полного маяка 4 уровня?",
         "answers": [
           "Пирамида из 164 блоков",
           "Пирамида из 100 блоков",
@@ -5896,7 +6196,7 @@
         ]
       },
       "en": {
-        "question": "What is a Allay able to do?",
+        "question": "What is an Allay able to do?",
         "answers": [
           "It can carry and hand items to the player or throw them toward a note block",
           "It flies above the player and plays music",
@@ -6235,7 +6535,7 @@
         ]
       },
       "tr": {
-        "question": "Evoker nedir ve nerede ortaya çıkar?",
+        "question": "Uyandırıcı Çağırma nedir ve nerede ortaya çıkar?",
         "answers": [
           "Köşkte düşman bir illager yaratığı",
           "İksir satan bir köylü mesleği",
@@ -6575,6 +6875,36 @@
       }
     },
     {
+      "id": 251,
+      "ru": {
+        "question": "Какого моба не встретишь в Лесном особняке?",
+        "answers": [
+          "Разбойник",
+          "Вызыватель",
+          "Поборник",
+          "Тихоня"
+        ]
+      },
+      "en": {
+        "question": "Which mob will you not encounter in a Woodland Mansion?",
+        "answers": [
+          "Pillager",
+          "Evoker",
+          "Vindicator",
+          "Allay"
+        ]
+      },
+      "tr": {
+        "question": "Orman Köşkü'nde hangi yaratıkla karşılaşılmaz?",
+        "answers": [
+          "Yağmacı",
+          "Evoker",
+          "Kellekesen",
+          "Allay"
+        ]
+      }
+    },
+    {
       "id": 255,
       "ru": {
         "question": "Какой отделки для брони не существует?",
@@ -6635,6 +6965,36 @@
       }
     },
     {
+      "id": 263,
+      "ru": {
+        "question": "Как называется версия Minecraft, разработанная специально для образовательных учреждений?",
+        "answers": [
+          "Minecraft Education Edition",
+          "Minecraft School Edition",
+          "Minecraft Learning Edition",
+          "Minecraft Academic Edition"
+        ]
+      },
+      "en": {
+        "question": "What is the version of Minecraft developed specifically for educational institutions called?",
+        "answers": [
+          "Minecraft Education Edition",
+          "Minecraft School Edition",
+          "Minecraft Learning Edition",
+          "Minecraft Academic Edition"
+        ]
+      },
+      "tr": {
+        "question": "Özel olarak eğitim kurumları için geliştirilmiş Minecraft sürümü ne adla anılır?",
+        "answers": [
+          "Minecraft Education Edition",
+          "Minecraft School Edition",
+          "Minecraft Learning Edition",
+          "Minecraft Academic Edition"
+        ]
+      }
+    },
+    {
       "id": 264,
       "ru": {
         "question": "Как получить броню для волка?",
@@ -6685,7 +7045,7 @@
         ]
       },
       "tr": {
-        "question": "'Vex' zırh süslemesini çoğaltmak için hangi malzeme gerekir?",
+        "question": "'Sinirbozan' ('Vex') zırh süslemesini çoğaltmak için hangi malzeme gerekir?",
         "answers": [
           "Yontulmuş taş",
           "Terrakota",
@@ -6695,62 +7055,62 @@
       }
     },
     {
-      "id": 251,
+      "id": 269,
       "ru": {
-        "question": "Какого моба не встретишь в Лесном особняке?",
+        "question": "Крафт какого предмета изображен?",
         "answers": [
-          "Разбойник",
-          "Вызыватель",
-          "Поборник",
-          "Тихоня"
+          "Диорит",
+          "Андезит",
+          "Гранит",
+          "Кальцит"
         ]
       },
       "en": {
-        "question": "Which mob will you not encounter in a Woodland Mansion?",
+        "question": "Which item's crafting recipe is shown?",
         "answers": [
-          "Pillager",
-          "Evoker",
-          "Vindicator",
-          "Allay"
+          "Diorite",
+          "Andesite",
+          "Granite",
+          "Calcite"
         ]
       },
       "tr": {
-        "question": "Orman Köşkü'nde hangi yaratıkla karşılaşılmaz?",
+        "question": "Hangi eşyanın üretim tarifi gösteriliyor?",
         "answers": [
-          "Yağmacı",
-          "Evoker",
-          "Kellekesen",
-          "Allay"
+          "Diyorit",
+          "Andezit",
+          "Granit",
+          "Kireç Taşı"
         ]
       }
     },
     {
-      "id": 263,
+      "id": 270,
       "ru": {
-        "question": "Как называется версия Minecraft, разработанная специально для образовательных учреждений?",
+        "question": "Крафт какого предмета изображен?",
         "answers": [
-          "Minecraft Education Edition",
-          "Minecraft School Edition",
-          "Minecraft Learning Edition",
-          "Minecraft Academic Edition"
+          "Редстоуновый компаратор",
+          "Редстоуновый повторитель",
+          "Датчик дневного света",
+          "Сборщик"
         ]
       },
       "en": {
-        "question": "What is the version of Minecraft developed specifically for educational institutions called?",
+        "question": "Which item's crafting recipe is shown?",
         "answers": [
-          "Minecraft Education Edition",
-          "Minecraft School Edition",
-          "Minecraft Learning Edition",
-          "Minecraft Academic Edition"
+          "Redstone Comparator",
+          "Redstone Repeater",
+          "Daylight Detector",
+          "Crafter"
         ]
       },
       "tr": {
-        "question": "Özel olarak eğitim kurumları için geliştirilmiş Minecraft sürümü ne adla anılır?",
+        "question": "Hangi eşyanın üretim tarifi gösteriliyor?",
         "answers": [
-          "Minecraft Education Edition",
-          "Minecraft School Edition",
-          "Minecraft Learning Edition",
-          "Minecraft Academic Edition"
+          "Redstone Karşılaştırıcısı",
+          "Redstone Yineleyicisi",
+          "Gün Işığı Algılayıcı",
+          "Üretici"
         ]
       }
     }
@@ -6999,7 +7359,7 @@
     {
       "id": 245,
       "ru": {
-        "question": "В Java Edition есть особенность, из-за которой в измерении края в определенных координах не генерируются острова. Каких это координаты?",
+        "question": "В Java Edition есть особенность, из-за которой в измерении края в определенных координатах не генерируются острова. Каких это координаты?",
         "answers": [
           "Примерно от 370 000 до 525 000",
           "Примерно от 35 000 до 55 000",
@@ -7437,7 +7797,7 @@
         ]
       },
       "tr": {
-        "question": "Son Şehri'nde hangi zırh süslemesi bulunabilir?",
+        "question": "End Şehri'nde hangi zırh süslemesi bulunabilir?",
         "answers": [
           "Spire",
           "Silence",

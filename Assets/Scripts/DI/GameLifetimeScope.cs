@@ -29,6 +29,7 @@ public class GameLifetimeScope : LifetimeScope
 
         builder.Register<RewardedAD>(Lifetime.Singleton).AsSelf();
         builder.Register<SaveService>(Lifetime.Singleton);
+        builder.Register<QuestionImageService>(Lifetime.Singleton);
 
         builder.Register<GameStateData>(Lifetime.Singleton);
         builder.Register<GameStateFactory>(Lifetime.Singleton);

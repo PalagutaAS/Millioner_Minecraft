@@ -18,6 +18,7 @@ public class QuestionActiveState : IGameState
     private readonly HintPopupUI _hintPopupUI;
     private readonly RewardedAD _rewardedAD;
     private readonly QuestionBank _questionBank;
+    private readonly QuestionImageService _questionImageService;
     private readonly GameStateData _data;
     private readonly GameStateMachine _machine;
     private readonly LocalizationManager _localizationManager;
@@ -31,6 +32,7 @@ public class QuestionActiveState : IGameState
         HintPopupUI hintPopupUI,
         RewardedAD rewardedAD,
         QuestionBank questionBank,
+        QuestionImageService questionImageService,
         GameStateData data,
         GameStateMachine machine,
         LocalizationManager localizationManager)
@@ -43,6 +45,7 @@ public class QuestionActiveState : IGameState
         _hintPopupUI = hintPopupUI;
         _rewardedAD = rewardedAD;
         _questionBank = questionBank;
+        _questionImageService = questionImageService;
         _data = data;
         _machine = machine;
         _localizationManager = localizationManager;
@@ -51,7 +54,6 @@ public class QuestionActiveState : IGameState
 
     public UniTask Enter()
     {
-        
         ShowNextQuestion();
         _gameUI.ShowQuestionPanel();
         _gameUI.ResetAnswerHighlights();
@@ -163,6 +165,22 @@ public class QuestionActiveState : IGameState
         _gameUI.SetQuestionText(_data.CurrentQuestion.QuestionText);
         _gameUI.SetAnswers(_data.CurrentQuestion.ShuffledAnswers);
         _gameUI.ResetAnswerHighlights();
+        UpdateQuestionImage(_data.CurrentQuestion.Id).Forget();
+    }
+    
+    private async UniTaskVoid UpdateQuestionImage(int questionId)
+    {
+        _gameUI.HideQuestionImage();
+
+        Sprite sprite = await _questionImageService.LoadSpriteAsync(questionId);
+
+        if (_data.CurrentQuestion == null || _data.CurrentQuestion.Id != questionId)
+            return;
+
+        if (sprite == null)
+            return;
+
+        _gameUI.ShowQuestionImage(sprite);
     }
 
     private string GetCategoryForQuestion(int questionNumber)
@@ -269,6 +287,7 @@ public class QuestionActiveState : IGameState
         _gameUI.SetAnswers(_data.CurrentQuestion.ShuffledAnswers[0], _data.CurrentQuestion.ShuffledAnswers[1], _data.CurrentQuestion.ShuffledAnswers[2]);
         _gameUI.ShowAnswerButtons(3);
         _gameUI.ResetAnswerHighlights();
+        UpdateQuestionImage(_data.CurrentQuestion.Id).Forget();
         UpdateHintButtons();
         SaveProgress();
     }

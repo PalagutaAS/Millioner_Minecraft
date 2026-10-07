@@ -13,6 +13,7 @@ public class GameStateFactory
     private readonly HintPopupUI _hintPopupUI;
     private readonly RewardedAD _rewardedAD;
     private readonly QuestionBankHolder _questionBankHolder;
+    private readonly QuestionImageService _questionImageService;
     private readonly MenuUI _menuUI;
 
     public GameStateFactory(
@@ -25,6 +26,7 @@ public class GameStateFactory
         HintPopupUI hintPopupUI,
         RewardedAD rewardedAD,
         QuestionBankHolder questionBankHolder,
+        QuestionImageService questionImageService,
         MenuUI menuUI)
     {
         _gameUI = gameUI;
@@ -36,6 +38,7 @@ public class GameStateFactory
         _hintPopupUI = hintPopupUI;
         _rewardedAD = rewardedAD;
         _questionBankHolder = questionBankHolder;
+        _questionImageService = questionImageService;
         _menuUI = menuUI;
     }
 
@@ -46,7 +49,7 @@ public class GameStateFactory
             new IdleState(_menuUI),
             new IntroState(_gameUI, _audioManager, _config, _saveService, _data, machine, _prizeLadder),
             new QuestionActiveState(_gameUI, _audioManager, _config, _saveService, _prizeLadder,
-                _hintPopupUI, _rewardedAD, _questionBankHolder.CurrentBank, _data, machine, localizationManager),
+                _hintPopupUI, _rewardedAD, _questionBankHolder.CurrentBank, _questionImageService, _data, machine, localizationManager),
             new AnswerLockedState(_gameUI, _audioManager, _config, _data, _saveService, machine),
             new GameOverState(_gameUI, _config, _data, machine),
             new GameWonState(_gameUI, _config, _saveService, _data, machine)

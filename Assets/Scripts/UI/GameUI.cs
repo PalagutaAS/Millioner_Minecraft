@@ -16,6 +16,7 @@ public class GameUI : MonoBehaviour
 
     [Header("Question")]
     [SerializeField] private TextMeshProUGUI _questionText;
+    [SerializeField] private QuestionImageUI _questionImage;
 
     [Header("Answers")]
     [SerializeField] private DefaultColorApplier[] _answerButtons;
@@ -99,6 +100,10 @@ public class GameUI : MonoBehaviour
     }
     
     public void SetQuestionText(string text) => _questionText.text = text;
+
+    public void ShowQuestionImage(Sprite sprite) => _questionImage?.Show(sprite);
+
+    public void HideQuestionImage() => _questionImage?.Hide();
 
     public void SetAnswers(params string[] answers)
     {
