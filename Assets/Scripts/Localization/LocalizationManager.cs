@@ -107,7 +107,7 @@ namespace Localization
                 }
             }
             
-            Debug.Log($"Loaded {translations.Count} regular keys, {_variantTranslations.Count} variant keys");
+            //Debug.Log($"Loaded {translations.Count} regular keys, {_variantTranslations.Count} variant keys");
         }
         
         /// <summary>
@@ -236,7 +236,7 @@ namespace Localization
                 Debug.LogWarning($"Key '{key}' not found in translations");
             }
         
-            return key; // Возвращаем ключ как fallback
+            return key;
         }
         
         /// <summary>

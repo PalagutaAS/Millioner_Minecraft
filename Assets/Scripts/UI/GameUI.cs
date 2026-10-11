@@ -21,13 +21,14 @@ public class GameUI : MonoBehaviour
     [Header("Answers")]
     [SerializeField] private DefaultColorApplier[] _answerButtons;
     [SerializeField] private TextMeshProUGUI[] _answerTexts;
+    
     [Header("Hints")]
     [SerializeField] private HintButton _fiftyFifty;
     [SerializeField] private HintButton _audienceHelp;
     [SerializeField] private HintButton _phoneFriend;
     [SerializeField] private HintButton _replaceQuestion;
 
-    [Header("Result Test")]
+    [Header("Result Text")]
     [SerializeField] private TMP_Text _resultEndGameText;
 
     public event Action<int> OnAnswerClicked;

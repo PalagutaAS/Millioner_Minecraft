@@ -1743,30 +1743,30 @@
     {
       "id": 70,
       "ru": {
-        "question": "Как называется дерево в болотном биоме?",
+        "question": "Сколько бывает видов лягушек?",
         "answers": [
-          "Мангровое дерево",
-          "Дуб",
-          "Ель",
-          "Тёмный дуб"
+          "3",
+          "2",
+          "4",
+          "5"
         ]
       },
       "en": {
-        "question": "What is the tree in the swamp biome called?",
+        "question": "How many types of frogs are there?",
         "answers": [
-          "Mangrove",
-          "Oak",
-          "Spruce",
-          "Dark Oak"
+          "3",
+          "2",
+          "4",
+          "5"
         ]
       },
       "tr": {
-        "question": "Bataklık biyomundaki ağaç ne adla anılır?",
+        "question": "Kaç çeşit kurbağa vardır?",
         "answers": [
-          "Mangrov",
-          "Meşe",
-          "Ladin",
-          "Koyu Meşe"
+          "3",
+          "2",
+          "4",
+          "5"
         ]
       }
     },

@@ -9,10 +9,10 @@ using Random = UnityEngine.Random;
 
 public class LoadingEntryPoint : IInitializable
 {
-    private LoadingUI _loadingUI;
-    private IQuestionBankCreationService _questionBankCreationService;
-    private ISceneLoader _sceneLoader;
-    private ITranslationLoaderService _translationLoaderService;
+    private readonly LoadingUI _loadingUI;
+    private readonly IQuestionBankCreationService _questionBankCreationService;
+    private readonly ISceneLoader _sceneLoader;
+    private readonly ITranslationLoaderService _translationLoaderService;
 
     private const string MainSceneAddress = "Main";
 
@@ -72,7 +72,7 @@ public class LoadingEntryPoint : IInitializable
     
     private async UniTask FakeLoadAsync()
     {
-        float totalMoveDuration = 0.2f;
+        float totalMoveDuration = 0.1f;
         
         float p1 = Random.Range(0.10f, 0.30f);
         float p2 = Random.Range(0.45f, 0.60f);

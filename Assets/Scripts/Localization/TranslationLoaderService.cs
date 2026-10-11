@@ -25,7 +25,6 @@ namespace Localization
                 {
                     _csvText = handle.Result.text;
                     _isLoaded = true;
-                    Debug.Log($"Переводы успешно загружены из Addressables: {address}");
                     Addressables.Release(handle);
                 }
                 else
